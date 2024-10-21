@@ -291,19 +291,19 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <object placeholders="1" c4Description="" label="&lt;b style=&quot;font-size: 12px;&quot;&gt;%c4Name%&lt;/b&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;[%c4Type%]&lt;/div&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;%c4Description%&lt;/div&gt;" c4Name="Azure Files" c4Type="Data Storage" link="data:page/id,gqWblNubQF4karUzQvhE" id="Imv_glTIESQCDlNJRr-f-1">
-          <mxCell style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#438DD5;fontSize=12;fontColor=#fffffb;align=center;strokeColor=#3C7FC0;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};verticalAlign=top;" vertex="1" parent="1">
-            <mxGeometry x="30" y="20" width="1080" height="710" as="geometry" />
+        <object placeholders="1" c4Description="" label="&lt;b style=&quot;font-size: 20px;&quot;&gt;%c4Name%&lt;/b&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;[%c4Type%]&lt;/div&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;%c4Description%&lt;/div&gt;" c4Name="Azure Files" c4Type="Data Storage" link="data:page/id,gqWblNubQF4karUzQvhE" id="Imv_glTIESQCDlNJRr-f-1">
+          <mxCell style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#438DD5;fontSize=20;fontColor=#fffffb;align=center;strokeColor=#3C7FC0;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};verticalAlign=top;horizontal=1;" vertex="1" parent="1">
+            <mxGeometry x="120" y="40" width="920" height="580" as="geometry" />
           </mxCell>
         </object>
         <UserObject label="Lokal tilgang og versjonering" link="https://azure.microsoft.com/en-us/blog/wp-content/uploads/2018/03/fdea3163-8d14-4b2d-955d-d23c67840c1b.webp" id="vzfJ8pl3A3ixBIJexj0w-1">
-          <mxCell style="fontColor=#ffffff;fontStyle=1;rounded=1;overflow=hidden;spacing=10;align=left;strokeColor=none;labelBackgroundColor=#438dd5;fillColor=#438dd5;" vertex="1" parent="1">
-            <mxGeometry x="130" y="130" width="400" height="40" as="geometry" />
+          <mxCell style="fontColor=#ffffff;fontStyle=1;rounded=1;overflow=hidden;spacing=10;align=left;strokeColor=none;labelBackgroundColor=#438dd5;fillColor=#438dd5;fontSize=14;" vertex="1" parent="1">
+            <mxGeometry x="180" y="160" width="400" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Logging" link="https://learn.microsoft.com/en-us/azure/storage/files/storage-files-monitoring-reference#resource-logs" id="yWEnKdVxSoRIlGpY7TuQ-1">
-          <mxCell style="fontColor=#fffffb;fontStyle=1;rounded=1;overflow=hidden;spacing=10;align=left;strokeColor=none;labelBorderColor=none;fillColor=#438dd5;" vertex="1" parent="1">
-            <mxGeometry x="130" y="200" width="400" height="40" as="geometry" />
+          <mxCell style="fontColor=#fffffb;fontStyle=1;rounded=1;overflow=hidden;spacing=10;align=left;strokeColor=none;labelBorderColor=none;fillColor=#438dd5;fontSize=14;" vertex="1" parent="1">
+            <mxGeometry x="180" y="200" width="400" height="40" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
