@@ -292,12 +292,12 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <UserObject label="Lokal tilgang og versjonering" link="https://azure.microsoft.com/en-us/blog/wp-content/uploads/2018/03/fdea3163-8d14-4b2d-955d-d23c67840c1b.webp" id="vzfJ8pl3A3ixBIJexj0w-1">
-          <mxCell style="fontColor=#000000;fontStyle=5;rounded=1;overflow=hidden;spacing=10;align=left;strokeColor=none;" vertex="1" parent="1">
+          <mxCell style="fontColor=#000000;fontStyle=1;rounded=1;overflow=hidden;spacing=10;align=left;strokeColor=none;" vertex="1" parent="1">
             <mxGeometry x="40" y="40" width="180" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Logging" link="https://learn.microsoft.com/en-us/azure/storage/files/storage-files-monitoring-reference#resource-logs" id="yWEnKdVxSoRIlGpY7TuQ-1">
-          <mxCell style="fontColor=default;fontStyle=5;rounded=1;overflow=hidden;spacing=10;align=left;strokeColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxCell style="fontColor=default;fontStyle=1;rounded=1;overflow=hidden;spacing=10;align=left;strokeColor=none;labelBorderColor=none;" vertex="1" parent="1">
             <mxGeometry x="40" y="90" width="180" height="40" as="geometry" />
           </mxCell>
         </UserObject>
