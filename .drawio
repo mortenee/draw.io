@@ -296,6 +296,11 @@
             <mxGeometry x="40" y="40" width="180" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+        <UserObject label="Logging" link="https://learn.microsoft.com/en-us/azure/storage/files/storage-files-monitoring-reference#resource-logs" id="yWEnKdVxSoRIlGpY7TuQ-1">
+          <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;align=left;" vertex="1" parent="1">
+            <mxGeometry x="40" y="90" width="180" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
