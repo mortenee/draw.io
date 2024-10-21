@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.8.0" pages="8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.8.0" pages="9">
   <diagram id="zNMGI6wU0Mi8Qe2H5Q59" name="Dataflyt inn">
     <mxGraphModel dx="1434" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -57,12 +57,12 @@
             <mxGeometry x="200" y="260" width="160" height="100" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Ny kt.no" c4Type="Frontend" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" link="https://konkurransetilsynet.sharepoint.com/sites/Seksjonforinformasjonsforvaltning/SitePages/p360.aspx#avansert-s%C3%B8k-1" id="5p-e-0pEdj6wU1898hby-13">
+        <object placeholders="1" c4Name="Ny kt.no" c4Type="Frontend" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" link="data:page/id,KBZA_GLIqCq3Hr5ouC0Q" id="5p-e-0pEdj6wU1898hby-13">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#1168BD;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="200" y="140" width="160" height="100" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="FTK Lab" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="5p-e-0pEdj6wU1898hby-16">
+        <object placeholders="1" c4Name="FTK Lab" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" link="data:page/id,da4WMFDRyzKGSwZyCBPs" id="5p-e-0pEdj6wU1898hby-16">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d80073;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#A50040;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="200" y="380" width="160" height="100" as="geometry" />
           </mxCell>
@@ -105,12 +105,12 @@
             <mxGeometry x="430" y="330" width="160" height="105" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="FTK intern sone" c4Type="Software System" c4Description="FTK " label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="lhokiOedD1wRkCvFBzF--2">
+        <object placeholders="1" c4Name="FTK intern sone" c4Type="Software System" c4Description="FTK " label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" link="data:page/id,da4WMFDRyzKGSwZyCBPs" id="lhokiOedD1wRkCvFBzF--2">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#fad9d5;align=center;arcSize=10;strokeColor=#ae4132;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="650" y="380" width="160" height="100" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Description="" label="&lt;b style=&quot;font-size: 12px;&quot;&gt;%c4Name%&lt;/b&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;[%c4Type%]&lt;/div&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;%c4Description%&lt;/div&gt;" c4Name="Sharepoint/Teams" c4Type="Data Storage" id="lhokiOedD1wRkCvFBzF--3">
+        <object placeholders="1" c4Description="" label="&lt;b style=&quot;font-size: 12px;&quot;&gt;%c4Name%&lt;/b&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;[%c4Type%]&lt;/div&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;%c4Description%&lt;/div&gt;" c4Name="Sharepoint/Teams" c4Type="Data Storage" link="data:page/id,rXMBJQsD9wPTN60wKnSM" id="lhokiOedD1wRkCvFBzF--3">
           <mxCell style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#438DD5;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#3C7FC0;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" parent="1" vertex="1">
             <mxGeometry x="430" y="60" width="160" height="105" as="geometry" />
           </mxCell>
@@ -151,7 +151,7 @@
             <mxGeometry x="10" y="380" width="70" height="80" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="MLP" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="lhokiOedD1wRkCvFBzF--23">
+        <object placeholders="1" c4Name="MLP" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" link="data:page/id,0wcvV2fvpvfQFUzSbVlZ" id="lhokiOedD1wRkCvFBzF--23">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#fad9d5;align=center;arcSize=10;strokeColor=#ae4132;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="650" y="260" width="160" height="100" as="geometry" />
           </mxCell>
@@ -312,6 +312,14 @@
             <mxGeometry x="180" y="200" width="400" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="rXMBJQsD9wPTN60wKnSM" name="MS365">
+    <mxGraphModel dx="1434" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
