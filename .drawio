@@ -292,8 +292,8 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <UserObject label="Lokal tilgang og versjonering" link="https://azure.microsoft.com/en-us/blog/wp-content/uploads/2018/03/fdea3163-8d14-4b2d-955d-d23c67840c1b.webp" id="vzfJ8pl3A3ixBIJexj0w-1">
-          <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" vertex="1" parent="1">
-            <mxGeometry x="260" y="410" width="300" height="40" as="geometry" />
+          <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;align=left;" vertex="1" parent="1">
+            <mxGeometry x="40" y="40" width="180" height="40" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
