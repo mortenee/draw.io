@@ -57,7 +57,7 @@
             <mxGeometry x="200" y="260" width="160" height="100" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Ny kt.no" c4Type="Frontend" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" link="data:page/id,KBZA_GLIqCq3Hr5ouC0Q" tooltip="- Må bytte ut Tieto! Kan ikke i lengen leve med en leverandør med:&#xa;    - Dårlig support&#xa;    - Alt defineres som fakturerbart oppdrag&#xa;    - Manglende kompetanse&#xa;    - Mangelfull dokumentasjon&#xa;    - Får ikke kontakt" id="5p-e-0pEdj6wU1898hby-13">
+        <object placeholders="1" c4Name="Ny kt.no" c4Type="Frontend" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" link="data:page/id,KBZA_GLIqCq3Hr5ouC0Q" tooltip="Konkurransetilsynets eksterne nettside" id="5p-e-0pEdj6wU1898hby-13">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#1168BD;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="200" y="140" width="160" height="100" as="geometry" />
           </mxCell>
