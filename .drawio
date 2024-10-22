@@ -100,7 +100,7 @@
             <mxPoint x="79" y="350" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <object placeholders="1" c4Description="" label="&lt;b style=&quot;font-size: 12px;&quot;&gt;%c4Name%&lt;/b&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;[%c4Type%]&lt;/div&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;%c4Description%&lt;/div&gt;" c4Name="Azure Files" c4Type="Data Storage" link="data:page/id,gqWblNubQF4karUzQvhE" id="lhokiOedD1wRkCvFBzF--1">
+        <object placeholders="1" c4Description="" label="&lt;b style=&quot;font-size: 12px;&quot;&gt;%c4Name%&lt;/b&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;[%c4Type%]&lt;/div&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;%c4Description%&lt;/div&gt;" c4Name="Azure Files" c4Type="Data Storage" link="data:page/id,gqWblNubQF4karUzQvhE" tooltip="Azure Files med Azure File Sync" id="lhokiOedD1wRkCvFBzF--1">
           <mxCell style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#438DD5;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#3C7FC0;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" parent="1" vertex="1">
             <mxGeometry x="430" y="330" width="160" height="105" as="geometry" />
           </mxCell>
@@ -110,12 +110,12 @@
             <mxGeometry x="650" y="380" width="160" height="100" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Description="" label="&lt;b style=&quot;font-size: 12px;&quot;&gt;%c4Name%&lt;/b&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;[%c4Type%]&lt;/div&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;%c4Description%&lt;/div&gt;" c4Name="Sharepoint/Teams" c4Type="Data Storage" link="data:page/id,rXMBJQsD9wPTN60wKnSM" id="lhokiOedD1wRkCvFBzF--3">
+        <object placeholders="1" c4Description="" label="&lt;b style=&quot;font-size: 12px;&quot;&gt;%c4Name%&lt;/b&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;[%c4Type%]&lt;/div&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;%c4Description%&lt;/div&gt;" c4Name="Sharepoint/Teams" c4Type="Data Storage" link="data:page/id,rXMBJQsD9wPTN60wKnSM" tooltip="Saksbehandlernes brukergrensesnitt" id="lhokiOedD1wRkCvFBzF--3">
           <mxCell style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#438DD5;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#3C7FC0;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" parent="1" vertex="1">
             <mxGeometry x="430" y="60" width="160" height="105" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Description="" label="&lt;b style=&quot;font-size: 12px;&quot;&gt;%c4Name%&lt;/b&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;[%c4Type%]&lt;/div&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;%c4Description%&lt;/div&gt;" c4Name="Nytt journalføringssystem" c4Type="Data Storage" link="data:page/id,SF045wSuWdy3ESht9sIM" id="lhokiOedD1wRkCvFBzF--4">
+        <object placeholders="1" c4Description="" label="&lt;b style=&quot;font-size: 12px;&quot;&gt;%c4Name%&lt;/b&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;[%c4Type%]&lt;/div&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;%c4Description%&lt;/div&gt;" c4Name="Nytt journalføringssystem" c4Type="Data Storage" link="data:page/id,SF045wSuWdy3ESht9sIM" tooltip="Frittstående arkivkjerne med brukergrensesnitt for kun arkivarer og administrator" id="lhokiOedD1wRkCvFBzF--4">
           <mxCell style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#438DD5;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#3C7FC0;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" parent="1" vertex="1">
             <mxGeometry x="430" y="220" width="160" height="105" as="geometry" />
           </mxCell>
