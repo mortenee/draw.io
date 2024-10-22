@@ -194,46 +194,49 @@
     </mxGraphModel>
   </diagram>
   <diagram id="riFty9M_1o9Zjc9zv7YC" name="Postmottak">
-    <mxGraphModel dx="794" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="757" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <object placeholders="1" c4Name="Postmottak" c4Type="Email" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" linkTarget="_blank" id="NI2p3W5VeMO1QB1sqK2y-1">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#1168BD;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#1168BD;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="50" y="20" width="200" height="130" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="mGO7eOiadIEQ92DnjqK7-11" value="Registrer" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rounded=0;strokeColor=#3C7FC0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#ffffff;labelBackgroundColor=none;fillColor=#438DD5;" vertex="1" parent="1">
+        <mxCell id="mGO7eOiadIEQ92DnjqK7-11" value="Registrer" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rounded=0;strokeColor=#3C7FC0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#ffffff;labelBackgroundColor=none;fillColor=#438DD5;" parent="1" vertex="1">
           <mxGeometry x="110" y="120" width="90" height="57" as="geometry" />
         </mxCell>
         <UserObject label="Kategoriser" link="https://konkurransetilsynet.sharepoint.com/sites/Seksjonforinformasjonsforvaltning/Lists/Kategorier/iAlle.aspx" id="mGO7eOiadIEQ92DnjqK7-10">
-          <mxCell style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rounded=0;strokeColor=#3C7FC0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#ffffff;labelBackgroundColor=none;fillColor=#438DD5;" vertex="1" parent="1">
+          <mxCell style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rounded=0;strokeColor=#3C7FC0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#ffffff;labelBackgroundColor=none;fillColor=#438DD5;" parent="1" vertex="1">
             <mxGeometry x="20" y="120" width="100" height="57" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="nu5fpGSwFrHRFY26u5ok-2" value="Fordel" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rounded=0;strokeColor=#3C7FC0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#ffffff;labelBackgroundColor=none;fillColor=#438DD5;" vertex="1" parent="1">
+        <mxCell id="nu5fpGSwFrHRFY26u5ok-2" value="Fordel" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rounded=0;strokeColor=#3C7FC0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#ffffff;labelBackgroundColor=none;fillColor=#438DD5;" parent="1" vertex="1">
           <mxGeometry x="190" y="120" width="90" height="57" as="geometry" />
         </mxCell>
         <object placeholders="1" c4Name="Sharepoint/Teams" c4Type="Frontend" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="9iSTdxROCRiE8NJcCSrG-3">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#1168BD;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#1168BD;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="400" y="100" width="280" height="130" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Saksbehandler" c4Type="Email" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" linkTarget="_blank" id="9iSTdxROCRiE8NJcCSrG-4">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#1168BD;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#1168BD;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="50" y="200" width="280" height="130" as="geometry" />
           </mxCell>
         </object>
         <UserObject label="Kategoriser" link="https://konkurransetilsynet.sharepoint.com/sites/Seksjonforinformasjonsforvaltning/Lists/Kategorier/iAlle.aspx" id="9iSTdxROCRiE8NJcCSrG-5">
-          <mxCell style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rounded=0;strokeColor=#3C7FC0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;labelBackgroundColor=none;fillColor=#438DD5;" vertex="1" parent="1">
+          <mxCell style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rounded=0;strokeColor=#3C7FC0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;labelBackgroundColor=none;fillColor=#438DD5;" parent="1" vertex="1">
             <mxGeometry x="20" y="300" width="110" height="57" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="9iSTdxROCRiE8NJcCSrG-6" value="Registrer" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rounded=0;strokeColor=#3C7FC0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;labelBackgroundColor=none;fillColor=#438DD5;" vertex="1" parent="1">
+        <mxCell id="9iSTdxROCRiE8NJcCSrG-6" value="Registrer" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rounded=0;strokeColor=#3C7FC0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;labelBackgroundColor=none;fillColor=#438DD5;" parent="1" vertex="1">
           <mxGeometry x="120" y="300" width="130" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="9iSTdxROCRiE8NJcCSrG-7" value="Fordel" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rounded=0;strokeColor=#3C7FC0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;labelBackgroundColor=none;fillColor=#438DD5;" vertex="1" parent="1">
+        <mxCell id="9iSTdxROCRiE8NJcCSrG-7" value="Fordel" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rounded=0;strokeColor=#3C7FC0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;labelBackgroundColor=none;fillColor=#438DD5;" parent="1" vertex="1">
           <mxGeometry x="240" y="300" width="130" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="nFEYAGaC6bcAqJXschdB-1" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.redshift_ml;" vertex="1" parent="1">
+          <mxGeometry x="130" y="230" width="78" height="78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
