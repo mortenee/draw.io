@@ -200,94 +200,109 @@
         <mxCell id="1" parent="0" />
         <object placeholders="1" c4Name="Postmottak" c4Type="Email" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" linkTarget="_blank" id="NI2p3W5VeMO1QB1sqK2y-1">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#1168BD;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
-            <mxGeometry x="50" y="20" width="200" height="130" as="geometry" />
+            <mxGeometry x="20" y="40" width="130" height="60" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="mGO7eOiadIEQ92DnjqK7-11" value="Registrer" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rounded=0;strokeColor=#3C7FC0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#ffffff;labelBackgroundColor=none;fillColor=#438DD5;" parent="1" vertex="1">
-          <mxGeometry x="110" y="120" width="90" height="57" as="geometry" />
-        </mxCell>
-        <UserObject label="Kategoriser" link="https://konkurransetilsynet.sharepoint.com/sites/Seksjonforinformasjonsforvaltning/Lists/Kategorier/iAlle.aspx" id="mGO7eOiadIEQ92DnjqK7-10">
-          <mxCell style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rounded=0;strokeColor=#3C7FC0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#ffffff;labelBackgroundColor=none;fillColor=#438DD5;" parent="1" vertex="1">
-            <mxGeometry x="20" y="120" width="100" height="57" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="nu5fpGSwFrHRFY26u5ok-2" value="Fordel" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rounded=0;strokeColor=#3C7FC0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#ffffff;labelBackgroundColor=none;fillColor=#438DD5;" parent="1" vertex="1">
-          <mxGeometry x="190" y="120" width="90" height="57" as="geometry" />
-        </mxCell>
-        <object placeholders="1" c4Name="Sharepoint/Teams" c4Type="Frontend" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="9iSTdxROCRiE8NJcCSrG-3">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#1168BD;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
-            <mxGeometry y="430" width="280" height="130" as="geometry" />
-          </mxCell>
-        </object>
-        <object placeholders="1" c4Name="Saksbehandler" c4Type="Email" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" linkTarget="_blank" id="9iSTdxROCRiE8NJcCSrG-4">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#1168BD;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
-            <mxGeometry x="140" y="507" width="280" height="130" as="geometry" />
-          </mxCell>
-        </object>
-        <UserObject label="Kategoriser" link="https://konkurransetilsynet.sharepoint.com/sites/Seksjonforinformasjonsforvaltning/Lists/Kategorier/iAlle.aspx" id="9iSTdxROCRiE8NJcCSrG-5">
-          <mxCell style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rounded=0;strokeColor=#3C7FC0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;labelBackgroundColor=none;fillColor=#438DD5;" parent="1" vertex="1">
-            <mxGeometry x="20" y="450" width="110" height="57" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="9iSTdxROCRiE8NJcCSrG-6" value="Registrer" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rounded=0;strokeColor=#3C7FC0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;labelBackgroundColor=none;fillColor=#438DD5;" parent="1" vertex="1">
-          <mxGeometry x="70" y="466.5" width="130" height="57" as="geometry" />
-        </mxCell>
-        <mxCell id="9iSTdxROCRiE8NJcCSrG-7" value="Fordel" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rounded=0;strokeColor=#3C7FC0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;labelBackgroundColor=none;fillColor=#438DD5;" parent="1" vertex="1">
-          <mxGeometry x="104" y="466.5" width="130" height="57" as="geometry" />
-        </mxCell>
-        <mxCell id="xCSfhaLp2Q9O3egV-59d-12" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="1" source="xCSfhaLp2Q9O3egV-59d-13" target="xCSfhaLp2Q9O3egV-59d-16">
-          <mxGeometry x="340" y="120" as="geometry" />
-        </mxCell>
-        <object label="Lamp doesn&#39;t work" Condition="Lamp does not produce light." id="xCSfhaLp2Q9O3egV-59d-13">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;plain-red;glass=1;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-            <mxGeometry x="290" y="90" width="120" height="40" as="geometry" />
-          </mxCell>
-        </object>
-        <mxCell id="xCSfhaLp2Q9O3egV-59d-14" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="1" source="xCSfhaLp2Q9O3egV-59d-16" target="xCSfhaLp2Q9O3egV-59d-20">
+        <mxCell id="xCSfhaLp2Q9O3egV-59d-14" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="1" source="xCSfhaLp2Q9O3egV-59d-16">
           <mxGeometry x="340" y="250" as="geometry">
             <mxPoint as="offset" />
+            <mxPoint x="350" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xCSfhaLp2Q9O3egV-59d-15" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="1" source="xCSfhaLp2Q9O3egV-59d-16" target="xCSfhaLp2Q9O3egV-59d-17">
+        <mxCell id="xCSfhaLp2Q9O3egV-59d-15" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="1" target="xCSfhaLp2Q9O3egV-59d-17">
           <mxGeometry x="390" y="210" as="geometry">
             <mxPoint as="offset" />
+            <mxPoint x="400" y="220" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <object label="Lamp&lt;br&gt;plugged in?" Condition="Lamp connected to power outlet?" id="xCSfhaLp2Q9O3egV-59d-16">
-          <mxCell style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#D6B656;strokeWidth=1;fillColor=#FFF2CC;gradientColor=#FFD966;spacing=6;spacingTop=-4;" vertex="1" parent="1">
-            <mxGeometry x="300" y="180" width="100" height="80" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="Plug in lamp" Action="Connect lamp to power outlet." id="xCSfhaLp2Q9O3egV-59d-17">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;plain-green;glass=1;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-            <mxGeometry x="450" y="200" width="120" height="40" as="geometry" />
-          </mxCell>
-        </object>
-        <mxCell id="xCSfhaLp2Q9O3egV-59d-18" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="1" source="xCSfhaLp2Q9O3egV-59d-20" target="xCSfhaLp2Q9O3egV-59d-21">
-          <mxGeometry x="340" y="370" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xCSfhaLp2Q9O3egV-59d-19" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="1" source="xCSfhaLp2Q9O3egV-59d-20" target="xCSfhaLp2Q9O3egV-59d-22">
+        <mxCell id="xCSfhaLp2Q9O3egV-59d-19" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="1" target="xCSfhaLp2Q9O3egV-59d-22">
           <mxGeometry x="390" y="330" as="geometry">
             <mxPoint as="offset" />
+            <mxPoint x="400" y="340" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <object label="Bulb&lt;br&gt;burned out?" Condition="Check if bulb is broken." id="xCSfhaLp2Q9O3egV-59d-20">
-          <mxCell style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#D6B656;strokeWidth=1;fillColor=#FFF2CC;gradientColor=#FFD966;spacing=6;spacingTop=-4;" vertex="1" parent="1">
-            <mxGeometry x="300" y="300" width="100" height="80" as="geometry" />
+        <mxCell id="sDh-2Osx3zRGAHq1NDjN-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="sDh-2Osx3zRGAHq1NDjN-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="240" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sDh-2Osx3zRGAHq1NDjN-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="sDh-2Osx3zRGAHq1NDjN-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="240" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sDh-2Osx3zRGAHq1NDjN-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="sDh-2Osx3zRGAHq1NDjN-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="440" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sKABNgXzZgm3t2b2FU51-1" value="journalføringspliktig?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="180" y="20" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="sKABNgXzZgm3t2b2FU51-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#707070;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#707070;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="NI2p3W5VeMO1QB1sqK2y-1" target="sKABNgXzZgm3t2b2FU51-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="70" as="sourcePoint" />
+            <mxPoint x="170" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Description="" label="&lt;b style=&quot;font-size: 12px;&quot;&gt;%c4Name%&lt;/b&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;[%c4Type%]&lt;/div&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;%c4Description%&lt;/div&gt;" c4Name="Nytt journalføringssystem" c4Type="Data Storage" link="data:page/id,SF045wSuWdy3ESht9sIM" tooltip="Frittstående arkivkjerne med brukergrensesnitt for kun arkivarer og administrator" id="ARYC5Qvcb6XV4YHYZ091-1">
+          <mxCell style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#438DD5;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#3C7FC0;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1" parent="1">
+            <mxGeometry x="180" y="260" width="130" height="60" as="geometry" />
           </mxCell>
         </object>
-        <object label="Repair Lamp" Action="Repair other parts of lamp." id="xCSfhaLp2Q9O3egV-59d-21">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;plain-green;glass=1;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-            <mxGeometry x="290" y="420" width="120" height="40" as="geometry" />
+        <object placeholders="1" c4Description="" label="&lt;b style=&quot;font-size: 12px;&quot;&gt;%c4Name%&lt;/b&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;[%c4Type%]&lt;/div&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;%c4Description%&lt;/div&gt;" c4Name="Sharepoint/Teams" c4Type="Data Storage" link="data:page/id,rXMBJQsD9wPTN60wKnSM" tooltip="Saksbehandlernes brukergrensesnitt" id="u9A8sVjy4O4BTkavaI1W-1">
+          <mxCell style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#438DD5;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#3C7FC0;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1" parent="1">
+            <mxGeometry x="190" y="160" width="290" height="60" as="geometry" />
           </mxCell>
         </object>
-        <object label="Replace Bulb" Action="Get new bulb and replace existing bulb." id="xCSfhaLp2Q9O3egV-59d-22">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;plain-green;glass=1;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-            <mxGeometry x="450" y="320" width="120" height="40" as="geometry" />
+        <object placeholders="1" c4Name="Saksbehandler" c4Type="Email" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" linkTarget="_blank" id="2TS-cLuS4wbk6AotrT8f-2">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#1168BD;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="670" y="40" width="130" height="60" as="geometry" />
           </mxCell>
         </object>
+        <mxCell id="zyApMctIktEo1dBbrn69-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#707070;labelBackgroundColor=default;endArrow=classic;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sKABNgXzZgm3t2b2FU51-1" target="zyApMctIktEo1dBbrn69-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="69.5" as="sourcePoint" />
+            <mxPoint x="330" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zyApMctIktEo1dBbrn69-4" value="bevaringsverdig?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="360" y="20" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zyApMctIktEo1dBbrn69-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#707070;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="244.25" y="120" as="sourcePoint" />
+            <mxPoint x="244.25" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="244.75" y="141" />
+              <mxPoint x="245.75" y="141" />
+              <mxPoint x="245.75" y="140" />
+              <mxPoint x="244.75" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zyApMctIktEo1dBbrn69-6" value="Ja" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=11;fontColor=#707070;" vertex="1" connectable="0" parent="zyApMctIktEo1dBbrn69-5">
+          <mxGeometry x="-0.3" y="-2" relative="1" as="geometry">
+            <mxPoint x="3" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="etWpVr3VgN3HKCh5fDyq-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#707070;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414.25" y="130" as="sourcePoint" />
+            <mxPoint x="414.25" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="414.75" y="151" />
+              <mxPoint x="415.75" y="151" />
+              <mxPoint x="415.75" y="150" />
+              <mxPoint x="414.75" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="etWpVr3VgN3HKCh5fDyq-2" value="Ja" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=11;fontColor=#707070;" vertex="1" connectable="0" parent="etWpVr3VgN3HKCh5fDyq-1">
+          <mxGeometry x="-0.3" y="-2" relative="1" as="geometry">
+            <mxPoint x="2" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
