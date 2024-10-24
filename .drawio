@@ -10,6 +10,11 @@
             <mxPoint x="591" y="390" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="gFoLjj9Q3s403QMn3T-1-22" value="Cache" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lhokiOedD1wRkCvFBzF--14">
+          <mxGeometry x="-0.0394" y="3" relative="1" as="geometry">
+            <mxPoint y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="gFoLjj9Q3s403QMn3T-1-1" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="150" width="180" height="340" as="geometry" />
         </mxCell>
@@ -49,7 +54,7 @@
         <UserObject label="Journalføringspliktige&lt;div&gt;dokumentkategorier&lt;/div&gt;" link="https://konkurransetilsynet.sharepoint.com/sites/Seksjonforinformasjonsforvaltning/Lists/Kategorier/iAlle.aspx" id="CnHp2BACZt2HiP-NToc3-1">
           <mxCell style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="5p-e-0pEdj6wU1898hby-8" connectable="0" vertex="1">
             <mxGeometry relative="1" as="geometry">
-              <mxPoint x="344" y="106" as="offset" />
+              <mxPoint x="334" y="106" as="offset" />
             </mxGeometry>
           </mxCell>
         </UserObject>
@@ -106,17 +111,17 @@
         </mxCell>
         <object placeholders="1" c4Description="" label="&lt;b style=&quot;font-size: 12px;&quot;&gt;%c4Name%&lt;/b&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;[%c4Type%]&lt;/div&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;%c4Description%&lt;/div&gt;" c4Name="Azure Files" c4Type="Data Storage" link="data:page/id,gqWblNubQF4karUzQvhE" tooltip="Azure Files med Azure File Sync" id="lhokiOedD1wRkCvFBzF--1">
           <mxCell style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#438DD5;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#3C7FC0;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" parent="1" vertex="1">
-            <mxGeometry x="430" y="375" width="160" height="105" as="geometry" />
+            <mxGeometry x="420" y="375" width="160" height="105" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Description="" label="&lt;b style=&quot;font-size: 12px;&quot;&gt;%c4Name%&lt;/b&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;[%c4Type%]&lt;/div&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;%c4Description%&lt;/div&gt;" c4Name="Sharepoint/Teams" c4Type="Data Storage" link="data:page/id,rXMBJQsD9wPTN60wKnSM" tooltip="Saksbehandlernes brukergrensesnitt" id="lhokiOedD1wRkCvFBzF--3">
           <mxCell style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#438DD5;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#3C7FC0;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" parent="1" vertex="1">
-            <mxGeometry x="430" y="230" width="160" height="105" as="geometry" />
+            <mxGeometry x="420" y="230" width="160" height="105" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Description="" label="&lt;b style=&quot;font-size: 12px;&quot;&gt;%c4Name%&lt;/b&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;[%c4Type%]&lt;/div&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;%c4Description%&lt;/div&gt;" c4Name="Nytt journalføringssystem" c4Type="Data Storage" link="data:page/id,SF045wSuWdy3ESht9sIM" tooltip="Frittstående arkivkjerne med brukergrensesnitt for kun arkivarer og administrator" id="lhokiOedD1wRkCvFBzF--4">
           <mxCell style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#438DD5;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#3C7FC0;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" parent="1" vertex="1">
-            <mxGeometry x="430" y="60" width="160" height="105" as="geometry" />
+            <mxGeometry x="420" y="60" width="160" height="105" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="lhokiOedD1wRkCvFBzF--10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=1;exitY=0.333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="lhokiOedD1wRkCvFBzF--4" edge="1" target="LXH957WNBUGfyvkMVuLL-1">
@@ -144,18 +149,19 @@
             <mxPoint x="360" y="200" as="sourcePoint" />
             <mxPoint x="400" y="290" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="400" y="190" />
+              <mxPoint x="390" y="190" />
+              <mxPoint x="390" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Lnd7dqwJ6gBZuBjxFB_a-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#707070;exitX=1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" parent="1" source="lnmgxQ-TkLNhtuKLghFE-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="80" as="sourcePoint" />
-            <mxPoint x="400" y="190" as="targetPoint" />
+            <mxPoint x="380" y="190" as="targetPoint" />
             <Array as="points">
               <mxPoint x="360" y="100" />
-              <mxPoint x="400" y="100" />
-              <mxPoint x="400" y="190" />
+              <mxPoint x="390" y="100" />
+              <mxPoint x="390" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -179,33 +185,34 @@
             <mxGeometry x="650" y="160" width="160" height="100" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="gFoLjj9Q3s403QMn3T-1-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="lhokiOedD1wRkCvFBzF--3">
+        <mxCell id="gFoLjj9Q3s403QMn3T-1-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="lhokiOedD1wRkCvFBzF--1" target="lhokiOedD1wRkCvFBzF--3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="340" as="targetPoint" />
             <mxPoint x="510" y="380" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gFoLjj9Q3s403QMn3T-1-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="gFoLjj9Q3s403QMn3T-1-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="429.5" as="targetPoint" />
+            <mxPoint x="420" y="430" as="targetPoint" />
             <mxPoint x="360" y="430" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="400" y="430" />
+              <mxPoint x="410" y="430" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gFoLjj9Q3s403QMn3T-1-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=1.027;exitY=0.638;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1">
+        <mxCell id="gFoLjj9Q3s403QMn3T-1-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="430" as="targetPoint" />
-            <mxPoint x="360" y="331" as="sourcePoint" />
+            <mxPoint x="390" y="430" as="targetPoint" />
+            <mxPoint x="360" y="330" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="400" y="330" />
+              <mxPoint x="390" y="330" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gFoLjj9Q3s403QMn3T-1-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="gFoLjj9Q3s403QMn3T-1-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="290" as="targetPoint" />
+            <mxPoint x="420" y="290" as="targetPoint" />
             <mxPoint x="360" y="290.5" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="400" y="290.5" />
