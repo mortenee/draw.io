@@ -147,7 +147,7 @@
         <mxCell id="Lnd7dqwJ6gBZuBjxFB_a-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#707070;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" parent="1" source="5p-e-0pEdj6wU1898hby-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="200" as="sourcePoint" />
-            <mxPoint x="400" y="290" as="targetPoint" />
+            <mxPoint x="390" y="290" as="targetPoint" />
             <Array as="points">
               <mxPoint x="390" y="190" />
               <mxPoint x="390" y="290" />
