@@ -37,11 +37,13 @@
             <mxPoint x="-8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CnHp2BACZt2HiP-NToc3-1" value="Journalføringspliktige&lt;div&gt;dokumentkategorier&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="5p-e-0pEdj6wU1898hby-8" connectable="0" vertex="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="344" y="96" as="offset" />
-          </mxGeometry>
-        </mxCell>
+        <UserObject label="Journalføringspliktige&lt;div&gt;dokumentkategorier&lt;/div&gt;" link="https://konkurransetilsynet.sharepoint.com/sites/Seksjonforinformasjonsforvaltning/Lists/Kategorier/iAlle.aspx" id="CnHp2BACZt2HiP-NToc3-1">
+          <mxCell style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="5p-e-0pEdj6wU1898hby-8" connectable="0" vertex="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="344" y="96" as="offset" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
         <mxCell id="CnHp2BACZt2HiP-NToc3-2" value="Cache" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="5p-e-0pEdj6wU1898hby-8" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="454" y="286" as="offset" />
