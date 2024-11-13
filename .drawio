@@ -276,7 +276,7 @@
             <mxPoint x="170" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <object placeholders="1" c4Name="Saksbehandler" c4Type="Email" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" linkTarget="_blank" id="2TS-cLuS4wbk6AotrT8f-2">
+        <object placeholders="1" c4Name="Saksbehandler" c4Type="Email" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" linkTarget="_blank" tooltip="Oversendes pr e-post" id="2TS-cLuS4wbk6AotrT8f-2">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#1168BD;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="400" y="40" width="130" height="60" as="geometry" />
           </mxCell>
@@ -351,7 +351,7 @@
             <mxGeometry x="610" y="90" width="70" height="80" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Saksbehandler" c4Type="Teams" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" linkTarget="_blank" id="dxtN-ZQ5Ewym3a7ry31G-2">
+        <object placeholders="1" c4Name="Saksbehandler" c4Type="Teams" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" linkTarget="_blank" tooltip="Varsling via Teams chat eller annet" id="dxtN-ZQ5Ewym3a7ry31G-2">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#1168BD;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
             <mxGeometry x="400" y="192.5" width="130" height="60" as="geometry" />
           </mxCell>
