@@ -452,21 +452,21 @@
     </mxGraphModel>
   </diagram>
   <diagram name="MS365" id="MMkyiIINHcqf1Y7FRid9">
-    <mxGraphModel dx="1432" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="842" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="Fn1iaMKVMqczmPR75vV1-0" />
         <mxCell id="Fn1iaMKVMqczmPR75vV1-1" parent="Fn1iaMKVMqczmPR75vV1-0" />
         <mxCell id="Fn1iaMKVMqczmPR75vV1-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px; font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 18px; font-weight: 400;&quot;&gt;Kravs&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 18px; font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;fillColor=#438dd5;strokeColor=#3c7fc0;fontColor=#ffffff;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;glass=0;shadow=0;strokeWidth=3;spacingLeft=10;" vertex="1" parent="Fn1iaMKVMqczmPR75vV1-1">
           <mxGeometry x="9" y="10" width="810" height="630" as="geometry" />
         </mxCell>
-        <mxCell id="Fn1iaMKVMqczmPR75vV1-3" value="&lt;h1&gt;MS 365&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="Fn1iaMKVMqczmPR75vV1-1">
+        <mxCell id="Fn1iaMKVMqczmPR75vV1-3" value="&lt;h1&gt;Sharepoint/Teams&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="Fn1iaMKVMqczmPR75vV1-1">
           <mxGeometry x="329" y="20" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Datalager" id="coll9l0Uyqx2UfRXznLc">
-    <mxGraphModel dx="1432" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="842" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="x1R93axdEUnwGSGNdz-X-0" />
         <mxCell id="x1R93axdEUnwGSGNdz-X-1" parent="x1R93axdEUnwGSGNdz-X-0" />
