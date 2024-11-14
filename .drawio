@@ -114,7 +114,7 @@
             <mxGeometry x="420" y="230" width="160" height="105" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Description="" label="&lt;b style=&quot;font-size: 12px;&quot;&gt;%c4Name%&lt;/b&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;[%c4Type%]&lt;/div&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;%c4Description%&lt;/div&gt;" c4Name="Nytt journalføringssystem" c4Type="Data Storage" link="data:page/id,SF045wSuWdy3ESht9sIM" tooltip="Frittstående arkivkjerne med brukergrensesnitt for kun arkivarer og administrator" id="lhokiOedD1wRkCvFBzF--4">
+        <object placeholders="1" c4Description="" label="&lt;b style=&quot;font-size: 12px;&quot;&gt;%c4Name%&lt;/b&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;[%c4Type%]&lt;/div&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;%c4Description%&lt;/div&gt;" c4Name="Nytt journalføringssystem" c4Type="Data Storage" link="data:page/id,kM9DTwa_VgGaLRJCtsJp" tooltip="Frittstående arkivkjerne med brukergrensesnitt for kun arkivarer og administrator" id="lhokiOedD1wRkCvFBzF--4">
           <mxCell style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#438DD5;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#3C7FC0;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" parent="1" vertex="1">
             <mxGeometry x="420" y="60" width="160" height="105" as="geometry" />
           </mxCell>
