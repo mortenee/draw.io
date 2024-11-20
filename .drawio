@@ -797,7 +797,7 @@
         </object>
         <object placeholders="1" c4Name="Dokumentforvaltning" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;" tooltip="" id="0IaWDUxbmmW5l33qu3YU-1">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#1168BD;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;spacingTop=8;" vertex="1" parent="1">
-            <mxGeometry x="70" y="320" width="700" height="420" as="geometry" />
+            <mxGeometry x="70" y="340" width="700" height="370" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Dataforvaltning" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;" tooltip="" id="OqPxdqJq2_whTWHDuNEp-2">
