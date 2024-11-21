@@ -792,7 +792,7 @@
         <mxCell id="1" parent="0" />
         <object placeholders="1" c4Name="Informasjonsforvaltning" c4Description="" label="&lt;b style=&quot;font-size: 14px;&quot;&gt;%c4Name%&lt;/b&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" tooltip="" id="OqPxdqJq2_whTWHDuNEp-1">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalAlign=top;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;resizable=1;spacingTop=8;" vertex="1" parent="1">
-            <mxGeometry x="-550" y="40" width="1340" height="720" as="geometry" />
+            <mxGeometry x="-310" y="40" width="1100" height="720" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Dokumentforvaltning" c4Description="" label="&lt;b style=&quot;font-size: 14px;&quot;&gt;%c4Name%&lt;/b&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" tooltip="" id="0IaWDUxbmmW5l33qu3YU-1">
