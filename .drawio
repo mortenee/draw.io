@@ -806,21 +806,21 @@
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Journalføringspliktig" c4Description="" label="&lt;b style=&quot;font-size: 14px;&quot;&gt;%c4Name%&lt;/b&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" tooltip="" id="K-_3KhatycvxWxkxtLfl-2">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#083F75;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#06315C;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;fontFamily=Helvetica;fontSize=14;resizable=0;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingTop=8;dashed=0;" vertex="1" parent="1">
-            <mxGeometry x="560" y="390" width="200" height="300" as="geometry" />
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#083F75;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#06315C;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;fontFamily=Helvetica;fontSize=14;resizable=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingTop=8;dashed=0;" vertex="1" parent="1">
+            <mxGeometry x="560" y="410" width="200" height="280" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="wfpDk0Xuj3Z1m7MQL7fX-1" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;dashed=1;strokeColor=#ffffff;fillColor=#63bef2;" vertex="1" parent="1">
-          <mxGeometry x="80" y="380" width="470" height="330" as="geometry" />
+        <mxCell id="wfpDk0Xuj3Z1m7MQL7fX-1" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;strokeColor=#ffffff;fillColor=#63bef2;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="390" width="470" height="320" as="geometry" />
         </mxCell>
         <object placeholders="1" c4Name="Arbeidsdokumenter" c4Description="" label="&lt;b style=&quot;font-size: 14px;&quot;&gt;%c4Name%&lt;/b&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" tooltip="" id="K-_3KhatycvxWxkxtLfl-3">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;fontFamily=Helvetica;fontSize=14;resizable=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingTop=8;" vertex="1" parent="1">
-            <mxGeometry x="100" y="390" width="200" height="300" as="geometry" />
+            <mxGeometry x="100" y="410" width="200" height="280" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Arkivverdige dokumenter" c4Description="" label="&lt;b style=&quot;font-size: 14px;&quot;&gt;%c4Name%&lt;/b&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" tooltip="Dokumenter som har verdi som dokumentasjon, men som ikke er journalføringspliktig." id="K-_3KhatycvxWxkxtLfl-4">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#1168BD;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;spacingTop=8;fontSize=14;" vertex="1" parent="1">
-            <mxGeometry x="320" y="390" width="210" height="300" as="geometry" />
+            <mxGeometry x="320" y="410" width="210" height="280" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="23HhjNcECn_G3-sZdJWt-2" value="" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;align=left;verticalAlign=top;fillColor=none;strokeColor=none;fontColor=#4D4D4D;fontStyle=1;spacingLeft=6;spacing=0;resizable=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
@@ -845,7 +845,7 @@
         <mxCell id="23HhjNcECn_G3-sZdJWt-7" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="23HhjNcECn_G3-sZdJWt-2">
           <mxGeometry y="90" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="23HhjNcECn_G3-sZdJWt-8" value="Container" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#52a2d8;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;fontColor=#FFFFFF;gradientColor=none;spacingLeft=10;spacingRight=4;" vertex="1" parent="23HhjNcECn_G3-sZdJWt-7">
+        <mxCell id="23HhjNcECn_G3-sZdJWt-8" value="Innsynsbehandling" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#52a2d8;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;fontColor=#FFFFFF;gradientColor=none;spacingLeft=10;spacingRight=4;" vertex="1" parent="23HhjNcECn_G3-sZdJWt-7">
           <mxGeometry width="180" height="30" as="geometry">
             <mxRectangle width="180" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -925,7 +925,7 @@
             <mxRectangle width="180" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="23HhjNcECn_G3-sZdJWt-29" value="" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;align=left;verticalAlign=top;fillColor=none;strokeColor=none;fontColor=#4D4D4D;fontStyle=1;spacingLeft=6;spacing=0;resizable=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="23HhjNcECn_G3-sZdJWt-29" value="" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;align=left;verticalAlign=top;fillColor=none;strokeColor=none;fontColor=#4D4D4D;fontStyle=1;spacingLeft=6;spacing=0;resizable=0;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="450" width="180" height="210" as="geometry" />
         </mxCell>
         <mxCell id="23HhjNcECn_G3-sZdJWt-30" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="23HhjNcECn_G3-sZdJWt-29">
