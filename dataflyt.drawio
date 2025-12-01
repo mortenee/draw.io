@@ -134,9 +134,11 @@
         <mxCell id="XdspxS6Hz_4JBQYh9Mr0-23" parent="1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;" value="Ekstern part" vertex="1">
           <mxGeometry height="20" width="120" x="100" y="-260" as="geometry" />
         </mxCell>
-        <mxCell id="U7ypzYzPDAcvoNbq9JbM-1" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;" value="Fusjonssaker, interne data" vertex="1">
-          <mxGeometry height="30" width="260" x="80" y="-360" as="geometry" />
-        </mxCell>
+        <UserObject label="Fusjonssaker, interne data" link="data:page/id,zNMGI6wU0Mi8Qe2H5Q59" id="U7ypzYzPDAcvoNbq9JbM-1">
+          <mxCell parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;" vertex="1">
+            <mxGeometry height="30" width="260" x="80" y="-360" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
