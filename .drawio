@@ -342,7 +342,7 @@
             <mxGeometry x="1090" y="-470" width="160" height="105" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="zQdKPRfbjO2FIl0_cZ5C-2" value="Ekstern part" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zQdKPRfbjO2FIl0_cZ5C-2" value="Ekstern part" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="100" y="-290" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
