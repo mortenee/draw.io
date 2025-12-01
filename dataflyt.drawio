@@ -157,9 +157,6 @@
       <root>
         <mxCell id="Lf_J4xzQqrG5r7nvtUhy-0" />
         <mxCell id="Lf_J4xzQqrG5r7nvtUhy-1" parent="Lf_J4xzQqrG5r7nvtUhy-0" />
-        <mxCell id="Lf_J4xzQqrG5r7nvtUhy-5" parent="Lf_J4xzQqrG5r7nvtUhy-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#b1ddf0;strokeColor=#10739e;" value="&amp;nbsp;&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="410" width="770" x="70" y="-270" as="geometry" />
-        </mxCell>
         <mxCell id="Lf_J4xzQqrG5r7nvtUhy-17" edge="1" parent="Lf_J4xzQqrG5r7nvtUhy-1" source="Lf_J4xzQqrG5r7nvtUhy-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="140" as="sourcePoint" />
@@ -181,11 +178,17 @@
             <mxGeometry height="30" width="240" x="600" y="-350" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="Z1xciUVNc4ydU5FOcE2b-0" parent="Lf_J4xzQqrG5r7nvtUhy-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;h1&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp;Postmottak&lt;/font&gt;&lt;/h1&gt;" vertex="1">
-          <mxGeometry height="30" width="680" x="120" y="-270" as="geometry" />
+        <mxCell id="JXslkK3s29DCZcEHaB0Y-0" parent="Lf_J4xzQqrG5r7nvtUhy-1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#10739E;fillColor=#B1DDF0;" value="Postmottak" vertex="1">
+          <mxGeometry height="120" width="760" x="80" y="-280" as="geometry" />
         </mxCell>
-        <mxCell id="Z1xciUVNc4ydU5FOcE2b-1" parent="Lf_J4xzQqrG5r7nvtUhy-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;h1&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Hvordan sørge for at alle mottak av data går via postmottak for å opprettholde kontroll?&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/h1&gt;" vertex="1">
-          <mxGeometry height="30" width="680" x="110" y="-230" as="geometry" />
+        <mxCell id="JXslkK3s29DCZcEHaB0Y-1" parent="JXslkK3s29DCZcEHaB0Y-0" style="text;strokeColor=none;fillColor=#B1DDF0;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;ul&gt;&lt;li&gt;Hvordan sørge for at alle mottak av data går via postmottak for å opprettholde kontroll?&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="30" width="760" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JXslkK3s29DCZcEHaB0Y-2" parent="JXslkK3s29DCZcEHaB0Y-0" style="text;strokeColor=none;fillColor=#B1DDF0;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;ul&gt;&lt;li&gt;Item 2&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="30" width="760" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JXslkK3s29DCZcEHaB0Y-3" parent="JXslkK3s29DCZcEHaB0Y-0" style="text;strokeColor=none;fillColor=#B1DDF0;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;ul&gt;&lt;li&gt;Item 3&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="30" width="760" y="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
