@@ -157,7 +157,7 @@
       <root>
         <mxCell id="Lf_J4xzQqrG5r7nvtUhy-0" />
         <mxCell id="Lf_J4xzQqrG5r7nvtUhy-1" parent="Lf_J4xzQqrG5r7nvtUhy-0" />
-        <mxCell id="Lf_J4xzQqrG5r7nvtUhy-5" parent="Lf_J4xzQqrG5r7nvtUhy-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;dashed=1;" value="" vertex="1">
+        <mxCell id="Lf_J4xzQqrG5r7nvtUhy-5" parent="Lf_J4xzQqrG5r7nvtUhy-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;dashed=1;align=right;labelPosition=left;verticalLabelPosition=top;verticalAlign=bottom;" value="&amp;nbsp;&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="410" width="770" x="70" y="-270" as="geometry" />
         </mxCell>
         <mxCell id="Lf_J4xzQqrG5r7nvtUhy-17" edge="1" parent="Lf_J4xzQqrG5r7nvtUhy-1" source="Lf_J4xzQqrG5r7nvtUhy-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;">
@@ -181,6 +181,12 @@
             <mxGeometry height="30" width="240" x="600" y="-350" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="Z1xciUVNc4ydU5FOcE2b-0" parent="Lf_J4xzQqrG5r7nvtUhy-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;h1&gt;Postmottak&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="30" width="680" x="120" y="-270" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1xciUVNc4ydU5FOcE2b-1" parent="Lf_J4xzQqrG5r7nvtUhy-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;h1&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Hvordan sørge for at alle mottak av data går via postmottak for å opprettholde kontroll?&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="30" width="680" x="120" y="-240" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
