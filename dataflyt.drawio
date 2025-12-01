@@ -135,12 +135,12 @@
           <mxGeometry height="20" width="120" x="100" y="-260" as="geometry" />
         </mxCell>
         <UserObject label="Fusjonssaker, interne data" link="data:page/id,zNMGI6wU0Mi8Qe2H5Q59" id="U7ypzYzPDAcvoNbq9JbM-1">
-          <mxCell parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;" vertex="1">
+          <mxCell parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#FFFFFF;" vertex="1">
             <mxGeometry height="30" width="260" x="80" y="-350" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Etterforskningssaker" link="data:page/id,7jhz3oTcz63QiqNBjqgq" id="_r1ZRzYMy_JL5eWqAF12-2">
-          <mxCell parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;" vertex="1">
+          <mxCell parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1">
             <mxGeometry height="30" width="240" x="350" y="-350" as="geometry" />
           </mxCell>
         </UserObject>
@@ -234,12 +234,12 @@
           <mxGeometry height="20" width="120" x="100" y="-260" as="geometry" />
         </mxCell>
         <UserObject label="Fusjonssaker, interne data" link="data:page/id,zNMGI6wU0Mi8Qe2H5Q59" id="wG85HctFSit3BLKnJ-W_-28">
-          <mxCell parent="wG85HctFSit3BLKnJ-W_-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;" vertex="1">
+          <mxCell parent="wG85HctFSit3BLKnJ-W_-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1">
             <mxGeometry height="30" width="260" x="80" y="-350" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Etterforskningssaker" link="data:page/id,7jhz3oTcz63QiqNBjqgq" id="wG85HctFSit3BLKnJ-W_-29">
-          <mxCell parent="wG85HctFSit3BLKnJ-W_-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;" vertex="1">
+          <mxCell parent="wG85HctFSit3BLKnJ-W_-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#FFFFFF;" vertex="1">
             <mxGeometry height="30" width="240" x="350" y="-350" as="geometry" />
           </mxCell>
         </UserObject>
