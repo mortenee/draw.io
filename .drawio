@@ -227,8 +227,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YQzX_iRtagpozzFhm_qi-1" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="-270" width="180" height="400" as="geometry" />
+        <mxCell id="YQzX_iRtagpozzFhm_qi-1" value="E" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-300" width="180" height="430" as="geometry" />
         </mxCell>
         <object placeholders="1" c4Name="E-post" c4Type="Person" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Eksternt firma eller person" id="JSyXwIpnQ9RX5UyO9Utx-2">
           <mxCell style="html=1;dashed=0;whitespace=wrap;fillColor=#8C8496;strokeColor=#736782;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};rounded=1;verticalAlign=middle;arcSize=10;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;resizable=1;" vertex="1" parent="1">
@@ -316,13 +316,27 @@
           <mxGeometry x="300" y="-50" width="270" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3tx_qkuz52WsXuxmbsyY-7" value="Saksbehandling" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#A9DB1F;fillColor=#A9DB1F;" vertex="1" parent="1">
-          <mxGeometry x="560" y="-50" width="267" height="20" as="geometry" />
+          <mxGeometry x="560" y="-50" width="250" height="20" as="geometry" />
         </mxCell>
         <object placeholders="1" c4Name="Harddisk" c4Type="Person" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Eksternt firma eller person" id="3tx_qkuz52WsXuxmbsyY-8">
           <mxCell style="html=1;dashed=0;whitespace=wrap;fillColor=#8C8496;strokeColor=#736782;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};rounded=1;verticalAlign=middle;arcSize=10;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;resizable=1;" vertex="1" parent="1">
             <mxGeometry x="140" y="30" width="70" height="80" as="geometry" />
           </mxCell>
         </object>
+        <object placeholders="1" c4Name="Journalføringssystem" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" link="data:page/id,k1kP_jFq2pSngWNoGtI5" tooltip="FTK på internt nett" id="cl4xst5L1iMCDh1iHpjk-3">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="880" y="-120" width="160" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="cl4xst5L1iMCDh1iHpjk-4" value="Arkivering" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#A9DB1F;fillColor=#A9DB1F;" vertex="1" parent="1">
+          <mxGeometry x="800" y="-50" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cl4xst5L1iMCDh1iHpjk-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=1;exitY=0.621;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="-70" as="targetPoint" />
+            <mxPoint x="840" y="-70.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
