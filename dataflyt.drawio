@@ -136,7 +136,7 @@
         </mxCell>
         <UserObject label="Fusjonssaker, interne data" link="data:page/id,zNMGI6wU0Mi8Qe2H5Q59" id="U7ypzYzPDAcvoNbq9JbM-1">
           <mxCell parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;" vertex="1">
-            <mxGeometry height="30" width="260" x="80" y="-360" as="geometry" />
+            <mxGeometry height="30" width="260" x="80" y="-350" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
@@ -205,6 +205,11 @@
             <mxPoint x="880" y="-70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <UserObject label="Fusjonssaker, interne data" link="data:page/id,zNMGI6wU0Mi8Qe2H5Q59" id="OVGQGS96cVAMjAqIHwpq-0">
+          <mxCell parent="Q4WrxoekcJ-S5K3uJYZ9-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;" vertex="1">
+            <mxGeometry height="30" width="260" x="80" y="-350" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
