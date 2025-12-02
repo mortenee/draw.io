@@ -53,7 +53,7 @@
             <mxGeometry height="100" width="160" x="480" y="-120" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Eksternt datarom" c4Type="Software System" c4Description="" label="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" tooltip="Ekstern parts datarom" link="https://einnsyn.no/sok?f=301641a9-3c62-4803-af75-cce1040ce0eb" id="XdspxS6Hz_4JBQYh9Mr0-7">
+        <object placeholders="1" c4Name="Eksternt datarom" c4Type="Software System" c4Description="" label="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" tooltip="Ekstern parts datarom" id="XdspxS6Hz_4JBQYh9Mr0-7">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1">
             <mxGeometry height="100" width="160" x="80" y="-120" as="geometry" />
           </mxCell>
@@ -235,7 +235,7 @@
             <mxGeometry height="100" width="160" x="480" y="-120" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Eksternt datarom" c4Type="Software System" c4Description="" label="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" tooltip="Ekstern parts datarom" link="https://einnsyn.no/sok?f=301641a9-3c62-4803-af75-cce1040ce0eb" id="MKrSUBia_YIlwrE3DUms-14">
+        <object placeholders="1" c4Name="Eksternt datarom" c4Type="Software System" c4Description="" label="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" tooltip="Ekstern parts datarom" id="MKrSUBia_YIlwrE3DUms-14">
           <mxCell parent="MKrSUBia_YIlwrE3DUms-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1">
             <mxGeometry height="100" width="160" x="80" y="-120" as="geometry" />
           </mxCell>
@@ -469,7 +469,7 @@
         <mxCell id="30pzLbgddQ9CKUm3QNA_-36" parent="30pzLbgddQ9CKUm3QNA_-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;" value="Filer som dokumenterer vår saksbehandling" vertex="1">
           <mxGeometry height="20" width="140" x="880" y="-250" as="geometry" />
         </mxCell>
-        <object placeholders="1" c4Name="EA-lab" c4Type="Software System" c4Description="" label="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" tooltip="Fysisk adskilt datalab med FTK for mottak og sikring av beslaglagte data (&quot;beslagsnett&quot;)" link="https://einnsyn.no/sok?f=301641a9-3c62-4803-af75-cce1040ce0eb" id="RDYShbOkAB3h9YEbG5Ug-0">
+        <object placeholders="1" c4Name="EA-lab" c4Type="Software System" c4Description="" label="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" tooltip="Fysisk adskilt datalab med FTK for mottak og sikring av beslaglagte data (&quot;beslagsnett&quot;)" id="RDYShbOkAB3h9YEbG5Ug-0">
           <mxCell parent="30pzLbgddQ9CKUm3QNA_-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1">
             <mxGeometry height="100" width="160" x="80" y="-120" as="geometry" />
           </mxCell>
