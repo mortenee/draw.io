@@ -367,16 +367,6 @@
         <mxCell id="30pzLbgddQ9CKUm3QNA_-5" parent="30pzLbgddQ9CKUm3QNA_-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;dashed=1;" value="" vertex="1">
           <mxGeometry height="400" width="180" x="70" y="-270" as="geometry" />
         </mxCell>
-        <object placeholders="1" c4Name="Postmottak" c4Type="Frontend" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Postmottak-funksjon i Informasjonsforvaltning" link="data:page/id,U1zW4GbvwTzbMP1sjaRH" id="30pzLbgddQ9CKUm3QNA_-10">
-          <mxCell parent="30pzLbgddQ9CKUm3QNA_-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#1168BD;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
-            <mxGeometry height="100" width="160" x="280" y="10" as="geometry" />
-          </mxCell>
-        </object>
-        <object placeholders="1" c4Name="KT Ekstern datautveksling" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Subsite av KT Sharepoint som er åpnet for at eksterne kan laste opp data " id="30pzLbgddQ9CKUm3QNA_-11">
-          <mxCell parent="30pzLbgddQ9CKUm3QNA_-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;resizable=0;" vertex="1">
-            <mxGeometry height="100" width="160" x="280" y="-250" as="geometry" />
-          </mxCell>
-        </object>
         <object placeholders="1" c4Name="Datamottak" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Intern server for mottak og prosessering av data. Lagring er på Data (E:)" id="30pzLbgddQ9CKUm3QNA_-12">
           <mxCell parent="30pzLbgddQ9CKUm3QNA_-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;resizable=0;" vertex="1">
             <mxGeometry height="100" width="160" x="280" y="-120" as="geometry" />
@@ -391,18 +381,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="-70.5" as="sourcePoint" />
             <mxPoint x="280" y="-70" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="30pzLbgddQ9CKUm3QNA_-17" edge="1" parent="30pzLbgddQ9CKUm3QNA_-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="-150" as="sourcePoint" />
-            <mxPoint x="360" y="-120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="30pzLbgddQ9CKUm3QNA_-20" edge="1" parent="30pzLbgddQ9CKUm3QNA_-1" source="30pzLbgddQ9CKUm3QNA_-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" target="30pzLbgddQ9CKUm3QNA_-12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="140" as="sourcePoint" />
-            <mxPoint x="370" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="30pzLbgddQ9CKUm3QNA_-21" edge="1" parent="30pzLbgddQ9CKUm3QNA_-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=1;exitY=0.621;exitDx=0;exitDy=0;exitPerimeter=0;">
