@@ -4,6 +4,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="aGrLuACEU8bLTiiZHi7y-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;dashed=1;" value="" vertex="1">
+          <mxGeometry height="410" width="180" x="870" y="-275" as="geometry" />
+        </mxCell>
+        <mxCell id="aGrLuACEU8bLTiiZHi7y-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;dashed=1;" value="" vertex="1">
+          <mxGeometry height="410" width="180" x="670" y="-275" as="geometry" />
+        </mxCell>
         <mxCell id="aGrLuACEU8bLTiiZHi7y-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;dashed=1;" value="" vertex="1">
           <mxGeometry height="410" width="400" x="260" y="-270" as="geometry" />
         </mxCell>
@@ -104,7 +110,7 @@
             <mxPoint x="680" y="-70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <object placeholders="1" c4Name="MS Teams" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Prosjektets team i MS Teams for arbeidsokopier av filer som er bokmerket i FTK" id="XdspxS6Hz_4JBQYh9Mr0-16">
+        <object placeholders="1" c4Name="MS Teams" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Prosjektets team i MS Teams" id="XdspxS6Hz_4JBQYh9Mr0-16">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;resizable=0;" vertex="1">
             <mxGeometry height="100" width="160" x="680" y="-120" as="geometry" />
           </mxCell>
@@ -135,7 +141,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XdspxS6Hz_4JBQYh9Mr0-23" parent="1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;" value="Ekstern part" vertex="1">
-          <mxGeometry height="20" width="120" x="100" y="-260" as="geometry" />
+          <mxGeometry height="20" width="70" x="150" y="-260" as="geometry" />
         </mxCell>
         <UserObject label="Fusjonssaker, parts interne data" link="data:page/id,zNMGI6wU0Mi8Qe2H5Q59" id="U7ypzYzPDAcvoNbq9JbM-1">
           <mxCell parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1">
@@ -153,7 +159,13 @@
           </mxCell>
         </UserObject>
         <mxCell id="aGrLuACEU8bLTiiZHi7y-4" parent="1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;" value="Komplette data" vertex="1">
-          <mxGeometry height="20" width="120" x="480" y="-260" as="geometry" />
+          <mxGeometry height="20" width="120" x="500" y="-260" as="geometry" />
+        </mxCell>
+        <mxCell id="aGrLuACEU8bLTiiZHi7y-6" parent="1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;" value="Arbeidskopier av bokmerkede FTK-filer" vertex="1">
+          <mxGeometry height="20" width="120" x="700" y="-250" as="geometry" />
+        </mxCell>
+        <mxCell id="aGrLuACEU8bLTiiZHi7y-8" parent="1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;" value="Filer som blir del av saksbehandling (records)" vertex="1">
+          <mxGeometry height="20" width="120" x="900" y="-250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
