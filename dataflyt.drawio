@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.2.1" pages="3">
   <diagram id="zNMGI6wU0Mi8Qe2H5Q59" name="Fusjonssaker, parts interne data">
-    <mxGraphModel dx="1410" dy="1984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="991" dy="1661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -149,6 +149,9 @@
             <mxGeometry height="30" width="240" x="600" y="-350" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="aGrLuACEU8bLTiiZHi7y-1" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=0;strokeColor=#A9DB1F;fillColor=#A9DB1F;" value="Databehandling" vertex="1">
+          <mxGeometry height="20" width="270" x="500" y="-250" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
