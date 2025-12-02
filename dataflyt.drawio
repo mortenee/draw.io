@@ -116,7 +116,7 @@
         <mxCell id="XdspxS6Hz_4JBQYh9Mr0-18" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#A9DB1F;fillColor=#A9DB1F;" value="Saksbehandling" vertex="1">
           <mxGeometry height="20" width="250" x="560" y="-50" as="geometry" />
         </mxCell>
-        <object placeholders="1" c4Name="Journalføringssystem" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="System for journalføring av delmengde data som blir del av saksbehandling" id="XdspxS6Hz_4JBQYh9Mr0-20">
+        <object placeholders="1" c4Name="Journalføringssystem" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="System for journalføring. Pr. i dag er dette Public 360." id="XdspxS6Hz_4JBQYh9Mr0-20">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;resizable=0;" vertex="1">
             <mxGeometry height="100" width="160" x="870" y="-120" as="geometry" />
           </mxCell>
@@ -300,7 +300,7 @@
             <mxGeometry height="80" width="70" x="140" y="20" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Journalføringssystem" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="System for journalføring av delmengde data som blir del av saksbehandling" id="MKrSUBia_YIlwrE3DUms-27">
+        <object placeholders="1" c4Name="Journalføringssystem" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="System for journalføring. Pr. i dag er dette Public 360." id="MKrSUBia_YIlwrE3DUms-27">
           <mxCell parent="MKrSUBia_YIlwrE3DUms-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;resizable=0;" vertex="1">
             <mxGeometry height="100" width="160" x="870" y="-120" as="geometry" />
           </mxCell>
@@ -400,7 +400,7 @@
         <mxCell id="30pzLbgddQ9CKUm3QNA_-25" parent="30pzLbgddQ9CKUm3QNA_-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#A9DB1F;fillColor=#A9DB1F;" value="Saksbehandling" vertex="1">
           <mxGeometry height="20" width="250" x="560" y="-50" as="geometry" />
         </mxCell>
-        <object placeholders="1" c4Name="Journalføringssystem" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="System for journalføring av delmengde data som blir del av saksbehandling" id="30pzLbgddQ9CKUm3QNA_-27">
+        <object placeholders="1" c4Name="Journalføringssystem" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="System for journalføring. Pr. i dag er dette Public 360." id="30pzLbgddQ9CKUm3QNA_-27">
           <mxCell parent="30pzLbgddQ9CKUm3QNA_-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;resizable=0;" vertex="1">
             <mxGeometry height="100" width="160" x="870" y="-120" as="geometry" />
           </mxCell>
