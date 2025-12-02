@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.2.1" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.2.1" pages="4">
   <diagram id="zNMGI6wU0Mi8Qe2H5Q59" name="Fusjonssaker, parts interne data">
     <mxGraphModel dx="991" dy="1661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -446,110 +446,6 @@
             <mxGeometry height="100" width="160" x="80" y="-120" as="geometry" />
           </mxCell>
         </object>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram name="Etterforskningssaker -old" id="7jhz3oTcz63QiqNBjqgq">
-    <mxGraphModel dx="991" dy="1661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="wG85HctFSit3BLKnJ-W_-0" />
-        <mxCell id="wG85HctFSit3BLKnJ-W_-1" parent="wG85HctFSit3BLKnJ-W_-0" />
-        <mxCell id="wG85HctFSit3BLKnJ-W_-2" edge="1" parent="wG85HctFSit3BLKnJ-W_-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0;entryY=0.364;entryDx=0;entryDy=0;entryPerimeter=0;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="80" y="55.316129032258004" as="sourcePoint" />
-            <mxPoint x="200" y="56.40000000000009" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wG85HctFSit3BLKnJ-W_-3" edge="1" parent="wG85HctFSit3BLKnJ-W_-1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.694;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.007;exitY=0.618;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;strokeColor=#707070;" value="">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140.49" y="89.44000000000005" as="sourcePoint" />
-            <mxPoint x="200" y="89.40000000000009" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wG85HctFSit3BLKnJ-W_-4" connectable="0" parent="wG85HctFSit3BLKnJ-W_-3" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="Skanner" vertex="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-8" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wG85HctFSit3BLKnJ-W_-5" parent="wG85HctFSit3BLKnJ-W_-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;dashed=1;" value="E" vertex="1">
-          <mxGeometry height="410" width="180" x="70" y="-270" as="geometry" />
-        </mxCell>
-        <object placeholders="1" c4Name="Datamottak" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="FTK på internt nett" id="wG85HctFSit3BLKnJ-W_-9">
-          <mxCell parent="wG85HctFSit3BLKnJ-W_-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;resizable=0;" vertex="1">
-            <mxGeometry height="100" width="160" x="280" y="-120" as="geometry" />
-          </mxCell>
-        </object>
-        <object placeholders="1" c4Name="FTK intern sone" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="FTK på internt nett" id="wG85HctFSit3BLKnJ-W_-10">
-          <mxCell parent="wG85HctFSit3BLKnJ-W_-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;resizable=0;" vertex="1">
-            <mxGeometry height="100" width="160" x="480" y="-120" as="geometry" />
-          </mxCell>
-        </object>
-        <object placeholders="1" c4Name="EA-lab" c4Type="Software System" c4Description="" label="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" tooltip="Fysisk adskilt datalab med FTK for mottak og sikring av beslaglagte data (&quot;beslagsnett&quot;)" link="https://einnsyn.no/sok?f=301641a9-3c62-4803-af75-cce1040ce0eb" id="wG85HctFSit3BLKnJ-W_-11">
-          <mxCell parent="wG85HctFSit3BLKnJ-W_-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1">
-            <mxGeometry height="100" width="160" x="80" y="-120" as="geometry" />
-          </mxCell>
-        </object>
-        <mxCell id="wG85HctFSit3BLKnJ-W_-13" edge="1" parent="wG85HctFSit3BLKnJ-W_-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=1;exitY=0.621;exitDx=0;exitDy=0;exitPerimeter=0;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="-70.5" as="sourcePoint" />
-            <mxPoint x="280" y="-70" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wG85HctFSit3BLKnJ-W_-18" edge="1" parent="wG85HctFSit3BLKnJ-W_-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=1;exitY=0.621;exitDx=0;exitDy=0;exitPerimeter=0;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="-70.5" as="sourcePoint" />
-            <mxPoint x="480" y="-70" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wG85HctFSit3BLKnJ-W_-19" edge="1" parent="wG85HctFSit3BLKnJ-W_-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=1;exitY=0.621;exitDx=0;exitDy=0;exitPerimeter=0;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="640" y="-70.5" as="sourcePoint" />
-            <mxPoint x="680" y="-70" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <object placeholders="1" c4Name="MS Teams" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="FTK på internt nett" id="wG85HctFSit3BLKnJ-W_-20">
-          <mxCell parent="wG85HctFSit3BLKnJ-W_-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;resizable=0;" vertex="1">
-            <mxGeometry height="100" width="160" x="680" y="-120" as="geometry" />
-          </mxCell>
-        </object>
-        <mxCell id="wG85HctFSit3BLKnJ-W_-21" parent="wG85HctFSit3BLKnJ-W_-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#A9DB1F;fillColor=#A9DB1F;" value="Databehandling" vertex="1">
-          <mxGeometry height="20" width="270" x="300" y="-50" as="geometry" />
-        </mxCell>
-        <mxCell id="wG85HctFSit3BLKnJ-W_-22" parent="wG85HctFSit3BLKnJ-W_-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#A9DB1F;fillColor=#A9DB1F;" value="Saksbehandling" vertex="1">
-          <mxGeometry height="20" width="250" x="560" y="-50" as="geometry" />
-        </mxCell>
-        <object placeholders="1" c4Name="Journalføringssystem" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="FTK på internt nett" id="wG85HctFSit3BLKnJ-W_-24">
-          <mxCell parent="wG85HctFSit3BLKnJ-W_-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;resizable=0;" vertex="1">
-            <mxGeometry height="100" width="160" x="880" y="-120" as="geometry" />
-          </mxCell>
-        </object>
-        <mxCell id="wG85HctFSit3BLKnJ-W_-25" parent="wG85HctFSit3BLKnJ-W_-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#A9DB1F;fillColor=#A9DB1F;" value="Arkivering" vertex="1">
-          <mxGeometry height="20" width="230" x="800" y="-50" as="geometry" />
-        </mxCell>
-        <mxCell id="wG85HctFSit3BLKnJ-W_-26" edge="1" parent="wG85HctFSit3BLKnJ-W_-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=1;exitY=0.621;exitDx=0;exitDy=0;exitPerimeter=0;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="840" y="-70.5" as="sourcePoint" />
-            <mxPoint x="880" y="-70" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wG85HctFSit3BLKnJ-W_-27" parent="wG85HctFSit3BLKnJ-W_-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;" value="Ekstern part" vertex="1">
-          <mxGeometry height="20" width="120" x="100" y="-260" as="geometry" />
-        </mxCell>
-        <UserObject label="Fusjonssaker, parts interne data" link="data:page/id,zNMGI6wU0Mi8Qe2H5Q59" id="5Gwgu7tvhxdAzvkOa_Iy-0">
-          <mxCell parent="wG85HctFSit3BLKnJ-W_-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#b1ddf0;strokeColor=#B1DDF0;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;" vertex="1">
-            <mxGeometry height="30" width="260" x="80" y="-350" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Fusjonssaker, parts eksterne data" link="data:page/id,7jhz3oTcz63QiqNBjqgq" id="5Gwgu7tvhxdAzvkOa_Iy-1">
-          <mxCell parent="wG85HctFSit3BLKnJ-W_-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#b1ddf0;strokeColor=#10739e;textShadow=1;fontColor=default;fontFamily=Helvetica;fontSize=12;" vertex="1">
-            <mxGeometry height="30" width="240" x="350" y="-350" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Etterforskningssaker" link="data:page/id,7jhz3oTcz63QiqNBjqgq" id="5Gwgu7tvhxdAzvkOa_Iy-2">
-          <mxCell parent="wG85HctFSit3BLKnJ-W_-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#b1ddf0;strokeColor=#B1DDF0;textShadow=1;fontColor=#FFFFFF;" vertex="1">
-            <mxGeometry height="30" width="240" x="600" y="-350" as="geometry" />
-          </mxCell>
-        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
