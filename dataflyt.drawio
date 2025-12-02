@@ -454,12 +454,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <UserObject label="Fusjonssaker, parts eksterne data" link="data:page/id,7jhz3oTcz63QiqNBjqgq" id="W0pSMhOb1fG87iDCwezf-1">
+        <UserObject label="Fusjonssaker, parts eksterne data" link="data:page/id,UQ5l-dND_rVHEr0TBZg9" id="W0pSMhOb1fG87iDCwezf-1">
           <mxCell parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#b1ddf0;strokeColor=#B1DDF0;textShadow=1;fontColor=#FFFFFF;" vertex="1">
             <mxGeometry height="30" width="240" x="530" y="100" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Etterforskningssaker" link="data:page/id,7jhz3oTcz63QiqNBjqgq" id="W0pSMhOb1fG87iDCwezf-2">
+        <UserObject label="Etterforskningssaker" link="data:page/id,yn1ltShgPG_MPMVu1NM-" id="W0pSMhOb1fG87iDCwezf-2">
           <mxCell parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#b1ddf0;strokeColor=#B1DDF0;textShadow=1;fontColor=#FFFFFF;" vertex="1">
             <mxGeometry height="30" width="240" x="780" y="100" as="geometry" />
           </mxCell>
