@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="aGrLuACEU8bLTiiZHi7y-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;dashed=1;" value="" vertex="1">
+          <mxGeometry height="410" width="400" x="260" y="-270" as="geometry" />
+        </mxCell>
         <mxCell id="XdspxS6Hz_4JBQYh9Mr0-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;dashed=1;" value="E" vertex="1">
           <mxGeometry height="410" width="180" x="70" y="-270" as="geometry" />
         </mxCell>
@@ -149,8 +152,8 @@
             <mxGeometry height="30" width="240" x="600" y="-350" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="aGrLuACEU8bLTiiZHi7y-1" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=0;strokeColor=#A9DB1F;fillColor=#A9DB1F;" value="Databehandling" vertex="1">
-          <mxGeometry height="20" width="270" x="500" y="-250" as="geometry" />
+        <mxCell id="aGrLuACEU8bLTiiZHi7y-4" parent="1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;" value="Komplette data" vertex="1">
+          <mxGeometry height="20" width="120" x="480" y="-260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
