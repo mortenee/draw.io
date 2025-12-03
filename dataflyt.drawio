@@ -234,11 +234,6 @@
             <mxGeometry height="100" width="160" x="280" y="-120" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="FTK intern sone" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="FTK server på internt nett. Prosesserer data fra Data (E:) der det ligger men oppretter søkeindex mm lokalt." id="MKrSUBia_YIlwrE3DUms-13">
-          <mxCell parent="MKrSUBia_YIlwrE3DUms-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;resizable=0;" vertex="1">
-            <mxGeometry height="100" width="160" x="480" y="-120" as="geometry" />
-          </mxCell>
-        </object>
         <object placeholders="1" c4Name="Eksternt datarom" c4Type="Software System" c4Description="" label="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" tooltip="Ekstern parts datarom" id="MKrSUBia_YIlwrE3DUms-14">
           <mxCell parent="MKrSUBia_YIlwrE3DUms-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1">
             <mxGeometry height="100" width="160" x="80" y="-120" as="geometry" />
@@ -282,28 +277,13 @@
             <mxPoint x="370" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MKrSUBia_YIlwrE3DUms-21" edge="1" parent="MKrSUBia_YIlwrE3DUms-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=1;exitY=0.621;exitDx=0;exitDy=0;exitPerimeter=0;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="-70.5" as="sourcePoint" />
-            <mxPoint x="480" y="-70" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MKrSUBia_YIlwrE3DUms-22" edge="1" parent="MKrSUBia_YIlwrE3DUms-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=1;exitY=0.621;exitDx=0;exitDy=0;exitPerimeter=0;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="640" y="-70.5" as="sourcePoint" />
-            <mxPoint x="680" y="-70" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <object placeholders="1" c4Name="MS Teams" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Prosjektets team i MS Teams" id="MKrSUBia_YIlwrE3DUms-23">
           <mxCell parent="MKrSUBia_YIlwrE3DUms-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;resizable=0;" vertex="1">
-            <mxGeometry height="100" width="160" x="680" y="-120" as="geometry" />
+            <mxGeometry height="100" width="160" x="870" y="-120" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="MKrSUBia_YIlwrE3DUms-24" parent="MKrSUBia_YIlwrE3DUms-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=0;strokeColor=#A9DB1F;fillColor=#A9DB1F;" value="Databehandling" vertex="1">
           <mxGeometry height="20" width="270" x="300" y="-50" as="geometry" />
-        </mxCell>
-        <mxCell id="MKrSUBia_YIlwrE3DUms-25" parent="MKrSUBia_YIlwrE3DUms-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#A9DB1F;fillColor=#A9DB1F;" value="Saksbehandling" vertex="1">
-          <mxGeometry height="20" width="250" x="560" y="-50" as="geometry" />
         </mxCell>
         <object placeholders="1" c4Name="Harddisk" c4Type="Person" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Ekstern part" id="MKrSUBia_YIlwrE3DUms-26">
           <mxCell parent="MKrSUBia_YIlwrE3DUms-1" style="html=1;dashed=0;whitespace=wrap;fillColor=#8C8496;strokeColor=#736782;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};rounded=1;verticalAlign=middle;arcSize=10;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;resizable=1;" vertex="1">
@@ -312,11 +292,11 @@
         </object>
         <object placeholders="1" c4Name="Journalføringssystem" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="System for journalføring. Pr. i dag er dette Public 360." id="MKrSUBia_YIlwrE3DUms-27">
           <mxCell parent="MKrSUBia_YIlwrE3DUms-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;resizable=0;" vertex="1">
-            <mxGeometry height="100" width="160" x="870" y="-120" as="geometry" />
+            <mxGeometry height="100" width="160" x="680" y="-122.5" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="MKrSUBia_YIlwrE3DUms-28" parent="MKrSUBia_YIlwrE3DUms-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#A9DB1F;fillColor=#A9DB1F;" value="Arkivering" vertex="1">
-          <mxGeometry height="20" width="210" x="800" y="-50" as="geometry" />
+          <mxGeometry height="20" width="210" x="560" y="-50" as="geometry" />
         </mxCell>
         <mxCell id="MKrSUBia_YIlwrE3DUms-29" edge="1" parent="MKrSUBia_YIlwrE3DUms-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=1;exitY=0.621;exitDx=0;exitDy=0;exitPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
@@ -330,11 +310,11 @@
         <mxCell id="MKrSUBia_YIlwrE3DUms-34" parent="MKrSUBia_YIlwrE3DUms-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;" value="Komplett datasett i sikkert datalager" vertex="1">
           <mxGeometry height="20" width="120" x="500" y="-250" as="geometry" />
         </mxCell>
-        <mxCell id="MKrSUBia_YIlwrE3DUms-35" parent="MKrSUBia_YIlwrE3DUms-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;" value="Arbeidskopier av bokmerkede filer i FTK" vertex="1">
-          <mxGeometry height="20" width="130" x="695" y="-250" as="geometry" />
+        <mxCell id="MKrSUBia_YIlwrE3DUms-35" parent="MKrSUBia_YIlwrE3DUms-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;" value="Arbeidskopier av filer" vertex="1">
+          <mxGeometry height="20" width="130" x="880" y="-260" as="geometry" />
         </mxCell>
         <mxCell id="MKrSUBia_YIlwrE3DUms-36" parent="MKrSUBia_YIlwrE3DUms-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;" value="Filer som dokumenterer vår saksbehandling" vertex="1">
-          <mxGeometry height="20" width="140" x="880" y="-250" as="geometry" />
+          <mxGeometry height="20" width="140" x="690" y="-250" as="geometry" />
         </mxCell>
         <UserObject label="Fusjoner, interne dokumenter" link="data:page/id,zNMGI6wU0Mi8Qe2H5Q59" tooltip="Ekstern part oversender sine interne dokumenter etter pålegg om å gi opplysninger" id="HNAS1RiYbAGnBYoe9_e8-0">
           <mxCell parent="MKrSUBia_YIlwrE3DUms-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#b1ddf0;strokeColor=#B1DDF0;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;" vertex="1">
@@ -361,6 +341,15 @@
             <mxGeometry height="30" width="200" x="620" y="-350" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="Bq5xisdlCqGq8zLd4hBb-3" edge="1" parent="MKrSUBia_YIlwrE3DUms-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=1;exitY=0.621;exitDx=0;exitDy=0;exitPerimeter=0;" target="MKrSUBia_YIlwrE3DUms-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="-70.5" as="sourcePoint" />
+            <mxPoint x="470" y="-70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MKrSUBia_YIlwrE3DUms-25" parent="MKrSUBia_YIlwrE3DUms-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#A9DB1F;fillColor=#A9DB1F;" value="Saksbehandling" vertex="1">
+          <mxGeometry height="20" width="250" x="760" y="-50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
