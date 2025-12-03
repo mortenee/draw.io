@@ -327,21 +327,6 @@
         <mxCell id="MKrSUBia_YIlwrE3DUms-30" parent="MKrSUBia_YIlwrE3DUms-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;" value="Ekstern part" vertex="1">
           <mxGeometry height="20" width="70" x="150" y="-260" as="geometry" />
         </mxCell>
-        <UserObject label="Fusjoner, interne dokumenter" link="data:page/id,zNMGI6wU0Mi8Qe2H5Q59" tooltip="Ekstern part oversender sine interne dokumenter etter pålegg om å gi opplysninger" id="MKrSUBia_YIlwrE3DUms-31">
-          <mxCell parent="MKrSUBia_YIlwrE3DUms-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#b1ddf0;strokeColor=#B1DDF0;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;" vertex="1">
-            <mxGeometry height="30" width="200" x="80" y="-350" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Fusjoner, andre data" link="data:page/id,UQ5l-dND_rVHEr0TBZg9" tooltip="Ekstern part oversender data etter pålegg om å gi opplysninger" id="MKrSUBia_YIlwrE3DUms-32">
-          <mxCell parent="MKrSUBia_YIlwrE3DUms-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#b1ddf0;strokeColor=#10739e;textShadow=1;fontColor=default;fontFamily=Helvetica;fontSize=12;" vertex="1">
-            <mxGeometry height="30" width="196" x="290" y="-350" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Etterforskning" link="data:page/id,yn1ltShgPG_MPMVu1NM-" tooltip="Ekstern parts data tatt i beslag ifm etterforskning" id="MKrSUBia_YIlwrE3DUms-33">
-          <mxCell parent="MKrSUBia_YIlwrE3DUms-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#b1ddf0;strokeColor=#B1DDF0;textShadow=1;fontColor=#FFFFFF;" vertex="1">
-            <mxGeometry height="30" width="200" x="500" y="-350" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="MKrSUBia_YIlwrE3DUms-34" parent="MKrSUBia_YIlwrE3DUms-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;" value="Komplett datasett i sikkert datalager" vertex="1">
           <mxGeometry height="20" width="120" x="500" y="-250" as="geometry" />
         </mxCell>
@@ -351,9 +336,29 @@
         <mxCell id="MKrSUBia_YIlwrE3DUms-36" parent="MKrSUBia_YIlwrE3DUms-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;" value="Filer som dokumenterer vår saksbehandling" vertex="1">
           <mxGeometry height="20" width="140" x="880" y="-250" as="geometry" />
         </mxCell>
-        <UserObject label="Korrespondanse (alle sakstyper)" link="data:page/id,ugSgmhHl7d98_ag5bhHV" tooltip="Ekstern korrespondanse som utløser saksbehandling" id="fJyXecsVgTZmeB_sVIPB-3">
+        <UserObject label="Fusjoner, interne dokumenter" link="data:page/id,zNMGI6wU0Mi8Qe2H5Q59" tooltip="Ekstern part oversender sine interne dokumenter etter pålegg om å gi opplysninger" id="HNAS1RiYbAGnBYoe9_e8-0">
+          <mxCell parent="MKrSUBia_YIlwrE3DUms-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#b1ddf0;strokeColor=#B1DDF0;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;" vertex="1">
+            <mxGeometry height="30" width="180" x="80" y="-350" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Fusjoner, andre data" link="data:page/id,UQ5l-dND_rVHEr0TBZg9" tooltip="Ekstern part oversender data etter pålegg om å gi opplysninger" id="HNAS1RiYbAGnBYoe9_e8-1">
+          <mxCell parent="MKrSUBia_YIlwrE3DUms-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#b1ddf0;strokeColor=#10739e;textShadow=1;fontColor=default;fontFamily=Helvetica;fontSize=12;" vertex="1">
+            <mxGeometry height="30" width="180" x="260" y="-350" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Etterforskning" link="data:page/id,yn1ltShgPG_MPMVu1NM-" tooltip="Ekstern parts data tatt i beslag ifm etterforskning" id="HNAS1RiYbAGnBYoe9_e8-2">
           <mxCell parent="MKrSUBia_YIlwrE3DUms-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#b1ddf0;strokeColor=#B1DDF0;textShadow=1;fontColor=#FFFFFF;" vertex="1">
-            <mxGeometry height="30" width="240" x="710" y="-350" as="geometry" />
+            <mxGeometry height="30" width="180" x="440" y="-350" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Korrespondanse (alle sakstyper)" link="data:page/id,ugSgmhHl7d98_ag5bhHV" tooltip="Ekstern korrespondanse som utløser saksbehandling" id="HNAS1RiYbAGnBYoe9_e8-3">
+          <mxCell parent="MKrSUBia_YIlwrE3DUms-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#b1ddf0;strokeColor=#B1DDF0;textShadow=1;fontColor=#FFFFFF;" vertex="1">
+            <mxGeometry height="30" width="220" x="820" y="-350" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Markedsovervåking" link="data:page/id,R4JuxRhbI9wCKP7A8muo" tooltip="Ekstern parts data tatt i beslag ifm etterforskning" id="HNAS1RiYbAGnBYoe9_e8-4">
+          <mxCell parent="MKrSUBia_YIlwrE3DUms-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#b1ddf0;strokeColor=#B1DDF0;textShadow=1;fontColor=#FFFFFF;fontFamily=Helvetica;fontSize=12;" vertex="1">
+            <mxGeometry height="30" width="200" x="620" y="-350" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
@@ -432,21 +437,6 @@
         <mxCell id="30pzLbgddQ9CKUm3QNA_-30" parent="30pzLbgddQ9CKUm3QNA_-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;" value="Ekstern part" vertex="1">
           <mxGeometry height="20" width="70" x="150" y="-260" as="geometry" />
         </mxCell>
-        <UserObject label="Fusjoner, interne dokumenter" link="data:page/id,zNMGI6wU0Mi8Qe2H5Q59" id="30pzLbgddQ9CKUm3QNA_-31">
-          <mxCell parent="30pzLbgddQ9CKUm3QNA_-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#b1ddf0;strokeColor=#B1DDF0;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;" vertex="1">
-            <mxGeometry height="30" width="200" x="80" y="-350" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Fusjoner, andre data" link="data:page/id,UQ5l-dND_rVHEr0TBZg9" tooltip="Ekstern part oversender data etter pålegg om å gi opplysninger" id="30pzLbgddQ9CKUm3QNA_-32">
-          <mxCell parent="30pzLbgddQ9CKUm3QNA_-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#b1ddf0;strokeColor=#B1DDF0;textShadow=1;fontColor=#FFFFFF;" vertex="1">
-            <mxGeometry height="30" width="200" x="290" y="-350" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Etterforskning" link="data:page/id,yn1ltShgPG_MPMVu1NM-" tooltip="Ekstern parts data tatt i beslag ifm etterforskning" id="30pzLbgddQ9CKUm3QNA_-33">
-          <mxCell parent="30pzLbgddQ9CKUm3QNA_-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#b1ddf0;strokeColor=#10739e;textShadow=1;fontColor=default;fontFamily=Helvetica;fontSize=12;" vertex="1">
-            <mxGeometry height="30" width="200" x="500" y="-350" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="30pzLbgddQ9CKUm3QNA_-34" parent="30pzLbgddQ9CKUm3QNA_-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;" value="Komplett datasett i sikkert datalager" vertex="1">
           <mxGeometry height="20" width="120" x="500" y="-250" as="geometry" />
         </mxCell>
@@ -461,9 +451,29 @@
             <mxGeometry height="100" width="160" x="80" y="-120" as="geometry" />
           </mxCell>
         </object>
-        <UserObject label="Korrespondanse (alle sakstyper)" link="data:page/id,ugSgmhHl7d98_ag5bhHV" tooltip="Ekstern korrespondanse som utløser saksbehandling" id="4vplzevJ9L3tvHBAnduB-3">
+        <UserObject label="Fusjoner, interne dokumenter" link="data:page/id,zNMGI6wU0Mi8Qe2H5Q59" tooltip="Ekstern part oversender sine interne dokumenter etter pålegg om å gi opplysninger" id="Ew-PTgzVrZzR9h4iutVl-0">
+          <mxCell parent="30pzLbgddQ9CKUm3QNA_-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#b1ddf0;strokeColor=#B1DDF0;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;" vertex="1">
+            <mxGeometry height="30" width="180" x="80" y="-350" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Fusjoner, andre data" link="data:page/id,UQ5l-dND_rVHEr0TBZg9" tooltip="Ekstern part oversender data etter pålegg om å gi opplysninger" id="Ew-PTgzVrZzR9h4iutVl-1">
           <mxCell parent="30pzLbgddQ9CKUm3QNA_-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#b1ddf0;strokeColor=#B1DDF0;textShadow=1;fontColor=#FFFFFF;" vertex="1">
-            <mxGeometry height="30" width="240" x="710" y="-350" as="geometry" />
+            <mxGeometry height="30" width="180" x="260" y="-350" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Etterforskning" link="data:page/id,yn1ltShgPG_MPMVu1NM-" tooltip="Ekstern parts data tatt i beslag ifm etterforskning" id="Ew-PTgzVrZzR9h4iutVl-2">
+          <mxCell parent="30pzLbgddQ9CKUm3QNA_-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#b1ddf0;strokeColor=#10739e;textShadow=1;fontColor=default;fontFamily=Helvetica;fontSize=12;" vertex="1">
+            <mxGeometry height="30" width="180" x="440" y="-350" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Korrespondanse (alle sakstyper)" link="data:page/id,ugSgmhHl7d98_ag5bhHV" tooltip="Ekstern korrespondanse som utløser saksbehandling" id="Ew-PTgzVrZzR9h4iutVl-3">
+          <mxCell parent="30pzLbgddQ9CKUm3QNA_-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#b1ddf0;strokeColor=#B1DDF0;textShadow=1;fontColor=#FFFFFF;" vertex="1">
+            <mxGeometry height="30" width="220" x="820" y="-350" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Markedsovervåking" link="data:page/id,R4JuxRhbI9wCKP7A8muo" tooltip="Ekstern parts data tatt i beslag ifm etterforskning" id="Ew-PTgzVrZzR9h4iutVl-4">
+          <mxCell parent="30pzLbgddQ9CKUm3QNA_-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#b1ddf0;strokeColor=#B1DDF0;textShadow=1;fontColor=#FFFFFF;fontFamily=Helvetica;fontSize=12;" vertex="1">
+            <mxGeometry height="30" width="200" x="620" y="-350" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
@@ -784,21 +794,6 @@
         <mxCell id="vwjWWcgQGXXt3OsU1dZs-28" parent="vwjWWcgQGXXt3OsU1dZs-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;" value="Ekstern part" vertex="1">
           <mxGeometry height="20" width="70" x="150" y="-260" as="geometry" />
         </mxCell>
-        <UserObject label="Fusjoner, interne dokumenter" link="data:page/id,zNMGI6wU0Mi8Qe2H5Q59" tooltip="Ekstern part oversender sine interne dokumenter etter pålegg om å gi opplysninger" id="vwjWWcgQGXXt3OsU1dZs-29">
-          <mxCell parent="vwjWWcgQGXXt3OsU1dZs-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#b1ddf0;strokeColor=#B1DDF0;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;" vertex="1">
-            <mxGeometry height="30" width="200" x="80" y="-350" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Fusjoner, andre data" link="data:page/id,UQ5l-dND_rVHEr0TBZg9" tooltip="Ekstern part oversender data etter pålegg om å gi opplysninger" id="vwjWWcgQGXXt3OsU1dZs-30">
-          <mxCell parent="vwjWWcgQGXXt3OsU1dZs-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#b1ddf0;strokeColor=#B1DDF0;textShadow=1;fontColor=#FFFFFF;" vertex="1">
-            <mxGeometry height="30" width="200" x="290" y="-350" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Etterforskningssaker" link="data:page/id,yn1ltShgPG_MPMVu1NM-" tooltip="Ekstern parts data tatt i beslag ifm etterforskning" id="vwjWWcgQGXXt3OsU1dZs-31">
-          <mxCell parent="vwjWWcgQGXXt3OsU1dZs-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#b1ddf0;strokeColor=#B1DDF0;textShadow=1;fontColor=#FFFFFF;" vertex="1">
-            <mxGeometry height="30" width="200" x="500" y="-350" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="vwjWWcgQGXXt3OsU1dZs-32" parent="vwjWWcgQGXXt3OsU1dZs-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;" value="Komplett datasett i sikkert datalager" vertex="1">
           <mxGeometry height="20" width="120" x="500" y="-250" as="geometry" />
         </mxCell>
@@ -818,9 +813,29 @@
             <mxGeometry height="80" width="70" x="140" y="20" as="geometry" />
           </mxCell>
         </object>
-        <UserObject label="&lt;span&gt;&lt;font&gt;Korrespondanse (alle sakstyper)&lt;/font&gt;&lt;/span&gt;" link="data:page/id,ugSgmhHl7d98_ag5bhHV" tooltip="Ekstern korrespondanse som utløser saksbehandling" id="1i8HLx4hFGn3VedVHPyy-3">
+        <UserObject label="Fusjoner, interne dokumenter" link="data:page/id,zNMGI6wU0Mi8Qe2H5Q59" tooltip="Ekstern part oversender sine interne dokumenter etter pålegg om å gi opplysninger" id="3EzyDgffL-cLz5zQY2Ij-0">
+          <mxCell parent="vwjWWcgQGXXt3OsU1dZs-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#b1ddf0;strokeColor=#B1DDF0;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;" vertex="1">
+            <mxGeometry height="30" width="180" x="80" y="-350" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Fusjoner, andre data" link="data:page/id,UQ5l-dND_rVHEr0TBZg9" tooltip="Ekstern part oversender data etter pålegg om å gi opplysninger" id="3EzyDgffL-cLz5zQY2Ij-1">
+          <mxCell parent="vwjWWcgQGXXt3OsU1dZs-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#b1ddf0;strokeColor=#B1DDF0;textShadow=1;fontColor=#FFFFFF;" vertex="1">
+            <mxGeometry height="30" width="180" x="260" y="-350" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Etterforskning" link="data:page/id,yn1ltShgPG_MPMVu1NM-" tooltip="Ekstern parts data tatt i beslag ifm etterforskning" id="3EzyDgffL-cLz5zQY2Ij-2">
+          <mxCell parent="vwjWWcgQGXXt3OsU1dZs-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#b1ddf0;strokeColor=#B1DDF0;textShadow=1;fontColor=#FFFFFF;" vertex="1">
+            <mxGeometry height="30" width="180" x="440" y="-350" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Korrespondanse (alle sakstyper)" link="data:page/id,ugSgmhHl7d98_ag5bhHV" tooltip="Ekstern korrespondanse som utløser saksbehandling" id="3EzyDgffL-cLz5zQY2Ij-3">
           <mxCell parent="vwjWWcgQGXXt3OsU1dZs-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#b1ddf0;strokeColor=#10739e;textShadow=1;fontColor=default;fontFamily=Helvetica;fontSize=12;" vertex="1">
-            <mxGeometry height="30" width="240" x="710" y="-350" as="geometry" />
+            <mxGeometry height="30" width="220" x="820" y="-350" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Markedsovervåking" link="data:page/id,R4JuxRhbI9wCKP7A8muo" tooltip="Ekstern parts data tatt i beslag ifm etterforskning" id="3EzyDgffL-cLz5zQY2Ij-4">
+          <mxCell parent="vwjWWcgQGXXt3OsU1dZs-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#b1ddf0;strokeColor=#B1DDF0;textShadow=1;fontColor=#FFFFFF;fontFamily=Helvetica;fontSize=12;" vertex="1">
+            <mxGeometry height="30" width="200" x="620" y="-350" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
@@ -832,44 +847,49 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="W0pSMhOb1fG87iDCwezf-3" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#10739E;fillColor=#B1DDF0;" value="Postmottak" vertex="1">
-          <mxGeometry height="210" width="860" x="260" y="170" as="geometry" />
+          <mxGeometry height="210" width="950" x="260" y="160" as="geometry" />
         </mxCell>
         <mxCell id="W0pSMhOb1fG87iDCwezf-4" parent="W0pSMhOb1fG87iDCwezf-3" style="text;strokeColor=none;fillColor=#B1DDF0;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;ul&gt;&lt;li&gt;Hvordan sørge for at alle mottak av data går via postmottak for å opprettholde kontroll?&lt;/li&gt;&lt;/ul&gt;" vertex="1">
-          <mxGeometry height="30" width="860" y="30" as="geometry" />
+          <mxGeometry height="30" width="950" y="30" as="geometry" />
         </mxCell>
         <mxCell id="W0pSMhOb1fG87iDCwezf-5" parent="W0pSMhOb1fG87iDCwezf-3" style="text;strokeColor=none;fillColor=#B1DDF0;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;ul&gt;&lt;li&gt;Item 2&lt;/li&gt;&lt;/ul&gt;" vertex="1">
-          <mxGeometry height="30" width="860" y="60" as="geometry" />
+          <mxGeometry height="30" width="950" y="60" as="geometry" />
         </mxCell>
         <mxCell id="W0pSMhOb1fG87iDCwezf-6" parent="W0pSMhOb1fG87iDCwezf-3" style="text;strokeColor=none;fillColor=#B1DDF0;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;ul&gt;&lt;li&gt;Item 3&lt;/li&gt;&lt;/ul&gt;" vertex="1">
-          <mxGeometry height="30" width="860" y="90" as="geometry" />
+          <mxGeometry height="30" width="950" y="90" as="geometry" />
         </mxCell>
         <mxCell id="W0pSMhOb1fG87iDCwezf-7" parent="W0pSMhOb1fG87iDCwezf-3" style="text;strokeColor=none;fillColor=#B1DDF0;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;ul&gt;&lt;li&gt;Item 3&lt;/li&gt;&lt;/ul&gt;" vertex="1">
-          <mxGeometry height="30" width="860" y="120" as="geometry" />
+          <mxGeometry height="30" width="950" y="120" as="geometry" />
         </mxCell>
         <mxCell id="W0pSMhOb1fG87iDCwezf-8" parent="W0pSMhOb1fG87iDCwezf-3" style="text;strokeColor=none;fillColor=#B1DDF0;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;ul&gt;&lt;li&gt;Item 3&lt;/li&gt;&lt;/ul&gt;" vertex="1">
-          <mxGeometry height="30" width="860" y="150" as="geometry" />
+          <mxGeometry height="30" width="950" y="150" as="geometry" />
         </mxCell>
         <mxCell id="W0pSMhOb1fG87iDCwezf-9" parent="W0pSMhOb1fG87iDCwezf-3" style="text;strokeColor=none;fillColor=#B1DDF0;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;ul&gt;&lt;li&gt;Item 3&lt;/li&gt;&lt;/ul&gt;" vertex="1">
-          <mxGeometry height="30" width="860" y="180" as="geometry" />
+          <mxGeometry height="30" width="950" y="180" as="geometry" />
         </mxCell>
-        <UserObject label="Fusjoner, interne dokumenter" link="data:page/id,zNMGI6wU0Mi8Qe2H5Q59" tooltip="Ekstern part oversender sine interne dokumenter etter pålegg om å gi opplysninger" id="62roU5mxGLqrHeoPnEmS-1">
+        <UserObject label="Fusjoner, interne dokumenter" link="data:page/id,zNMGI6wU0Mi8Qe2H5Q59" tooltip="Ekstern part oversender sine interne dokumenter etter pålegg om å gi opplysninger" id="RHPOqCfWGseZ3kL-K0aH-1">
           <mxCell parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#b1ddf0;strokeColor=#B1DDF0;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;" vertex="1">
-            <mxGeometry height="30" width="200" x="260" y="100" as="geometry" />
+            <mxGeometry height="30" width="180" x="260" y="90" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Fusjoner, andre data" link="data:page/id,UQ5l-dND_rVHEr0TBZg9" tooltip="Ekstern part oversender data etter pålegg om å gi opplysninger" id="62roU5mxGLqrHeoPnEmS-2">
+        <UserObject label="Fusjoner, andre data" link="data:page/id,UQ5l-dND_rVHEr0TBZg9" tooltip="Ekstern part oversender data etter pålegg om å gi opplysninger" id="RHPOqCfWGseZ3kL-K0aH-2">
           <mxCell parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#b1ddf0;strokeColor=#B1DDF0;textShadow=1;fontColor=#FFFFFF;" vertex="1">
-            <mxGeometry height="30" width="200" x="470" y="100" as="geometry" />
+            <mxGeometry height="30" width="180" x="440" y="90" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Etterforskningssaker" link="data:page/id,yn1ltShgPG_MPMVu1NM-" tooltip="Ekstern parts data tatt i beslag ifm etterforskning" id="62roU5mxGLqrHeoPnEmS-3">
+        <UserObject label="Etterforskning" link="data:page/id,yn1ltShgPG_MPMVu1NM-" tooltip="Ekstern parts data tatt i beslag ifm etterforskning" id="RHPOqCfWGseZ3kL-K0aH-3">
           <mxCell parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#b1ddf0;strokeColor=#B1DDF0;textShadow=1;fontColor=#FFFFFF;" vertex="1">
-            <mxGeometry height="30" width="200" x="680" y="100" as="geometry" />
+            <mxGeometry height="30" width="180" x="620" y="90" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;span&gt;&lt;font&gt;Korrespondanse (alle sakstyper)&lt;/font&gt;&lt;/span&gt;" link="data:page/id,ugSgmhHl7d98_ag5bhHV" tooltip="Ekstern korrespondanse som utløser saksbehandling" id="62roU5mxGLqrHeoPnEmS-4">
+        <UserObject label="Korrespondanse (alle sakstyper)" link="data:page/id,ugSgmhHl7d98_ag5bhHV" tooltip="Ekstern korrespondanse som utløser saksbehandling" id="RHPOqCfWGseZ3kL-K0aH-4">
+          <mxCell parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#b1ddf0;strokeColor=#B1DDF0;textShadow=1;fontColor=#FFFFFF;" vertex="1">
+            <mxGeometry height="30" width="220" x="1000" y="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Markedsovervåking" link="data:page/id,R4JuxRhbI9wCKP7A8muo" tooltip="Ekstern parts data tatt i beslag ifm etterforskning" id="RHPOqCfWGseZ3kL-K0aH-5">
           <mxCell parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#b1ddf0;strokeColor=#B1DDF0;textShadow=1;fontColor=#FFFFFF;fontFamily=Helvetica;fontSize=12;" vertex="1">
-            <mxGeometry height="30" width="240" x="890" y="100" as="geometry" />
+            <mxGeometry height="30" width="200" x="800" y="90" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
