@@ -174,7 +174,7 @@
         </mxCell>
         <mxCell id="cxKhwKOIarYfFS6su8tu-40" connectable="0" parent="cxKhwKOIarYfFS6su8tu-39" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=1;points=[];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Oversendelsebrev journalføres&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;med lenke til data&lt;/span&gt;" vertex="1">
           <mxGeometry relative="1" x="0.0823" y="3" as="geometry">
-            <mxPoint x="-230" y="4" as="offset" />
+            <mxPoint x="-230" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="Dataportal" c4Type="Frontend" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Webgrensesnitt til datasett med støtte for tilgangskontroll, versjonering og logging." id="oQ20reSJk6VofPbaJnkU-0">
