@@ -5,16 +5,16 @@
         <mxCell id="cxKhwKOIarYfFS6su8tu-0" />
         <mxCell id="cxKhwKOIarYfFS6su8tu-1" parent="cxKhwKOIarYfFS6su8tu-0" />
         <mxCell id="cxKhwKOIarYfFS6su8tu-2" parent="cxKhwKOIarYfFS6su8tu-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;dashed=1;" value="" vertex="1">
-          <mxGeometry height="405" width="180" x="860" y="-275" as="geometry" />
+          <mxGeometry height="410" width="180" x="860" y="-280" as="geometry" />
         </mxCell>
         <mxCell id="cxKhwKOIarYfFS6su8tu-3" parent="cxKhwKOIarYfFS6su8tu-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;dashed=1;" value="" vertex="1">
-          <mxGeometry height="405" width="180" x="670" y="-275" as="geometry" />
+          <mxGeometry height="410" width="180" x="670" y="-280" as="geometry" />
         </mxCell>
         <mxCell id="cxKhwKOIarYfFS6su8tu-4" parent="cxKhwKOIarYfFS6su8tu-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;dashed=1;" value="" vertex="1">
-          <mxGeometry height="400" width="400" x="260" y="-275" as="geometry" />
+          <mxGeometry height="405" width="400" x="260" y="-280" as="geometry" />
         </mxCell>
         <mxCell id="cxKhwKOIarYfFS6su8tu-5" parent="cxKhwKOIarYfFS6su8tu-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;dashed=1;" value="E" vertex="1">
-          <mxGeometry height="400" width="180" x="70" y="-270" as="geometry" />
+          <mxGeometry height="410" width="180" x="70" y="-280" as="geometry" />
         </mxCell>
         <mxCell id="cxKhwKOIarYfFS6su8tu-6" edge="1" parent="cxKhwKOIarYfFS6su8tu-1" source="cxKhwKOIarYfFS6su8tu-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0;entryY=0.364;entryDx=0;entryDy=0;entryPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
@@ -110,12 +110,6 @@
             <mxGeometry height="100" width="160" x="680" y="-120" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="cxKhwKOIarYfFS6su8tu-23" parent="cxKhwKOIarYfFS6su8tu-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=0;strokeColor=#A9DB1F;fillColor=#A9DB1F;" value="Databehandling" vertex="1">
-          <mxGeometry height="20" width="270" x="300" y="-50" as="geometry" />
-        </mxCell>
-        <mxCell id="cxKhwKOIarYfFS6su8tu-24" parent="cxKhwKOIarYfFS6su8tu-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#A9DB1F;fillColor=#A9DB1F;" value="Saksbehandling" vertex="1">
-          <mxGeometry height="20" width="230" x="560" y="-50" as="geometry" />
-        </mxCell>
         <object placeholders="1" c4Name="Journalføringssystem" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="System for journalføring. Pr. i dag er dette Public 360." id="cxKhwKOIarYfFS6su8tu-25">
           <mxCell parent="cxKhwKOIarYfFS6su8tu-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;resizable=0;" vertex="1">
             <mxGeometry height="100" width="160" x="870" y="-120" as="geometry" />
@@ -193,6 +187,12 @@
             <mxGeometry height="100" width="160" x="470" y="-60" as="geometry" />
           </mxCell>
         </object>
+        <mxCell id="cxKhwKOIarYfFS6su8tu-23" parent="cxKhwKOIarYfFS6su8tu-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=0;strokeColor=#A9DB1F;fillColor=#A9DB1F;" value="Databehandling" vertex="1">
+          <mxGeometry height="20" width="270" x="300" y="-50" as="geometry" />
+        </mxCell>
+        <mxCell id="cxKhwKOIarYfFS6su8tu-24" parent="cxKhwKOIarYfFS6su8tu-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#A9DB1F;fillColor=#A9DB1F;" value="Saksbehandling" vertex="1">
+          <mxGeometry height="20" width="230" x="560" y="-50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
