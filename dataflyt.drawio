@@ -643,7 +643,7 @@
             <mxGeometry height="30" width="200" x="620" y="-350" as="geometry" />
           </mxCell>
         </UserObject>
-        <object placeholders="1" c4Name="Datalager, frontend" c4Type="Frontend" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Postmottak-funksjon i Informasjonsforvaltning" link="data:page/id,U1zW4GbvwTzbMP1sjaRH" id="76QCTELGIKw8U6qmXbYp-0">
+        <object placeholders="1" c4Name="Dataportal" c4Type="Frontend" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Webgrensesnitt til datasett med støtte for tilgangskontroll, versjonering og logging." id="76QCTELGIKw8U6qmXbYp-0">
           <mxCell parent="s3u64o5YpBZpABGCdSNX-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#1168BD;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
             <mxGeometry height="100" width="160" x="480" y="-120" as="geometry" />
           </mxCell>
