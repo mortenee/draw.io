@@ -11,7 +11,7 @@
           <mxGeometry height="405" width="180" x="670" y="-275" as="geometry" />
         </mxCell>
         <mxCell id="aGrLuACEU8bLTiiZHi7y-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;dashed=1;" value="" vertex="1">
-          <mxGeometry height="400" width="400" x="260" y="-270" as="geometry" />
+          <mxGeometry height="400" width="400" x="260" y="-275" as="geometry" />
         </mxCell>
         <mxCell id="XdspxS6Hz_4JBQYh9Mr0-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;dashed=1;" value="E" vertex="1">
           <mxGeometry height="400" width="180" x="70" y="-270" as="geometry" />
@@ -114,7 +114,7 @@
           <mxGeometry height="20" width="270" x="300" y="-50" as="geometry" />
         </mxCell>
         <mxCell id="XdspxS6Hz_4JBQYh9Mr0-18" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#A9DB1F;fillColor=#A9DB1F;" value="Saksbehandling" vertex="1">
-          <mxGeometry height="20" width="250" x="560" y="-50" as="geometry" />
+          <mxGeometry height="20" width="230" x="560" y="-50" as="geometry" />
         </mxCell>
         <object placeholders="1" c4Name="Journalføringssystem" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="System for journalføring. Pr. i dag er dette Public 360." id="XdspxS6Hz_4JBQYh9Mr0-20">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;resizable=0;" vertex="1">
@@ -122,7 +122,7 @@
           </mxCell>
         </object>
         <mxCell id="XdspxS6Hz_4JBQYh9Mr0-21" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#A9DB1F;fillColor=#A9DB1F;" value="Arkivering" vertex="1">
-          <mxGeometry height="20" width="210" x="800" y="-50" as="geometry" />
+          <mxGeometry height="20" width="230" x="780" y="-50" as="geometry" />
         </mxCell>
         <mxCell id="XdspxS6Hz_4JBQYh9Mr0-22" edge="1" parent="1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=1;exitY=0.621;exitDx=0;exitDy=0;exitPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
@@ -183,9 +183,9 @@
             <mxPoint x="950" y="-20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eR-Wt7-hxsO6rI6oro3y-2" connectable="0" parent="eR-Wt7-hxsO6rI6oro3y-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Oversendelsebrev mm" vertex="1">
+        <mxCell id="eR-Wt7-hxsO6rI6oro3y-2" connectable="0" parent="eR-Wt7-hxsO6rI6oro3y-1" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" value="Oversendelsebrev journalføres&amp;nbsp;&lt;div&gt;med lenke til data&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="0.0823" y="3" as="geometry">
-            <mxPoint y="1" as="offset" />
+            <mxPoint x="-279" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
@@ -663,9 +663,9 @@
             <mxPoint x="510" y="59.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="76QCTELGIKw8U6qmXbYp-2" connectable="0" parent="76QCTELGIKw8U6qmXbYp-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Oversendelsebrev mm" vertex="1">
+        <mxCell id="76QCTELGIKw8U6qmXbYp-2" connectable="0" parent="76QCTELGIKw8U6qmXbYp-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;text-align: left;&quot;&gt;Oversendelsebrev journalføres&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;text-align: left;&quot;&gt;med lenke til data&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="0.0823" y="3" as="geometry">
-            <mxPoint y="1" as="offset" />
+            <mxPoint x="-199" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
