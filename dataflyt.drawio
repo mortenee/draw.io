@@ -122,10 +122,10 @@
         <mxCell id="cxKhwKOIarYfFS6su8tu-28" parent="cxKhwKOIarYfFS6su8tu-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;" value="Ekstern part" vertex="1">
           <mxGeometry height="20" width="70" x="125" y="-280" as="geometry" />
         </mxCell>
-        <mxCell id="cxKhwKOIarYfFS6su8tu-29" parent="cxKhwKOIarYfFS6su8tu-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;" value="Komplett datasett i sikkert datalager" vertex="1">
+        <mxCell id="cxKhwKOIarYfFS6su8tu-29" parent="cxKhwKOIarYfFS6su8tu-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;" value="&amp;nbsp; &amp;nbsp;Komplett datasett i sikkert datalager" vertex="1">
           <mxGeometry height="20" width="250" x="335" y="-280" as="geometry" />
         </mxCell>
-        <mxCell id="cxKhwKOIarYfFS6su8tu-30" parent="cxKhwKOIarYfFS6su8tu-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;" value="Arbeidskopier av filer" vertex="1">
+        <mxCell id="cxKhwKOIarYfFS6su8tu-30" parent="cxKhwKOIarYfFS6su8tu-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;" value="&amp;nbsp; Arbeidskopier av filer" vertex="1">
           <mxGeometry height="20" width="130" x="705" y="-280" as="geometry" />
         </mxCell>
         <mxCell id="cxKhwKOIarYfFS6su8tu-31" parent="cxKhwKOIarYfFS6su8tu-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;" value="Dokumentasjon av saksbehandling" vertex="1">
@@ -174,7 +174,7 @@
         </mxCell>
         <mxCell id="cxKhwKOIarYfFS6su8tu-40" connectable="0" parent="cxKhwKOIarYfFS6su8tu-39" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=1;points=[];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Oversendelsebrev journalføres&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;med lenke til data&lt;/span&gt;" vertex="1">
           <mxGeometry relative="1" x="0.0823" y="3" as="geometry">
-            <mxPoint x="-230" y="2" as="offset" />
+            <mxPoint x="-180" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="Dataportal" c4Type="Frontend" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Webgrensesnitt til datasett med støtte for tilgangskontroll, versjonering og logging." id="oQ20reSJk6VofPbaJnkU-0">
