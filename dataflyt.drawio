@@ -326,7 +326,7 @@
             <mxGeometry height="30" width="180" x="80" y="-350" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Fusjoner, andre data" link="data:page/id,UQ5l-dND_rVHEr0TBZg9" tooltip="Ekstern part oversender data etter pålegg om å gi opplysninger" id="HNAS1RiYbAGnBYoe9_e8-1">
+        <UserObject label="Fusjoner, kvantitative data" link="data:page/id,UQ5l-dND_rVHEr0TBZg9" tooltip="Ekstern part oversender data etter pålegg om å gi opplysninger" id="HNAS1RiYbAGnBYoe9_e8-1">
           <mxCell parent="MKrSUBia_YIlwrE3DUms-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#b1ddf0;strokeColor=#10739e;textShadow=1;fontColor=default;fontFamily=Helvetica;fontSize=12;" vertex="1">
             <mxGeometry height="30" width="180" x="260" y="-350" as="geometry" />
           </mxCell>
