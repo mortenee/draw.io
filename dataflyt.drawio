@@ -50,7 +50,7 @@
         </object>
         <object placeholders="1" c4Name="FTK intern sone" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="FTK server på internt nett. Prosesserer data fra Data (E:) der det ligger men oppretter søkeindex mm lokalt." id="cxKhwKOIarYfFS6su8tu-12">
           <mxCell parent="cxKhwKOIarYfFS6su8tu-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;resizable=0;" vertex="1">
-            <mxGeometry height="100" width="160" x="480" y="-120" as="geometry" />
+            <mxGeometry height="100" width="160" x="470" y="-190" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Eksternt datarom" c4Type="Software System" c4Description="" label="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" tooltip="Ekstern parts datarom" id="cxKhwKOIarYfFS6su8tu-13">
@@ -190,7 +190,7 @@
         </mxCell>
         <object placeholders="1" c4Name="Dataportal" c4Type="Frontend" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Webgrensesnitt til datasett med støtte for tilgangskontroll, versjonering og logging." id="oQ20reSJk6VofPbaJnkU-0">
           <mxCell parent="cxKhwKOIarYfFS6su8tu-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#1168BD;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
-            <mxGeometry height="100" width="160" x="500" y="240" as="geometry" />
+            <mxGeometry height="100" width="160" x="470" y="-60" as="geometry" />
           </mxCell>
         </object>
       </root>
