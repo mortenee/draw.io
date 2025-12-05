@@ -146,8 +146,8 @@
         </object>
         <mxCell id="cxKhwKOIarYfFS6su8tu-39" edge="1" parent="cxKhwKOIarYfFS6su8tu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="-430.5" as="sourcePoint" />
-            <mxPoint x="840" y="-510" as="targetPoint" />
+            <mxPoint x="440" y="59.5" as="sourcePoint" />
+            <mxPoint x="970" y="-20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cxKhwKOIarYfFS6su8tu-40" connectable="0" parent="cxKhwKOIarYfFS6su8tu-39" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=1;points=[];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Korrespondanse journalføres&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;med lenke til evt.data&lt;/span&gt;" vertex="1">
