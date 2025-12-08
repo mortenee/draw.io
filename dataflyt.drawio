@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.4" pages="6">
   <diagram name="Alt i en flyt" id="ErO_NIYBBLMzwsnB33HS">
-    <mxGraphModel dx="772" dy="1661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1231" dy="1661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="cxKhwKOIarYfFS6su8tu-0" />
         <mxCell id="cxKhwKOIarYfFS6su8tu-1" parent="cxKhwKOIarYfFS6su8tu-0" />
@@ -144,7 +144,7 @@
             <mxGeometry height="80" width="70" x="130" y="20" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="cxKhwKOIarYfFS6su8tu-39" edge="1" parent="cxKhwKOIarYfFS6su8tu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;">
+        <mxCell id="cxKhwKOIarYfFS6su8tu-39" edge="1" parent="cxKhwKOIarYfFS6su8tu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0.415;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;" target="cxKhwKOIarYfFS6su8tu-25">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="59.5" as="sourcePoint" />
             <mxPoint x="970" y="-20" as="targetPoint" />
@@ -198,7 +198,7 @@
           <mxGeometry height="20" width="310" x="610" y="-45" as="geometry" />
         </mxCell>
         <mxCell id="La4mOb_AGKIgooYff3Or-0" parent="cxKhwKOIarYfFS6su8tu-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;strokeColor=#63BEF2;" value="" vertex="1">
-          <mxGeometry height="420" width="110" x="1080" y="-290" as="geometry" />
+          <mxGeometry height="420" width="180" x="1080" y="-290" as="geometry" />
         </mxCell>
         <object placeholders="1" c4Name="Nedlasting" c4Type="Person" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Ekstern part" id="La4mOb_AGKIgooYff3Or-1">
           <mxCell parent="cxKhwKOIarYfFS6su8tu-1" style="html=1;dashed=0;whitespace=wrap;fillColor=#8C8496;strokeColor=#736782;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};rounded=1;verticalAlign=middle;arcSize=10;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;resizable=1;" vertex="1">
@@ -223,7 +223,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="La4mOb_AGKIgooYff3Or-5" parent="cxKhwKOIarYfFS6su8tu-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;" value="Data ut" vertex="1">
-          <mxGeometry height="20" width="72.5" x="1097.5" y="-280" as="geometry" />
+          <mxGeometry height="20" width="72.5" x="1133.75" y="-280" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="eInnsyn" c4Type="Software System" c4Description="" label="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" tooltip="Ekstern parts datarom" id="La4mOb_AGKIgooYff3Or-6">
+          <mxCell parent="cxKhwKOIarYfFS6su8tu-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingBottom=40;" vertex="1">
+            <mxGeometry height="100" width="160" x="1090" y="10" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="La4mOb_AGKIgooYff3Or-7" edge="1" parent="cxKhwKOIarYfFS6su8tu-1" source="cxKhwKOIarYfFS6su8tu-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.606;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;" target="La4mOb_AGKIgooYff3Or-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1080" y="170" as="sourcePoint" />
+            <mxPoint x="1130" y="170.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
