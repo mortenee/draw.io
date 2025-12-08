@@ -139,7 +139,7 @@
             <mxGeometry height="80" width="70" x="70" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Harddisk" c4Type="Person" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Ekstern part" id="cxKhwKOIarYfFS6su8tu-33">
+        <object placeholders="1" c4Name="Innsyn" c4Type="Person" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Ekstern part" id="cxKhwKOIarYfFS6su8tu-33">
           <mxCell parent="cxKhwKOIarYfFS6su8tu-1" style="html=1;dashed=0;whitespace=wrap;fillColor=#8C8496;strokeColor=#736782;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};rounded=1;verticalAlign=middle;arcSize=10;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;resizable=1;" vertex="1">
             <mxGeometry height="80" width="70" x="130" y="20" as="geometry" />
           </mxCell>
