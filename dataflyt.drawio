@@ -46,7 +46,7 @@
             <mxGeometry height="100" width="160" x="280" y="10" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="KT Ekstern datautveksling" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Subsite av KT Sharepoint som er åpnet for at eksterne kan laste opp data " id="cxKhwKOIarYfFS6su8tu-10">
+        <object placeholders="1" c4Name="KT Ekstern datautveksling" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Subsite av KT Sharepoint som er åpnet opp for eksterne" id="cxKhwKOIarYfFS6su8tu-10">
           <mxCell parent="cxKhwKOIarYfFS6su8tu-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;resizable=0;" vertex="1">
             <mxGeometry height="100" width="160" x="280" y="-250" as="geometry" />
           </mxCell>
