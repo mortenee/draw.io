@@ -114,7 +114,7 @@
           </mxCell>
         </object>
         <mxCell id="cxKhwKOIarYfFS6su8tu-26" parent="cxKhwKOIarYfFS6su8tu-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#A9DB1F;fillColor=#A9DB1F;" value="Arkivering" vertex="1">
-          <mxGeometry height="20" width="230" x="790" y="-45" as="geometry" />
+          <mxGeometry height="20" width="130" x="910" y="-45" as="geometry" />
         </mxCell>
         <mxCell id="cxKhwKOIarYfFS6su8tu-27" edge="1" parent="cxKhwKOIarYfFS6su8tu-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="cxKhwKOIarYfFS6su8tu-25">
           <mxGeometry relative="1" as="geometry">
@@ -192,10 +192,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cxKhwKOIarYfFS6su8tu-23" parent="cxKhwKOIarYfFS6su8tu-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=0;strokeColor=#A9DB1F;fillColor=#A9DB1F;" value="Databehandling" vertex="1">
-          <mxGeometry height="20" width="260" x="310" y="-45" as="geometry" />
+          <mxGeometry height="20" width="310" x="300" y="-45" as="geometry" />
         </mxCell>
         <mxCell id="cxKhwKOIarYfFS6su8tu-24" parent="cxKhwKOIarYfFS6su8tu-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#A9DB1F;fillColor=#A9DB1F;" value="Saksbehandling" vertex="1">
-          <mxGeometry height="20" width="240" x="560" y="-45" as="geometry" />
+          <mxGeometry height="20" width="320" x="600" y="-45" as="geometry" />
         </mxCell>
         <mxCell id="La4mOb_AGKIgooYff3Or-0" parent="cxKhwKOIarYfFS6su8tu-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;strokeColor=#736782;" value="" vertex="1">
           <mxGeometry height="420" width="110" x="1080" y="-290" as="geometry" />
