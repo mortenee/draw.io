@@ -200,13 +200,13 @@
             <mxPoint x="-8" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="Fusjoner, interne dokumenter" link="data:page/id,ErO_NIYBBLMzwsnB33HS" tooltip="Ekstern part oversender sine interne dokumenter etter pålegg om å gi opplysninger" id="rL-GRUfLvPBANMxhGsbx-0">
-          <mxCell parent="DRRrQ6tS-cW3DmEARxFR-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#b1ddf0;strokeColor=#10739e;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1">
+        <UserObject label="2026" link="data:page/id,ErO_NIYBBLMzwsnB33HS" tooltip="Ekstern part oversender sine interne dokumenter etter pålegg om å gi opplysninger" id="rL-GRUfLvPBANMxhGsbx-0">
+          <mxCell parent="DRRrQ6tS-cW3DmEARxFR-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#CCE5FF;strokeColor=#63BEF2;fontFamily=Helvetica;fontSize=12;fontColor=#63BEF2;spacingBottom=26;" vertex="1">
             <mxGeometry height="60" width="260" x="110" y="-380" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Fusjoner, andre data" link="data:page/id,UQ5l-dND_rVHEr0TBZg9" tooltip="Ekstern part oversender data etter pålegg om å gi opplysninger" id="8txs4hVbsbmHY0Fn6WT8-0">
-          <mxCell parent="DRRrQ6tS-cW3DmEARxFR-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#b1ddf0;strokeColor=#B1DDF0;textShadow=1;fontColor=#FFFFFF;" vertex="1">
+        <UserObject label="2028" link="data:page/id,UQ5l-dND_rVHEr0TBZg9" tooltip="Ekstern part oversender data etter pålegg om å gi opplysninger" id="8txs4hVbsbmHY0Fn6WT8-0">
+          <mxCell parent="DRRrQ6tS-cW3DmEARxFR-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#CCE5FF;strokeColor=#CCE5FF;textShadow=1;fontColor=#FFFFFF;spacingBottom=26;" vertex="1">
             <mxGeometry height="60" width="260" x="370" y="-380" as="geometry" />
           </mxCell>
         </UserObject>
