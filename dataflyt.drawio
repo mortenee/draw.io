@@ -402,7 +402,7 @@
         </mxCell>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-33" connectable="0" parent="DRRrQ6tS-cW3DmEARxFR-32" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=1;points=[];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Korrespondanse journalføres og lenkes&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;til evt. data i dataportal&lt;/span&gt;" vertex="1">
           <mxGeometry relative="1" x="0.0823" y="5" as="geometry">
-            <mxPoint x="-160" y="4" as="offset" />
+            <mxPoint x="-151" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-34" edge="1" parent="DRRrQ6tS-cW3DmEARxFR-1" source="DRRrQ6tS-cW3DmEARxFR-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0.019;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" target="DRRrQ6tS-cW3DmEARxFR-38">
