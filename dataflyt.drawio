@@ -22,7 +22,7 @@
           <mxGeometry height="20" width="135.5" x="154.5" y="-340" as="geometry" />
         </mxCell>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-2" parent="DRRrQ6tS-cW3DmEARxFR-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;strokeColor=#63BEF2;" value="" vertex="1">
-          <mxGeometry height="410" width="150" x="110" y="-290" as="geometry" />
+          <mxGeometry height="420" width="150" x="110" y="-300" as="geometry" />
         </mxCell>
         <object placeholders="1" c4Name="Eksternt datarom" c4Type="Software System" c4Description="" label="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" tooltip="Ekstern parts datarom" id="DRRrQ6tS-cW3DmEARxFR-3">
           <mxCell parent="DRRrQ6tS-cW3DmEARxFR-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#FFFFFF;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingBottom=40;" vertex="1">
@@ -30,16 +30,16 @@
           </mxCell>
         </object>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-4" parent="DRRrQ6tS-cW3DmEARxFR-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;strokeColor=#63BEF2;" value="" vertex="1">
-          <mxGeometry height="410" width="330" x="280" y="-290" as="geometry" />
+          <mxGeometry height="420" width="330" x="280" y="-300" as="geometry" />
         </mxCell>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-5" parent="DRRrQ6tS-cW3DmEARxFR-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;fillColor=#cce5ff;strokeColor=#63BEF2;" value="" vertex="1">
           <mxGeometry height="130" width="310" x="290" y="-140" as="geometry" />
         </mxCell>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-6" parent="DRRrQ6tS-cW3DmEARxFR-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;strokeColor=#63BEF2;" value="" vertex="1">
-          <mxGeometry height="410" width="150" x="630" y="-290" as="geometry" />
+          <mxGeometry height="420" width="150" x="630" y="-300" as="geometry" />
         </mxCell>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-7" parent="DRRrQ6tS-cW3DmEARxFR-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;strokeColor=#63BEF2;" value="" vertex="1">
-          <mxGeometry height="410" width="150" x="800" y="-290" as="geometry" />
+          <mxGeometry height="420" width="150" x="800" y="-300" as="geometry" />
         </mxCell>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-8" edge="1" parent="DRRrQ6tS-cW3DmEARxFR-1" source="DRRrQ6tS-cW3DmEARxFR-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0;entryY=0.364;entryDx=0;entryDy=0;entryPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
@@ -54,7 +54,7 @@
         </object>
         <object placeholders="1" c4Name="Datautveksling" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Subsite av KT Sharepoint som er åpnet opp for eksterne" id="DRRrQ6tS-cW3DmEARxFR-12">
           <mxCell parent="DRRrQ6tS-cW3DmEARxFR-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;align=center;arcSize=6;strokeColor=#FFFFFF;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;resizable=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1">
-            <mxGeometry height="100" width="130" x="300" y="-250" as="geometry" />
+            <mxGeometry height="100" width="130" x="300" y="-260" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-14" edge="1" parent="DRRrQ6tS-cW3DmEARxFR-1" source="DRRrQ6tS-cW3DmEARxFR-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=1.019;exitY=0.604;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.006;entryY=0.59;entryDx=0;entryDy=0;entryPerimeter=0;" target="DRRrQ6tS-cW3DmEARxFR-12">
@@ -71,7 +71,7 @@
         </mxCell>
         <object placeholders="1" c4Name="Opplasting" c4Type="Person" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Ekstern part" id="DRRrQ6tS-cW3DmEARxFR-17">
           <mxCell parent="DRRrQ6tS-cW3DmEARxFR-1" style="html=1;dashed=0;whitespace=wrap;fillColor=#8C8496;strokeColor=#FFFFFF;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};rounded=1;verticalAlign=middle;arcSize=10;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;resizable=1;" vertex="1">
-            <mxGeometry height="80" width="70" x="120" y="-240" as="geometry" />
+            <mxGeometry height="80" width="70" x="120" y="-250" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-18" edge="1" parent="DRRrQ6tS-cW3DmEARxFR-1" source="DRRrQ6tS-cW3DmEARxFR-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="DRRrQ6tS-cW3DmEARxFR-11">
@@ -80,10 +80,10 @@
             <mxPoint x="280" y="69.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DRRrQ6tS-cW3DmEARxFR-19" edge="1" parent="DRRrQ6tS-cW3DmEARxFR-1" source="DRRrQ6tS-cW3DmEARxFR-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;">
+        <mxCell id="DRRrQ6tS-cW3DmEARxFR-19" edge="1" parent="DRRrQ6tS-cW3DmEARxFR-1" source="DRRrQ6tS-cW3DmEARxFR-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="140" as="sourcePoint" />
-            <mxPoint x="365" y="-20" as="targetPoint" />
+            <mxPoint x="365" y="-10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-20" edge="1" parent="DRRrQ6tS-cW3DmEARxFR-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0.009;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.994;exitY=0.64;exitDx=0;exitDy=0;exitPerimeter=0;" target="gJ3VJGWQVzEXo7pIY-Yc-3">
@@ -115,16 +115,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-26" parent="DRRrQ6tS-cW3DmEARxFR-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;" value="Data inn" vertex="1">
-          <mxGeometry height="20" width="88" x="141" y="-280" as="geometry" />
+          <mxGeometry height="20" width="88" x="141" y="-290" as="geometry" />
         </mxCell>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-27" parent="DRRrQ6tS-cW3DmEARxFR-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;" value="&amp;nbsp; &amp;nbsp;Komplett datasett" vertex="1">
-          <mxGeometry height="20" width="232" x="329" y="-280" as="geometry" />
+          <mxGeometry height="20" width="232" x="324" y="-290" as="geometry" />
         </mxCell>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-28" parent="DRRrQ6tS-cW3DmEARxFR-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;" value="&amp;nbsp; Arbeidskopier av filer" vertex="1">
-          <mxGeometry height="20" width="121" x="644.5" y="-280" as="geometry" />
+          <mxGeometry height="20" width="121" x="644.5" y="-290" as="geometry" />
         </mxCell>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-29" parent="DRRrQ6tS-cW3DmEARxFR-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;" value="Dokumentasjon av saksbehandling" vertex="1">
-          <mxGeometry height="20" width="105" x="822.5" y="-275" as="geometry" />
+          <mxGeometry height="20" width="105" x="822.5" y="-284" as="geometry" />
         </mxCell>
         <object placeholders="1" c4Name="Innsyn" c4Type="Person" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Ekstern part" id="DRRrQ6tS-cW3DmEARxFR-30">
           <mxCell parent="DRRrQ6tS-cW3DmEARxFR-1" style="html=1;dashed=0;whitespace=wrap;fillColor=#8C8496;strokeColor=#FFFFFF;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};rounded=1;verticalAlign=middle;arcSize=10;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;resizable=1;spacingLeft=-6;" vertex="1">
@@ -174,11 +174,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-43" parent="DRRrQ6tS-cW3DmEARxFR-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;strokeColor=#63BEF2;" value="" vertex="1">
-          <mxGeometry height="410" width="150" x="970" y="-290" as="geometry" />
+          <mxGeometry height="420" width="150" x="970" y="-300" as="geometry" />
         </mxCell>
         <object placeholders="1" c4Name="Nedlasting" c4Type="Person" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Ekstern part" id="DRRrQ6tS-cW3DmEARxFR-44">
           <mxCell parent="DRRrQ6tS-cW3DmEARxFR-1" style="html=1;dashed=0;whitespace=wrap;fillColor=#8C8496;strokeColor=#FFFFFF;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};rounded=1;verticalAlign=middle;arcSize=10;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;resizable=1;" vertex="1">
-            <mxGeometry height="80" width="70" x="980" y="-240" as="geometry" />
+            <mxGeometry height="80" width="70" x="980" y="-250" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="E-post" c4Type="Person" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Ekstern part" id="DRRrQ6tS-cW3DmEARxFR-45">
@@ -199,7 +199,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-48" parent="DRRrQ6tS-cW3DmEARxFR-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;" value="Data ut" vertex="1">
-          <mxGeometry height="20" width="72.5" x="1008.75" y="-280" as="geometry" />
+          <mxGeometry height="20" width="72.5" x="1008.75" y="-290" as="geometry" />
         </mxCell>
         <object placeholders="1" c4Name="eInnsyn" c4Type="Software System" c4Description="" label="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" tooltip="" id="DRRrQ6tS-cW3DmEARxFR-49">
           <mxCell parent="DRRrQ6tS-cW3DmEARxFR-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#FFFFFF;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingBottom=40;" vertex="1">
@@ -225,10 +225,10 @@
         <mxCell id="8txs4hVbsbmHY0Fn6WT8-1" parent="DRRrQ6tS-cW3DmEARxFR-1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.corner_round_rect;dx=6;whiteSpace=wrap;strokeColor=#FFFFFF;fillColor=#FFFFFF;" value="" vertex="1">
           <mxGeometry height="30" width="40" x="110" y="-350" as="geometry" />
         </mxCell>
-        <mxCell id="DRRrQ6tS-cW3DmEARxFR-16" edge="1" parent="DRRrQ6tS-cW3DmEARxFR-1" source="DRRrQ6tS-cW3DmEARxFR-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;">
+        <mxCell id="DRRrQ6tS-cW3DmEARxFR-16" edge="1" parent="DRRrQ6tS-cW3DmEARxFR-1" source="DRRrQ6tS-cW3DmEARxFR-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="-150" as="sourcePoint" />
-            <mxPoint x="365" y="-120" as="targetPoint" />
+            <mxPoint x="365" y="-140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="Dataportal" c4Type="Frontend" c4Description="" label="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" tooltip="Ekstern parts datarom" id="gJ3VJGWQVzEXo7pIY-Yc-4">
