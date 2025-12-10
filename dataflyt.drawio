@@ -448,16 +448,16 @@
           <mxGeometry height="20" width="340" x="560" y="-45" as="geometry" />
         </mxCell>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-43" parent="DRRrQ6tS-cW3DmEARxFR-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;strokeColor=#63BEF2;" value="" vertex="1">
-          <mxGeometry height="410" width="150" x="1070" y="-290" as="geometry" />
+          <mxGeometry height="410" width="150" x="1031.25" y="-290" as="geometry" />
         </mxCell>
         <object placeholders="1" c4Name="Nedlasting" c4Type="Person" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Ekstern part" id="DRRrQ6tS-cW3DmEARxFR-44">
           <mxCell parent="DRRrQ6tS-cW3DmEARxFR-1" style="html=1;dashed=0;whitespace=wrap;fillColor=#8C8496;strokeColor=#736782;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};rounded=1;verticalAlign=middle;arcSize=10;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;resizable=1;" vertex="1">
-            <mxGeometry height="80" width="70" x="1090" y="-240" as="geometry" />
+            <mxGeometry height="80" width="70" x="1041.25" y="-240" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="E-post" c4Type="Person" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Ekstern part" id="DRRrQ6tS-cW3DmEARxFR-45">
           <mxCell parent="DRRrQ6tS-cW3DmEARxFR-1" style="html=1;dashed=0;whitespace=wrap;fillColor=#8C8496;strokeColor=#736782;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};rounded=1;verticalAlign=middle;arcSize=10;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;resizable=1;" vertex="1">
-            <mxGeometry height="80" width="70" x="1090" y="-110" as="geometry" />
+            <mxGeometry height="80" width="70" x="1041.25" y="-110" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-46" edge="1" parent="DRRrQ6tS-cW3DmEARxFR-1" source="DRRrQ6tS-cW3DmEARxFR-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="DRRrQ6tS-cW3DmEARxFR-45">
@@ -473,11 +473,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-48" parent="DRRrQ6tS-cW3DmEARxFR-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;" value="Data ut" vertex="1">
-          <mxGeometry height="20" width="72.5" x="1108.75" y="-280" as="geometry" />
+          <mxGeometry height="20" width="72.5" x="1070" y="-280" as="geometry" />
         </mxCell>
         <object placeholders="1" c4Name="eInnsyn" c4Type="Software System" c4Description="" label="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" tooltip="" id="DRRrQ6tS-cW3DmEARxFR-49">
           <mxCell parent="DRRrQ6tS-cW3DmEARxFR-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingBottom=40;" vertex="1">
-            <mxGeometry height="100" width="130" x="1080" y="10" as="geometry" />
+            <mxGeometry height="100" width="130" x="1041.25" y="10" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-50" edge="1" parent="DRRrQ6tS-cW3DmEARxFR-1" source="DRRrQ6tS-cW3DmEARxFR-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.606;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;" target="DRRrQ6tS-cW3DmEARxFR-49">
@@ -488,7 +488,7 @@
         </mxCell>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-51" connectable="0" parent="DRRrQ6tS-cW3DmEARxFR-50" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Off. journal" vertex="1">
           <mxGeometry relative="1" x="0.376" y="6" as="geometry">
-            <mxPoint x="-12" y="4" as="offset" />
+            <mxPoint x="-9" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
         <UserObject label="Fusjoner, interne dokumenter" link="data:page/id,zNMGI6wU0Mi8Qe2H5Q59" tooltip="Ekstern part oversender sine interne dokumenter etter pålegg om å gi opplysninger" id="rL-GRUfLvPBANMxhGsbx-0">
