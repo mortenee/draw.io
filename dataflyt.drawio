@@ -270,22 +270,22 @@
           <mxGeometry height="20" width="90" x="450" y="-340" as="geometry" />
         </mxCell>
         <mxCell id="gJ3VJGWQVzEXo7pIY-Yc-34" parent="DRRrQ6tS-cW3DmEARxFR-1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.corner_round_rect;dx=6;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;fontFamily=Helvetica;fontSize=12;gradientColor=#7ea6e0;" value="" vertex="1">
-          <mxGeometry height="30" width="40" x="570" y="-350" as="geometry" />
+          <mxGeometry height="30" width="40" x="550" y="-350" as="geometry" />
         </mxCell>
         <mxCell id="gJ3VJGWQVzEXo7pIY-Yc-35" parent="DRRrQ6tS-cW3DmEARxFR-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Alle&lt;/font&gt;" vertex="1">
-          <mxGeometry height="10" width="25" x="575" y="-335" as="geometry" />
+          <mxGeometry height="10" width="25" x="557.5" y="-335" as="geometry" />
         </mxCell>
         <mxCell id="gJ3VJGWQVzEXo7pIY-Yc-36" parent="DRRrQ6tS-cW3DmEARxFR-1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.corner_round_rect;dx=6;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;gradientColor=#7ea6e0;" value="" vertex="1">
-          <mxGeometry height="30" width="120" x="610" y="-350" as="geometry" />
+          <mxGeometry height="30" width="130" x="590" y="-350" as="geometry" />
         </mxCell>
         <mxCell id="gJ3VJGWQVzEXo7pIY-Yc-37" parent="DRRrQ6tS-cW3DmEARxFR-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=#FFFFFF;" value="Fusjoner, kvantitativt" vertex="1">
-          <mxGeometry height="20" width="120" x="610" y="-340" as="geometry" />
+          <mxGeometry height="20" width="120" x="600" y="-340" as="geometry" />
         </mxCell>
         <mxCell id="gJ3VJGWQVzEXo7pIY-Yc-39" parent="DRRrQ6tS-cW3DmEARxFR-1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.corner_round_rect;dx=6;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;gradientColor=#7ea6e0;" value="" vertex="1">
-          <mxGeometry height="30" width="180" x="730" y="-350" as="geometry" />
+          <mxGeometry height="30" width="170" x="720" y="-350" as="geometry" />
         </mxCell>
         <mxCell id="gJ3VJGWQVzEXo7pIY-Yc-40" parent="DRRrQ6tS-cW3DmEARxFR-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=#FFFFFF;" value="Fusjoner, interne dokumenter" vertex="1">
-          <mxGeometry height="20" width="160" x="740" y="-340" as="geometry" />
+          <mxGeometry height="20" width="160" x="730" y="-340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
