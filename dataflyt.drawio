@@ -290,8 +290,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="zNMGI6wU0Mi8Qe2H5Q59" name="Fusjoner, interne dokumenter">
-    <mxGraphModel dx="991" dy="1661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="zNMGI6wU0Mi8Qe2H5Q59" name="Gml. Fusjoner, interne dokumenter">
+    <mxGraphModel dx="1407" dy="2018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -477,8 +477,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Fusjoner, andre data" id="UQ5l-dND_rVHEr0TBZg9">
-    <mxGraphModel dx="991" dy="1661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="Gml. Fusjoner, andre data" id="UQ5l-dND_rVHEr0TBZg9">
+    <mxGraphModel dx="1407" dy="2018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="MKrSUBia_YIlwrE3DUms-0" />
         <mxCell id="MKrSUBia_YIlwrE3DUms-1" parent="MKrSUBia_YIlwrE3DUms-0" />
@@ -667,8 +667,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Etterforskning" id="yn1ltShgPG_MPMVu1NM-">
-    <mxGraphModel dx="991" dy="1661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="Gml. Etterforskning" id="yn1ltShgPG_MPMVu1NM-">
+    <mxGraphModel dx="1407" dy="2018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="30pzLbgddQ9CKUm3QNA_-0" />
         <mxCell id="30pzLbgddQ9CKUm3QNA_-1" parent="30pzLbgddQ9CKUm3QNA_-0" />
@@ -777,8 +777,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Markedsovervåking" id="R4JuxRhbI9wCKP7A8muo">
-    <mxGraphModel dx="991" dy="1661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="Gml. Markedsovervåking" id="R4JuxRhbI9wCKP7A8muo">
+    <mxGraphModel dx="1407" dy="2018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="s3u64o5YpBZpABGCdSNX-0" />
         <mxCell id="s3u64o5YpBZpABGCdSNX-1" parent="s3u64o5YpBZpABGCdSNX-0" />
