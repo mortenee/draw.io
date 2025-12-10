@@ -491,7 +491,7 @@
             <mxPoint x="-9" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="Fusjoner, interne dokumenter" link="data:page/id,zNMGI6wU0Mi8Qe2H5Q59" tooltip="Ekstern part oversender sine interne dokumenter etter pålegg om å gi opplysninger" id="rL-GRUfLvPBANMxhGsbx-0">
+        <UserObject label="Fusjoner, interne dokumenter" link="data:page/id,ErO_NIYBBLMzwsnB33HS" tooltip="Ekstern part oversender sine interne dokumenter etter pålegg om å gi opplysninger" id="rL-GRUfLvPBANMxhGsbx-0">
           <mxCell parent="DRRrQ6tS-cW3DmEARxFR-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#b1ddf0;strokeColor=#10739e;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1">
             <mxGeometry height="60" width="260" x="60" y="-380" as="geometry" />
           </mxCell>
