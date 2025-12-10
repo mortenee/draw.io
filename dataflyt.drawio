@@ -75,7 +75,7 @@
             <mxPoint x="471.69000000000005" y="-56" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DRRrQ6tS-cW3DmEARxFR-21" edge="1" parent="DRRrQ6tS-cW3DmEARxFR-1" source="gJ3VJGWQVzEXo7pIY-Yc-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=0.977;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" target="DRRrQ6tS-cW3DmEARxFR-22">
+        <mxCell id="DRRrQ6tS-cW3DmEARxFR-21" edge="1" parent="DRRrQ6tS-cW3DmEARxFR-1" source="gJ3VJGWQVzEXo7pIY-Yc-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=0.977;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.008;entryY=0.624;entryDx=0;entryDy=0;entryPerimeter=0;" target="DRRrQ6tS-cW3DmEARxFR-22">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="600.78" y="-56" as="sourcePoint" />
             <mxPoint x="650" y="-56" as="targetPoint" />
@@ -83,12 +83,12 @@
         </mxCell>
         <object placeholders="1" c4Name="MS Teams" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Prosjektets team i MS Teams" id="DRRrQ6tS-cW3DmEARxFR-22">
           <mxCell parent="DRRrQ6tS-cW3DmEARxFR-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;align=center;arcSize=6;strokeColor=#FFFFFF;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;resizable=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1">
-            <mxGeometry height="100" width="130" x="640" y="-122" as="geometry" />
+            <mxGeometry height="101" width="130" x="640" y="-120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Journalføringssystem" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="System for journalføring. Pr. i dag er dette Public 360." id="DRRrQ6tS-cW3DmEARxFR-23">
           <mxCell parent="DRRrQ6tS-cW3DmEARxFR-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;align=center;arcSize=6;strokeColor=#FFFFFF;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;resizable=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1">
-            <mxGeometry height="100" width="130" x="810" y="-122" as="geometry" />
+            <mxGeometry height="100" width="130" x="810" y="-119" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-25" edge="1" parent="DRRrQ6tS-cW3DmEARxFR-1" source="DRRrQ6tS-cW3DmEARxFR-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="DRRrQ6tS-cW3DmEARxFR-23">
@@ -136,10 +136,10 @@
             <mxPoint x="472.47" y="-96" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DRRrQ6tS-cW3DmEARxFR-35" edge="1" parent="DRRrQ6tS-cW3DmEARxFR-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=0.977;exitY=0.383;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" target="DRRrQ6tS-cW3DmEARxFR-22">
+        <mxCell id="DRRrQ6tS-cW3DmEARxFR-35" edge="1" parent="DRRrQ6tS-cW3DmEARxFR-1" source="gJ3VJGWQVzEXo7pIY-Yc-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="597.01" y="-97.01999999999998" as="sourcePoint" />
-            <mxPoint x="680" y="-97" as="targetPoint" />
+            <mxPoint x="640" y="-96" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-36" parent="DRRrQ6tS-cW3DmEARxFR-1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#cce5ff;fontColor=#63BEF2;" value="&amp;nbsp; &amp;nbsp;Digitalt sikringsmagasin" vertex="1">
@@ -169,10 +169,10 @@
             <mxGeometry height="80" width="70" x="980" y="-112" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="DRRrQ6tS-cW3DmEARxFR-46" edge="1" parent="DRRrQ6tS-cW3DmEARxFR-1" source="DRRrQ6tS-cW3DmEARxFR-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="DRRrQ6tS-cW3DmEARxFR-45">
+        <mxCell id="DRRrQ6tS-cW3DmEARxFR-46" edge="1" parent="DRRrQ6tS-cW3DmEARxFR-1" source="DRRrQ6tS-cW3DmEARxFR-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1050" y="-70.5" as="sourcePoint" />
-            <mxPoint x="1090" y="-70.5" as="targetPoint" />
+            <mxPoint x="980" y="-69" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-47" edge="1" parent="DRRrQ6tS-cW3DmEARxFR-1" source="DRRrQ6tS-cW3DmEARxFR-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0.062;entryY=0.663;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.61;exitDx=0;exitDy=0;exitPerimeter=0;" target="DRRrQ6tS-cW3DmEARxFR-44">
