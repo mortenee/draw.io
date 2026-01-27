@@ -245,12 +245,12 @@
             <mxGeometry height="30" width="160" x="640" y="-350" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Markedsovervåking" link="data:page/id,R4JuxRhbI9wCKP7A8muo" tooltip="Ekstern parts data tatt i beslag ifm etterforskning" id="h06wntt7ASlGeqvqVY96-3">
+        <UserObject label="Markedsovervåking" link="data:page/id,R4JuxRhbI9wCKP7A8muo" tooltip="Ekstern part oversender data etter pålegg om å gi opplysninger" id="h06wntt7ASlGeqvqVY96-3">
           <mxCell parent="DRRrQ6tS-cW3DmEARxFR-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#b1ddf0;strokeColor=#B1DDF0;textShadow=1;fontColor=#FFFFFF;fontFamily=Helvetica;fontSize=12;" vertex="1">
             <mxGeometry height="30" width="160" x="800" y="-350" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="2028" link="data:page/id,tqkpXOUQQg3yJEhjWJ9Q" tooltip="Ekstern parts data tatt i beslag ifm etterforskning" id="h06wntt7ASlGeqvqVY96-4">
+        <UserObject label="2028" link="data:page/id,tqkpXOUQQg3yJEhjWJ9Q" tooltip="Målbilde 2028" id="h06wntt7ASlGeqvqVY96-4">
           <mxCell parent="DRRrQ6tS-cW3DmEARxFR-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#b1ddf0;strokeColor=#B1DDF0;textShadow=1;fontColor=#FFFFFF;fontFamily=Helvetica;fontSize=12;" vertex="1">
             <mxGeometry height="30" width="160" x="960" y="-350" as="geometry" />
           </mxCell>
@@ -483,12 +483,12 @@
             <mxGeometry height="30" width="160" x="800" y="-350" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Markedsovervåking" link="data:page/id,R4JuxRhbI9wCKP7A8muo" tooltip="Ekstern parts data tatt i beslag ifm etterforskning" id="2Y95GNJSkMdYSV8Me0uj-53">
+        <UserObject label="Markedsovervåking" link="data:page/id,R4JuxRhbI9wCKP7A8muo" tooltip="Ekstern part oversender data etter pålegg om å gi opplysninger" id="2Y95GNJSkMdYSV8Me0uj-53">
           <mxCell parent="2Y95GNJSkMdYSV8Me0uj-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#b1ddf0;strokeColor=#B1DDF0;textShadow=1;fontColor=#FFFFFF;fontFamily=Helvetica;fontSize=12;" vertex="1">
             <mxGeometry height="30" width="160" x="960" y="-350" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="2026" link="data:page/id,-cqSJNJE6RPYUt5TkSRe" tooltip="Ekstern parts data tatt i beslag ifm etterforskning" id="2Y95GNJSkMdYSV8Me0uj-54">
+        <UserObject label="2026" link="data:page/id,-cqSJNJE6RPYUt5TkSRe" tooltip="Målbilde 2026" id="2Y95GNJSkMdYSV8Me0uj-54">
           <mxCell parent="2Y95GNJSkMdYSV8Me0uj-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#b1ddf0;strokeColor=#B1DDF0;textShadow=1;fontColor=#FFFFFF;fontFamily=Helvetica;fontSize=12;" vertex="1">
             <mxGeometry height="30" width="160" x="110" y="-350" as="geometry" />
           </mxCell>
