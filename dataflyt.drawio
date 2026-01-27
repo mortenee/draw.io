@@ -255,7 +255,7 @@
             <mxGeometry height="30" width="160" x="960" y="-350" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Alle" link="data:page/id,-cqSJNJE6RPYUt5TkSRe" tooltip="Ekstern parts data tatt i beslag ifm etterforskning" id="hORgUqRnsFv72xpCeyHb-0">
+        <UserObject label="Alle" link="data:page/id,-cqSJNJE6RPYUt5TkSRe" tooltip="Fullstendig oversikt" id="hORgUqRnsFv72xpCeyHb-0">
           <mxCell parent="DRRrQ6tS-cW3DmEARxFR-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#b1ddf0;strokeColor=#10739e;textShadow=1;fontColor=default;fontFamily=Helvetica;fontSize=12;" vertex="1">
             <mxGeometry height="30" width="180" x="110" y="-350" as="geometry" />
           </mxCell>
@@ -493,7 +493,7 @@
             <mxGeometry height="30" width="160" x="110" y="-350" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Alle" link="data:page/id,-cqSJNJE6RPYUt5TkSRe" tooltip="Ekstern parts data tatt i beslag ifm etterforskning" id="raI7qUmm-nNmle1o8T_T-0">
+        <UserObject label="Alle" link="data:page/id,-cqSJNJE6RPYUt5TkSRe" tooltip="Fullstendig oversikt" id="raI7qUmm-nNmle1o8T_T-0">
           <mxCell parent="2Y95GNJSkMdYSV8Me0uj-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#b1ddf0;strokeColor=#10739e;textShadow=1;fontColor=default;fontFamily=Helvetica;fontSize=12;" vertex="1">
             <mxGeometry height="30" width="180" x="270" y="-350" as="geometry" />
           </mxCell>
