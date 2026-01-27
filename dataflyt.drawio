@@ -81,7 +81,7 @@
             <mxPoint x="650" y="-56.952000000000226" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <object placeholders="1" c4Name="Saksbehandlingssystem" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Prosjektets team i MS Teams" id="DRRrQ6tS-cW3DmEARxFR-22">
+        <object placeholders="1" c4Name="Samhandlingsplatform" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Prosjektets team i MS Teams" id="DRRrQ6tS-cW3DmEARxFR-22">
           <mxCell parent="DRRrQ6tS-cW3DmEARxFR-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;align=center;arcSize=6;strokeColor=#FFFFFF;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#ffffff;resizable=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1">
             <mxGeometry height="101" width="130" x="640" y="-120" as="geometry" />
           </mxCell>
@@ -345,7 +345,7 @@
             <mxPoint x="650" y="-56.952000000000226" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <object placeholders="1" c4Name="Saksbehandlingssystem" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Prosjektets team i MS Teams" id="kjFDwvOA_ZxmW6O4vjkk-18">
+        <object placeholders="1" c4Name="Samhandlingsplatform" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Prosjektets team i MS Teams" id="kjFDwvOA_ZxmW6O4vjkk-18">
           <mxCell parent="kjFDwvOA_ZxmW6O4vjkk-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;align=center;arcSize=6;strokeColor=#FFFFFF;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#ffffff;resizable=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1">
             <mxGeometry height="101" width="130" x="640" y="-120" as="geometry" />
           </mxCell>
@@ -555,7 +555,7 @@
             <mxPoint x="650" y="-56.952000000000226" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <object placeholders="1" c4Name="Saksbehandlingssystem" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Prosjektets team i MS Teams" id="Nz5zQUxFAAgijD7XDCru-18">
+        <object placeholders="1" c4Name="Samhandlingsplatform" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Prosjektets team i MS Teams" id="Nz5zQUxFAAgijD7XDCru-18">
           <mxCell parent="Nz5zQUxFAAgijD7XDCru-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;align=center;arcSize=6;strokeColor=#FFFFFF;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#ffffff;resizable=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1">
             <mxGeometry height="101" width="130" x="640" y="-120" as="geometry" />
           </mxCell>
@@ -816,7 +816,7 @@
             <mxPoint x="650" y="-56.952000000000226" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <object placeholders="1" c4Name="Saksbehandlingssystem" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Saksbehandling, prosjektstyring og arkivering i ett system. Basert på MS Teams eller annet." id="2Y95GNJSkMdYSV8Me0uj-18">
+        <object placeholders="1" c4Name="Samhandlingsplatform" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Saksbehandling, samhandling, prosjektstyring og arkivering i ett system. Basert på MS Teams eller annet." id="2Y95GNJSkMdYSV8Me0uj-18">
           <mxCell parent="2Y95GNJSkMdYSV8Me0uj-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;align=center;arcSize=6;strokeColor=#FFFFFF;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#ffffff;resizable=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1">
             <mxGeometry height="101" width="130" x="640" y="-120" as="geometry" />
           </mxCell>
