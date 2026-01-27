@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.6" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.2.7" pages="6">
   <diagram name="Alle" id="-cqSJNJE6RPYUt5TkSRe">
     <mxGraphModel dx="1407" dy="2018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,14 +59,14 @@
         </object>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-14" edge="1" parent="DRRrQ6tS-cW3DmEARxFR-1" source="DRRrQ6tS-cW3DmEARxFR-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=1.019;exitY=0.604;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.006;entryY=0.59;entryDx=0;entryDy=0;entryPerimeter=0;" target="DRRrQ6tS-cW3DmEARxFR-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160.70000000000005" y="91.03999999999996" as="sourcePoint" />
-            <mxPoint x="280" y="90" as="targetPoint" />
+            <mxPoint x="160.70000000000005" y="-493.4000000000001" as="sourcePoint" />
+            <mxPoint x="280" y="-492.3600000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-15" edge="1" parent="DRRrQ6tS-cW3DmEARxFR-1" source="DRRrQ6tS-cW3DmEARxFR-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=0.985;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.64;entryDx=0;entryDy=0;entryPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="234" y="-53" as="sourcePoint" />
-            <mxPoint x="300" y="-56" as="targetPoint" />
+            <mxPoint x="234" y="-58" as="sourcePoint" />
+            <mxPoint x="300" y="-55" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="Opplasting" c4Type="Person" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Ekstern part" id="DRRrQ6tS-cW3DmEARxFR-17">
@@ -76,8 +76,8 @@
         </object>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-18" edge="1" parent="DRRrQ6tS-cW3DmEARxFR-1" source="DRRrQ6tS-cW3DmEARxFR-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="DRRrQ6tS-cW3DmEARxFR-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="150" y="69.5" as="sourcePoint" />
-            <mxPoint x="280" y="69.5" as="targetPoint" />
+            <mxPoint x="150" y="51.5" as="sourcePoint" />
+            <mxPoint x="280" y="51.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-19" edge="1" parent="DRRrQ6tS-cW3DmEARxFR-1" source="DRRrQ6tS-cW3DmEARxFR-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;">
@@ -88,14 +88,14 @@
         </mxCell>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-20" edge="1" parent="DRRrQ6tS-cW3DmEARxFR-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0.009;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.994;exitY=0.64;exitDx=0;exitDy=0;exitPerimeter=0;" target="gJ3VJGWQVzEXo7pIY-Yc-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="429.22" y="-56" as="sourcePoint" />
-            <mxPoint x="471.69000000000005" y="-56" as="targetPoint" />
+            <mxPoint x="429.22" y="-57.01999999999998" as="sourcePoint" />
+            <mxPoint x="471.69000000000005" y="-57.01999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-21" edge="1" parent="DRRrQ6tS-cW3DmEARxFR-1" source="gJ3VJGWQVzEXo7pIY-Yc-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=0.977;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.008;entryY=0.624;entryDx=0;entryDy=0;entryPerimeter=0;" target="DRRrQ6tS-cW3DmEARxFR-22">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600.78" y="-56" as="sourcePoint" />
-            <mxPoint x="650" y="-56" as="targetPoint" />
+            <mxPoint x="600.78" y="-56.952000000000226" as="sourcePoint" />
+            <mxPoint x="650" y="-56.952000000000226" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="MS Teams" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Prosjektets team i MS Teams" id="DRRrQ6tS-cW3DmEARxFR-22">
@@ -110,8 +110,8 @@
         </object>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-25" edge="1" parent="DRRrQ6tS-cW3DmEARxFR-1" source="DRRrQ6tS-cW3DmEARxFR-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="DRRrQ6tS-cW3DmEARxFR-23">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="850" y="-70" as="sourcePoint" />
-            <mxPoint x="870" y="-70" as="targetPoint" />
+            <mxPoint x="850" y="-68" as="sourcePoint" />
+            <mxPoint x="870" y="-68" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-26" parent="DRRrQ6tS-cW3DmEARxFR-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;" value="Data inn" vertex="1">
@@ -138,8 +138,8 @@
         </object>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-32" edge="1" parent="DRRrQ6tS-cW3DmEARxFR-1" source="DRRrQ6tS-cW3DmEARxFR-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0.415;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="DRRrQ6tS-cW3DmEARxFR-23">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="59.5" as="sourcePoint" />
-            <mxPoint x="970" y="-20" as="targetPoint" />
+            <mxPoint x="440" y="-18.800000000000182" as="sourcePoint" />
+            <mxPoint x="970" y="60.69999999999982" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gJ3VJGWQVzEXo7pIY-Yc-0" connectable="0" parent="DRRrQ6tS-cW3DmEARxFR-32" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;&quot;&gt;Korrespondanse journalføres.&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Lenkes&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;til evt. data i dataportal&lt;/span&gt;&lt;/div&gt;" vertex="1">
@@ -149,14 +149,14 @@
         </mxCell>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-34" edge="1" parent="DRRrQ6tS-cW3DmEARxFR-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" target="gJ3VJGWQVzEXo7pIY-Yc-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="-95" as="sourcePoint" />
-            <mxPoint x="472.47" y="-96" as="targetPoint" />
+            <mxPoint x="430" y="-96" as="sourcePoint" />
+            <mxPoint x="472.47" y="-95" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-35" edge="1" parent="DRRrQ6tS-cW3DmEARxFR-1" source="gJ3VJGWQVzEXo7pIY-Yc-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="597.01" y="-97.01999999999998" as="sourcePoint" />
-            <mxPoint x="640" y="-96" as="targetPoint" />
+            <mxPoint x="597.01" y="-93.98000000000002" as="sourcePoint" />
+            <mxPoint x="640" y="-95" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-36" parent="DRRrQ6tS-cW3DmEARxFR-1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#cce5ff;fontColor=#63BEF2;" value="&amp;nbsp; &amp;nbsp;Digitalt sikringsmagasin" vertex="1">
@@ -169,8 +169,8 @@
         </object>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-40" edge="1" parent="DRRrQ6tS-cW3DmEARxFR-1" source="DRRrQ6tS-cW3DmEARxFR-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="-100" as="sourcePoint" />
-            <mxPoint x="300" y="-95" as="targetPoint" />
+            <mxPoint x="230" y="-89" as="sourcePoint" />
+            <mxPoint x="300" y="-94" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-43" parent="DRRrQ6tS-cW3DmEARxFR-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;strokeColor=#63BEF2;" value="" vertex="1">
@@ -188,14 +188,14 @@
         </object>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-46" edge="1" parent="DRRrQ6tS-cW3DmEARxFR-1" source="DRRrQ6tS-cW3DmEARxFR-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1050" y="-70.5" as="sourcePoint" />
-            <mxPoint x="980" y="-69" as="targetPoint" />
+            <mxPoint x="1050" y="-66.5" as="sourcePoint" />
+            <mxPoint x="980" y="-68" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-47" edge="1" parent="DRRrQ6tS-cW3DmEARxFR-1" source="DRRrQ6tS-cW3DmEARxFR-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0.062;entryY=0.663;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.61;exitDx=0;exitDy=0;exitPerimeter=0;" target="DRRrQ6tS-cW3DmEARxFR-44">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="-190" as="sourcePoint" />
-            <mxPoint x="480" y="-190" as="targetPoint" />
+            <mxPoint x="440" y="-205.96000000000004" as="sourcePoint" />
+            <mxPoint x="480" y="-205.96000000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-48" parent="DRRrQ6tS-cW3DmEARxFR-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;" value="Data ut" vertex="1">
@@ -208,8 +208,8 @@
         </object>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-50" edge="1" parent="DRRrQ6tS-cW3DmEARxFR-1" source="DRRrQ6tS-cW3DmEARxFR-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.606;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;" target="DRRrQ6tS-cW3DmEARxFR-49">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1080" y="170" as="sourcePoint" />
-            <mxPoint x="1130" y="170.5" as="targetPoint" />
+            <mxPoint x="1080" y="-128.69999999999982" as="sourcePoint" />
+            <mxPoint x="1130" y="-129.19999999999982" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-51" connectable="0" parent="DRRrQ6tS-cW3DmEARxFR-50" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Off. journal" vertex="1">
