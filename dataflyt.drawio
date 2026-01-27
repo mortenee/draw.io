@@ -710,7 +710,7 @@
           </mxCell>
         </UserObject>
         <UserObject label="Fusjoner, kvantitativt" link="data:page/id,UQ5l-dND_rVHEr0TBZg9" tooltip="Ekstern part oversender data etter pålegg om å gi opplysninger" id="Nz5zQUxFAAgijD7XDCru-51">
-          <mxCell parent="Nz5zQUxFAAgijD7XDCru-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#b1ddf0;strokeColor=#B1DDF0;textShadow=1;fontColor=#FFFFFF;" vertex="1">
+          <mxCell parent="Nz5zQUxFAAgijD7XDCru-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#b1ddf0;strokeColor=#10739e;textShadow=1;fontColor=default;fontFamily=Helvetica;fontSize=12;" vertex="1">
             <mxGeometry height="30" width="160" x="480" y="-350" as="geometry" />
           </mxCell>
         </UserObject>
@@ -730,7 +730,7 @@
           </mxCell>
         </UserObject>
         <UserObject label="Alle" link="data:page/id,-cqSJNJE6RPYUt5TkSRe" tooltip="Fullstendig oversikt" id="Nz5zQUxFAAgijD7XDCru-55">
-          <mxCell parent="Nz5zQUxFAAgijD7XDCru-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#b1ddf0;strokeColor=#10739e;textShadow=1;fontColor=default;fontFamily=Helvetica;fontSize=12;" vertex="1">
+          <mxCell parent="Nz5zQUxFAAgijD7XDCru-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#b1ddf0;strokeColor=#B1DDF0;textShadow=1;fontColor=#FFFFFF;fontFamily=Helvetica;fontSize=12;" vertex="1">
             <mxGeometry height="30" width="180" x="110" y="-350" as="geometry" />
           </mxCell>
         </UserObject>
