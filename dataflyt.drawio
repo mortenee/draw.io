@@ -63,10 +63,10 @@
             <mxPoint x="471.69000000000005" y="-57.01999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DRRrQ6tS-cW3DmEARxFR-21" edge="1" parent="DRRrQ6tS-cW3DmEARxFR-1" source="gJ3VJGWQVzEXo7pIY-Yc-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=0.977;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.008;entryY=0.624;entryDx=0;entryDy=0;entryPerimeter=0;" target="DRRrQ6tS-cW3DmEARxFR-22">
+        <mxCell id="DRRrQ6tS-cW3DmEARxFR-21" edge="1" parent="DRRrQ6tS-cW3DmEARxFR-1" source="gJ3VJGWQVzEXo7pIY-Yc-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=0.977;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;" target="DRRrQ6tS-cW3DmEARxFR-22">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600.78" y="-56.952000000000226" as="sourcePoint" />
-            <mxPoint x="650" y="-56.952000000000226" as="targetPoint" />
+            <mxPoint x="627.4999999999998" y="-56.952000000000226" as="sourcePoint" />
+            <mxPoint x="578.2799999999997" y="-56.952000000000226" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="Samhandlingsplatform" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Prosjektets team i MS Teams" id="DRRrQ6tS-cW3DmEARxFR-22">
@@ -237,7 +237,7 @@
             <mxGeometry height="30" width="160" x="960" y="-350" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Alle" link="data:page/id,-cqSJNJE6RPYUt5TkSRe" tooltip="Fullstendig oversikt" id="hORgUqRnsFv72xpCeyHb-0">
+        <UserObject label="Alle" link="data:page/id,-cqSJNJE6RPYUt5TkSRe" tooltip="Alle dataflyter" id="hORgUqRnsFv72xpCeyHb-0">
           <mxCell parent="DRRrQ6tS-cW3DmEARxFR-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#b1ddf0;strokeColor=#10739e;textShadow=1;fontColor=default;fontFamily=Helvetica;fontSize=12;" vertex="1">
             <mxGeometry height="30" width="180" x="110" y="-350" as="geometry" />
           </mxCell>
@@ -381,7 +381,7 @@
             <mxGeometry height="30" width="160" x="960" y="-350" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Alle" link="data:page/id,-cqSJNJE6RPYUt5TkSRe" tooltip="Fullstendig oversikt" id="kjFDwvOA_ZxmW6O4vjkk-55">
+        <UserObject label="Alle" link="data:page/id,-cqSJNJE6RPYUt5TkSRe" tooltip="Alle dataflyter" id="kjFDwvOA_ZxmW6O4vjkk-55">
           <mxCell parent="kjFDwvOA_ZxmW6O4vjkk-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#b1ddf0;strokeColor=#B1DDF0;textShadow=1;fontColor=#FFFFFF;fontFamily=Helvetica;fontSize=12;" vertex="1">
             <mxGeometry height="30" width="180" x="110" y="-350" as="geometry" />
           </mxCell>
@@ -579,7 +579,7 @@
             <mxGeometry height="30" width="160" x="960" y="-350" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Alle" link="data:page/id,-cqSJNJE6RPYUt5TkSRe" tooltip="Fullstendig oversikt" id="Nz5zQUxFAAgijD7XDCru-55">
+        <UserObject label="Alle" link="data:page/id,-cqSJNJE6RPYUt5TkSRe" tooltip="Alle dataflyter" id="Nz5zQUxFAAgijD7XDCru-55">
           <mxCell parent="Nz5zQUxFAAgijD7XDCru-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#b1ddf0;strokeColor=#B1DDF0;textShadow=1;fontColor=#FFFFFF;fontFamily=Helvetica;fontSize=12;" vertex="1">
             <mxGeometry height="30" width="180" x="110" y="-350" as="geometry" />
           </mxCell>
@@ -796,7 +796,7 @@
             <mxGeometry height="30" width="160" x="110" y="-350" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Alle" link="data:page/id,-cqSJNJE6RPYUt5TkSRe" tooltip="Fullstendig oversikt" id="raI7qUmm-nNmle1o8T_T-0">
+        <UserObject label="Alle" link="data:page/id,-cqSJNJE6RPYUt5TkSRe" tooltip="Alle dataflyter" id="raI7qUmm-nNmle1o8T_T-0">
           <mxCell parent="2Y95GNJSkMdYSV8Me0uj-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#b1ddf0;strokeColor=#10739e;textShadow=1;fontColor=default;fontFamily=Helvetica;fontSize=12;" vertex="1">
             <mxGeometry height="30" width="180" x="270" y="-350" as="geometry" />
           </mxCell>
