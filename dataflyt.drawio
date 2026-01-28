@@ -435,7 +435,7 @@
             <mxGeometry height="80" width="70" x="150" y="21" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="DS2icoj1sO5GFAsm425U-3" edge="1" parent="kjFDwvOA_ZxmW6O4vjkk-1" source="DS2icoj1sO5GFAsm425U-0" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;">
+        <mxCell id="DS2icoj1sO5GFAsm425U-3" edge="1" parent="kjFDwvOA_ZxmW6O4vjkk-1" source="DS2icoj1sO5GFAsm425U-0" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="kjFDwvOA_ZxmW6O4vjkk-47">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="324" y="221" as="sourcePoint" />
             <mxPoint x="365" y="-19" as="targetPoint" />
@@ -611,10 +611,10 @@
             <mxGeometry height="80" width="70" x="150" y="21" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="itcpBNn7dE5KP-yGBl6T-3" edge="1" parent="Nz5zQUxFAAgijD7XDCru-1" source="itcpBNn7dE5KP-yGBl6T-0" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;">
+        <mxCell id="itcpBNn7dE5KP-yGBl6T-3" edge="1" parent="Nz5zQUxFAAgijD7XDCru-1" source="itcpBNn7dE5KP-yGBl6T-0" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="Nz5zQUxFAAgijD7XDCru-47">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="324" y="221" as="sourcePoint" />
-            <mxPoint x="365" y="-19" as="targetPoint" />
+            <mxPoint x="365" y="-20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="Postmottak" c4Type="Frontend" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Postmottak-funksjon i Informasjonsforvaltning" link="data:page/id,U1zW4GbvwTzbMP1sjaRH" id="XN_sa_2ztzI5SYsW1edK-0">
