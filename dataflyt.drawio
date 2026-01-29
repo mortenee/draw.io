@@ -851,7 +851,7 @@
           <mxGeometry height="130" width="310" x="290" y="-140" as="geometry" />
         </mxCell>
         <mxCell id="2Y95GNJSkMdYSV8Me0uj-6" parent="2Y95GNJSkMdYSV8Me0uj-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;strokeColor=#63BEF2;" value="" vertex="1">
-          <mxGeometry height="420" width="150" x="630" y="-300" as="geometry" />
+          <mxGeometry height="420" width="150" x="720" y="-300" as="geometry" />
         </mxCell>
         <mxCell id="2Y95GNJSkMdYSV8Me0uj-12" edge="1" parent="2Y95GNJSkMdYSV8Me0uj-1" source="2Y95GNJSkMdYSV8Me0uj-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=0.985;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.64;entryDx=0;entryDy=0;entryPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
@@ -871,15 +871,15 @@
             <mxPoint x="471.69000000000005" y="-57.01999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2Y95GNJSkMdYSV8Me0uj-17" edge="1" parent="2Y95GNJSkMdYSV8Me0uj-1" source="2Y95GNJSkMdYSV8Me0uj-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=0.977;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.008;entryY=0.624;entryDx=0;entryDy=0;entryPerimeter=0;" target="2Y95GNJSkMdYSV8Me0uj-18">
+        <mxCell id="2Y95GNJSkMdYSV8Me0uj-17" edge="1" parent="2Y95GNJSkMdYSV8Me0uj-1" source="2Y95GNJSkMdYSV8Me0uj-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=0.977;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.008;entryY=0.64;entryDx=0;entryDy=0;entryPerimeter=0;" target="2Y95GNJSkMdYSV8Me0uj-18">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="600.78" y="-56.952000000000226" as="sourcePoint" />
             <mxPoint x="650" y="-56.952000000000226" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <object placeholders="1" c4Name="Samhandlingsplatform" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Saksbehandling, samhandling, prosjektstyring og arkivering i ett system. Basert på MS Teams eller annet." id="2Y95GNJSkMdYSV8Me0uj-18">
+        <object placeholders="1" c4Name="Samhandlingsplatform med innebygget arkivering" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Saksbehandling, samhandling, prosjektstyring og arkivering i ett system. Basert på MS Teams eller annet." id="2Y95GNJSkMdYSV8Me0uj-18">
           <mxCell parent="2Y95GNJSkMdYSV8Me0uj-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;align=center;arcSize=6;strokeColor=#FFFFFF;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#ffffff;resizable=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1">
-            <mxGeometry height="100" width="130" x="640" y="-120" as="geometry" />
+            <mxGeometry height="100" width="130" x="730" y="-120" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="2Y95GNJSkMdYSV8Me0uj-21" parent="2Y95GNJSkMdYSV8Me0uj-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;fontSize=11;" value="Data inn" vertex="1">
@@ -888,8 +888,8 @@
         <mxCell id="2Y95GNJSkMdYSV8Me0uj-22" parent="2Y95GNJSkMdYSV8Me0uj-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;fontSize=11;" value="&amp;nbsp; &amp;nbsp;Komplett datasett" vertex="1">
           <mxGeometry height="20" width="232" x="324" y="-290" as="geometry" />
         </mxCell>
-        <mxCell id="2Y95GNJSkMdYSV8Me0uj-23" parent="2Y95GNJSkMdYSV8Me0uj-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=11;" value="Arbeidskopier av filer og dokumentasjon av saksbehandling" vertex="1">
-          <mxGeometry height="20" width="121" x="644.5" y="-280" as="geometry" />
+        <mxCell id="2Y95GNJSkMdYSV8Me0uj-23" parent="2Y95GNJSkMdYSV8Me0uj-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=10;" value="Arbeidskopier av filer&amp;nbsp;" vertex="1">
+          <mxGeometry height="20" width="110" x="610" y="-85" as="geometry" />
         </mxCell>
         <mxCell id="2Y95GNJSkMdYSV8Me0uj-29" edge="1" parent="2Y95GNJSkMdYSV8Me0uj-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" target="2Y95GNJSkMdYSV8Me0uj-44">
           <mxGeometry relative="1" as="geometry">
@@ -897,7 +897,7 @@
             <mxPoint x="472.47" y="-95" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2Y95GNJSkMdYSV8Me0uj-30" edge="1" parent="2Y95GNJSkMdYSV8Me0uj-1" source="2Y95GNJSkMdYSV8Me0uj-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;">
+        <mxCell id="2Y95GNJSkMdYSV8Me0uj-30" edge="1" parent="2Y95GNJSkMdYSV8Me0uj-1" source="2Y95GNJSkMdYSV8Me0uj-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" target="2Y95GNJSkMdYSV8Me0uj-18">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="597.01" y="-93.98000000000002" as="sourcePoint" />
             <mxPoint x="640" y="-95" as="targetPoint" />
@@ -939,7 +939,7 @@
           </mxCell>
         </object>
         <mxCell id="2Y95GNJSkMdYSV8Me0uj-46" parent="2Y95GNJSkMdYSV8Me0uj-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#A9DB1F;fillColor=#A9DB1F;fontSize=11;" value="Saksbehandling" vertex="1">
-          <mxGeometry height="18" width="210" x="550" y="-43" as="geometry" />
+          <mxGeometry height="18" width="300" x="550" y="-43" as="geometry" />
         </mxCell>
         <object placeholders="1" c4Name="Datamottak" c4Type="Software System" c4Description="" label="&lt;font&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" tooltip="Intern server for mottak og behandling av eksterne data" id="2Y95GNJSkMdYSV8Me0uj-47">
           <mxCell parent="2Y95GNJSkMdYSV8Me0uj-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#CCE5FF;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingBottom=0;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;" vertex="1">
@@ -1061,6 +1061,12 @@
             <mxGeometry height="30" width="190" x="610" y="-350" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="umGf8knzYP7D3XLCZB49-0" parent="2Y95GNJSkMdYSV8Me0uj-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=10;" value="Dokumentasjon av saksbehandling" vertex="1">
+          <mxGeometry height="20" width="121" x="749" y="-180" as="geometry" />
+        </mxCell>
+        <mxCell id="Y7B3flU5YbdxdGxMJ5F2-0" parent="2Y95GNJSkMdYSV8Me0uj-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;fontSize=11;align=left;" value="Korrespondanse og filbehandling" vertex="1">
+          <mxGeometry height="20" width="101" x="749" y="-280" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -1084,10 +1090,10 @@
           <mxGeometry height="130" width="310" x="290" y="-140" as="geometry" />
         </mxCell>
         <mxCell id="ZdWGIRoFrQc4GItwt2CI-6" parent="ZdWGIRoFrQc4GItwt2CI-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;strokeColor=#63BEF2;" value="" vertex="1">
-          <mxGeometry height="420" width="150" x="630" y="-300" as="geometry" />
+          <mxGeometry height="420" width="110" x="680" y="-300" as="geometry" />
         </mxCell>
         <mxCell id="ZdWGIRoFrQc4GItwt2CI-7" parent="ZdWGIRoFrQc4GItwt2CI-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;strokeColor=#63BEF2;" value="" vertex="1">
-          <mxGeometry height="420" width="150" x="800" y="-300" as="geometry" />
+          <mxGeometry height="420" width="110" x="790" y="-300" as="geometry" />
         </mxCell>
         <object placeholders="1" c4Name="Postmottak" c4Type="Frontend" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Postmottak-funksjon i Informasjonsforvaltning" link="data:page/id,U1zW4GbvwTzbMP1sjaRH" id="ZdWGIRoFrQc4GItwt2CI-8">
           <mxCell parent="ZdWGIRoFrQc4GItwt2CI-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#FFFFFF;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];fontSize=10;" vertex="1">
@@ -1146,10 +1152,10 @@
           <mxGeometry height="20" width="232" x="324" y="-290" as="geometry" />
         </mxCell>
         <mxCell id="ZdWGIRoFrQc4GItwt2CI-21" parent="ZdWGIRoFrQc4GItwt2CI-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=11;" value="&amp;nbsp; Arbeidskopier av filer" vertex="1">
-          <mxGeometry height="20" width="121" x="644.5" y="-290" as="geometry" />
+          <mxGeometry height="20" width="121" x="679" y="-290" as="geometry" />
         </mxCell>
         <mxCell id="ZdWGIRoFrQc4GItwt2CI-22" parent="ZdWGIRoFrQc4GItwt2CI-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=11;" value="Dokumentasjon av saksbehandling" vertex="1">
-          <mxGeometry height="20" width="105" x="822.5" y="-284" as="geometry" />
+          <mxGeometry height="20" width="105" x="800" y="-290" as="geometry" />
         </mxCell>
         <object placeholders="1" c4Name="Innsyn" c4Type="Person" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Ekstern part" id="ZdWGIRoFrQc4GItwt2CI-23">
           <mxCell parent="ZdWGIRoFrQc4GItwt2CI-1" style="html=1;dashed=0;whitespace=wrap;fillColor=#8C8496;strokeColor=#FFFFFF;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};rounded=1;verticalAlign=middle;arcSize=10;fontFamily=Helvetica;fontSize=10;labelBackgroundColor=none;resizable=1;spacingLeft=-6;" vertex="1">
@@ -1161,7 +1167,7 @@
             <mxGeometry height="80" width="70" x="180" y="-250" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="ZdWGIRoFrQc4GItwt2CI-25" edge="1" parent="ZdWGIRoFrQc4GItwt2CI-1" source="ZdWGIRoFrQc4GItwt2CI-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;entryX=0.338;entryY=0.04;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;">
+        <mxCell id="ZdWGIRoFrQc4GItwt2CI-25" edge="1" parent="ZdWGIRoFrQc4GItwt2CI-1" source="ZdWGIRoFrQc4GItwt2CI-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;entryX=0.569;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="ZdWGIRoFrQc4GItwt2CI-16">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="-210" as="sourcePoint" />
             <mxPoint x="853.94" y="-116" as="targetPoint" />
