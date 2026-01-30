@@ -1104,7 +1104,7 @@
           <mxGeometry height="20" width="91" x="757" y="-170" as="geometry" />
         </mxCell>
         <mxCell id="Y7B3flU5YbdxdGxMJ5F2-0" parent="2Y95GNJSkMdYSV8Me0uj-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;fontSize=11;align=left;fontColor=#000000;" value="Korrespondanse og arbeidsdokumenter" vertex="1">
-          <mxGeometry height="20" width="110" x="749" y="-280" as="geometry" />
+          <mxGeometry height="20" width="205" x="690" y="-290" as="geometry" />
         </mxCell>
         <object placeholders="1" c4Name=" Postmottak" c4Type="Person" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="" id="SiaB791BI7iDlgI7M8W7-5">
           <mxCell parent="2Y95GNJSkMdYSV8Me0uj-1" style="html=1;dashed=0;whitespace=wrap;fillColor=#1168BD;strokeColor=#CCE5FF;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};rounded=1;verticalAlign=middle;arcSize=10;fontFamily=Helvetica;fontSize=8;labelBackgroundColor=none;resizable=1;spacingBottom=6;" vertex="1">
@@ -1275,9 +1275,6 @@
             <mxGeometry height="30" width="190" x="610" y="-350" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="pAvF4Ghj1kFHEQVT0x7A-0" parent="chlZmpBHI30AD1hVoN5U-1" style="text;whiteSpace=wrap;html=1;" value="Korrespondanse og arbeidsdokumenter" vertex="1">
-          <mxGeometry height="40" width="151" x="749" y="-290" as="geometry" />
-        </mxCell>
         <mxCell id="SSbTQJo6GIIeqHjtmFjm-0" parent="chlZmpBHI30AD1hVoN5U-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#A9DB1F;fillColor=#A9DB1F;fontSize=11;" value="Saksbehandling" vertex="1">
           <mxGeometry height="18" width="290" x="556" y="-43" as="geometry" />
         </mxCell>
@@ -1305,6 +1302,9 @@
         </mxCell>
         <mxCell id="chlZmpBHI30AD1hVoN5U-16" parent="chlZmpBHI30AD1hVoN5U-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=9;" value="Dokumentasjon av saksbehandling" vertex="1">
           <mxGeometry height="20" width="121" x="757" y="-170" as="geometry" />
+        </mxCell>
+        <mxCell id="TYr4PSuhw33aYnlP4qtV-0" parent="chlZmpBHI30AD1hVoN5U-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;fontSize=11;align=left;fontColor=#000000;" value="Korrespondanse og arbeidsdokumenter" vertex="1">
+          <mxGeometry height="20" width="220" x="690" y="-290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1462,9 +1462,6 @@
             <mxGeometry height="30" width="190" x="610" y="-350" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="mteth_2HDLdzYBIunpAS-0" parent="jz4pqKwWTim4mzR3QvbO-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;fontSize=11;align=left;" value="Korrespondanse og arbeidsdokumenter" vertex="1">
-          <mxGeometry height="20" width="110" x="749" y="-280" as="geometry" />
-        </mxCell>
         <mxCell id="_cx8STQJaUUEY8dTiSYw-0" parent="jz4pqKwWTim4mzR3QvbO-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#A9DB1F;fillColor=#A9DB1F;fontSize=11;" value="Saksbehandling" vertex="1">
           <mxGeometry height="18" width="290" x="556" y="-43" as="geometry" />
         </mxCell>
@@ -1492,6 +1489,9 @@
         </mxCell>
         <mxCell id="fENH0_5hV6t_pW51CiuD-0" parent="jz4pqKwWTim4mzR3QvbO-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=9;" value="Datasett" vertex="1">
           <mxGeometry height="20" width="35" x="315" y="-173" as="geometry" />
+        </mxCell>
+        <mxCell id="oL7HM9FUr_3sznxYcZr--0" parent="jz4pqKwWTim4mzR3QvbO-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;fontSize=11;align=left;fontColor=#000000;" value="Korrespondanse og arbeidsdokumenter" vertex="1">
+          <mxGeometry height="20" width="220" x="690" y="-290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1649,9 +1649,6 @@
             <mxGeometry height="30" width="190" x="610" y="-350" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="5A-eLn0Z94ZqPJKR9N8p-0" parent="67nS5FUe9a3TxRtop4yc-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;fontSize=11;align=left;" value="Korrespondanse og arbeidsdokumenter" vertex="1">
-          <mxGeometry height="20" width="110" x="749" y="-280" as="geometry" />
-        </mxCell>
         <mxCell id="lI6pB-DVFQqiEzpqggGf-0" parent="67nS5FUe9a3TxRtop4yc-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#A9DB1F;fillColor=#A9DB1F;fontSize=11;" value="Saksbehandling" vertex="1">
           <mxGeometry height="18" width="290" x="556" y="-43" as="geometry" />
         </mxCell>
@@ -1679,6 +1676,9 @@
         </mxCell>
         <mxCell id="Ov2eDs2CumZm54jct7xi-0" parent="67nS5FUe9a3TxRtop4yc-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=9;" value="&lt;span&gt;Arbeidskopier av bokmerkede filer&lt;/span&gt;" vertex="1">
           <mxGeometry height="20" width="75" x="645" y="-100" as="geometry" />
+        </mxCell>
+        <mxCell id="k8csuekQibb9gsxwnGJ_-0" parent="67nS5FUe9a3TxRtop4yc-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;fontSize=11;align=left;fontColor=#000000;" value="Korrespondanse og arbeidsdokumenter" vertex="1">
+          <mxGeometry height="20" width="220" x="690" y="-290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
