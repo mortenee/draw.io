@@ -108,7 +108,7 @@
             <mxPoint x="850" y="-120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gJ3VJGWQVzEXo7pIY-Yc-0" connectable="0" parent="DRRrQ6tS-cW3DmEARxFR-32" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=9;" value="&lt;span&gt;Korrespondanse journalføres&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;og lenkes&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;til evt. data i DSM&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="gJ3VJGWQVzEXo7pIY-Yc-0" connectable="0" parent="DRRrQ6tS-cW3DmEARxFR-32" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=9;" value="&lt;span&gt;Korrespondanse journalføres&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;og lenkes&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;til datasett i DSM&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.7353" y="-1" as="geometry">
             <mxPoint x="-29" y="-1" as="offset" />
           </mxGeometry>
@@ -393,7 +393,7 @@
             <mxPoint x="853" y="-117" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3oOa4_0G2vWazxwaKquG-5" connectable="0" parent="3oOa4_0G2vWazxwaKquG-4" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=9;" value="&lt;span&gt;Korrespondanse journalføres&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;og lenkes&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;til evt. data i DSM&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="3oOa4_0G2vWazxwaKquG-5" connectable="0" parent="3oOa4_0G2vWazxwaKquG-4" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=9;" value="Korrespondanse journalføres&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;og lenkes&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;til datasett i DSM&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.7353" y="-1" as="geometry">
             <mxPoint x="-28" y="-1" as="offset" />
           </mxGeometry>
@@ -641,7 +641,7 @@
             <mxPoint x="853" y="-119" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XN_sa_2ztzI5SYsW1edK-4" connectable="0" parent="XN_sa_2ztzI5SYsW1edK-3" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=9;" value="&lt;span&gt;Korrespondanse journalføres&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;og lenkes&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;til evt. data i DSM&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="XN_sa_2ztzI5SYsW1edK-4" connectable="0" parent="XN_sa_2ztzI5SYsW1edK-3" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=9;" value="Korrespondanse journalføres&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;og lenkes&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;til datasett i DSM&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.7353" y="-1" as="geometry">
             <mxPoint x="-28" y="-1" as="offset" />
           </mxGeometry>
@@ -801,7 +801,7 @@
             <mxPoint x="853" y="-117" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UKT3Ga85LtX9qhB_frRq-34" connectable="0" parent="UKT3Ga85LtX9qhB_frRq-33" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=9;" value="&lt;span&gt;Korrespondanse journalføres&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;og lenkes&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;til evt. data i DSM&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="UKT3Ga85LtX9qhB_frRq-34" connectable="0" parent="UKT3Ga85LtX9qhB_frRq-33" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=9;" value="Korrespondanse journalføres&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;og lenkes&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;til datasett i DSM&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.7353" y="-1" as="geometry">
             <mxPoint x="-28" y="-1" as="offset" />
           </mxGeometry>
@@ -1039,7 +1039,7 @@
             <mxPoint x="780" y="-120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ximv-QyDZnYQ7fzfj_M6-5" connectable="0" parent="Ximv-QyDZnYQ7fzfj_M6-4" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=9;" value="&lt;span&gt;Korrespondanse journalføres&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;og lenkes&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;til evt. data i DSM&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="Ximv-QyDZnYQ7fzfj_M6-5" connectable="0" parent="Ximv-QyDZnYQ7fzfj_M6-4" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=9;" value="Korrespondanse journalføres&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;og lenkes&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;til datasett i DSM&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.7353" y="-1" as="geometry">
             <mxPoint x="-17" y="-1" as="offset" />
           </mxGeometry>
@@ -1207,7 +1207,7 @@
             <mxPoint x="673" y="-120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="chlZmpBHI30AD1hVoN5U-33" connectable="0" parent="chlZmpBHI30AD1hVoN5U-32" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=9;" value="&lt;span&gt;Korrespondanse journalføres&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;og lenkes&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;til evt. data i DSM&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="chlZmpBHI30AD1hVoN5U-33" connectable="0" parent="chlZmpBHI30AD1hVoN5U-32" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=9;" value="Korrespondanse journalføres&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;og lenkes&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;til datasett i DSM&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.7353" y="-1" as="geometry">
             <mxPoint x="-16" y="-1" as="offset" />
           </mxGeometry>
@@ -1394,7 +1394,7 @@
             <mxPoint x="780" y="-120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jz4pqKwWTim4mzR3QvbO-23" connectable="0" parent="jz4pqKwWTim4mzR3QvbO-22" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=9;" value="&lt;span&gt;Korrespondanse journalføres&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;og lenkes&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;til evt. data i DSM&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="jz4pqKwWTim4mzR3QvbO-23" connectable="0" parent="jz4pqKwWTim4mzR3QvbO-22" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=9;" value="Korrespondanse journalføres&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;og lenkes&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;til datasett i DSM&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.7353" y="-1" as="geometry">
             <mxPoint x="-16" y="-1" as="offset" />
           </mxGeometry>
@@ -1581,7 +1581,7 @@
             <mxPoint x="780" y="-120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="67nS5FUe9a3TxRtop4yc-23" connectable="0" parent="67nS5FUe9a3TxRtop4yc-22" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=9;" value="&lt;span&gt;Korrespondanse journalføres&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;og lenkes&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;til evt. data i DSM&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="67nS5FUe9a3TxRtop4yc-23" connectable="0" parent="67nS5FUe9a3TxRtop4yc-22" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=9;" value="Korrespondanse journalføres&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;og lenkes&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;til datasett i DSM&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.7353" y="-1" as="geometry">
             <mxPoint x="-16" y="-1" as="offset" />
           </mxGeometry>
