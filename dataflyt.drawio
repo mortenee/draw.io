@@ -892,7 +892,7 @@
           <mxGeometry height="420" width="350" x="270" y="-300" as="geometry" />
         </mxCell>
         <mxCell id="2Y95GNJSkMdYSV8Me0uj-6" parent="2Y95GNJSkMdYSV8Me0uj-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;strokeColor=#63BEF2;" value="" vertex="1">
-          <mxGeometry height="420" width="330" x="630" y="-300" as="geometry" />
+          <mxGeometry height="420" width="320" x="630" y="-300" as="geometry" />
         </mxCell>
         <mxCell id="2W18HLUSbrw_E7mH8l6B-0" parent="2Y95GNJSkMdYSV8Me0uj-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;strokeColor=#82b366;fillColor=#d5e8d4;" value="" vertex="1">
           <mxGeometry height="150" width="600" x="280" y="-150" as="geometry" />
@@ -968,7 +968,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2Y95GNJSkMdYSV8Me0uj-34" parent="2Y95GNJSkMdYSV8Me0uj-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;strokeColor=#63BEF2;" value="" vertex="1">
-          <mxGeometry height="420" width="150" x="970" y="-300" as="geometry" />
+          <mxGeometry height="420" width="160" x="960" y="-300" as="geometry" />
         </mxCell>
         <object placeholders="1" c4Name="E-post" c4Type="Person" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Ekstern part" id="2Y95GNJSkMdYSV8Me0uj-36">
           <mxCell parent="2Y95GNJSkMdYSV8Me0uj-1" style="html=1;dashed=0;whitespace=wrap;fillColor=#8C8496;strokeColor=#FFFFFF;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};rounded=1;verticalAlign=middle;arcSize=10;fontFamily=Helvetica;fontSize=8;labelBackgroundColor=none;resizable=1;" vertex="1">
