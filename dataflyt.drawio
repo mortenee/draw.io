@@ -89,8 +89,8 @@
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-28" parent="DRRrQ6tS-cW3DmEARxFR-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=11;" value="&amp;nbsp; Arbeidskopier av filer" vertex="1">
           <mxGeometry height="20" width="121" x="644.5" y="-290" as="geometry" />
         </mxCell>
-        <mxCell id="DRRrQ6tS-cW3DmEARxFR-29" parent="DRRrQ6tS-cW3DmEARxFR-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=11;" value="Dokumentasjon av saksbehandling" vertex="1">
-          <mxGeometry height="20" width="105" x="822.5" y="-284" as="geometry" />
+        <mxCell id="DRRrQ6tS-cW3DmEARxFR-29" parent="DRRrQ6tS-cW3DmEARxFR-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=11;" value="Korrespondanse" vertex="1">
+          <mxGeometry height="20" width="105" x="830" y="-290" as="geometry" />
         </mxCell>
         <object placeholders="1" c4Name="Innsyn" c4Type="Person" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Ekstern part" id="DRRrQ6tS-cW3DmEARxFR-30">
           <mxCell parent="DRRrQ6tS-cW3DmEARxFR-1" style="html=1;dashed=0;whitespace=wrap;fillColor=#8C8496;strokeColor=#FFFFFF;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};rounded=1;verticalAlign=middle;arcSize=10;fontFamily=Helvetica;fontSize=8;labelBackgroundColor=none;resizable=1;spacingLeft=-6;" vertex="1">
@@ -254,6 +254,9 @@
             <mxGeometry height="80" width="70" x="360" y="-250" as="geometry" />
           </mxCell>
         </object>
+        <mxCell id="JBwDb9L6_rNxZOV0rI9X-0" parent="DRRrQ6tS-cW3DmEARxFR-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=9;" value="Dokumentasjon av saksbehandling" vertex="1">
+          <mxGeometry height="20" width="91" x="830" y="-180" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -325,8 +328,8 @@
         <mxCell id="kjFDwvOA_ZxmW6O4vjkk-23" parent="kjFDwvOA_ZxmW6O4vjkk-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=11;" value="Arbeidskopier av bokmerkede filer i FTK" vertex="1">
           <mxGeometry height="20" width="121" x="644.5" y="-284" as="geometry" />
         </mxCell>
-        <mxCell id="kjFDwvOA_ZxmW6O4vjkk-24" parent="kjFDwvOA_ZxmW6O4vjkk-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=11;" value="Dokumentasjon av saksbehandling" vertex="1">
-          <mxGeometry height="20" width="105" x="822.5" y="-284" as="geometry" />
+        <mxCell id="kjFDwvOA_ZxmW6O4vjkk-24" parent="kjFDwvOA_ZxmW6O4vjkk-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=11;" value="Korrespondanse" vertex="1">
+          <mxGeometry height="20" width="105" x="830" y="-290" as="geometry" />
         </mxCell>
         <mxCell id="kjFDwvOA_ZxmW6O4vjkk-31" parent="kjFDwvOA_ZxmW6O4vjkk-1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#cce5ff;fontColor=#63BEF2;fontSize=10;" value="&amp;nbsp; &amp;nbsp;Digitalt sikringsmagasin (DSM)" vertex="1">
           <mxGeometry height="16" width="180" x="360" y="-138" as="geometry" />
@@ -452,6 +455,9 @@
             <mxGeometry height="80" width="70" x="360" y="-250" as="geometry" />
           </mxCell>
         </object>
+        <mxCell id="uh866yUI6-w16baq4WqF-1" parent="kjFDwvOA_ZxmW6O4vjkk-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=9;" value="Dokumentasjon av saksbehandling" vertex="1">
+          <mxGeometry height="20" width="91" x="830" y="-180" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -500,8 +506,8 @@
         <mxCell id="Nz5zQUxFAAgijD7XDCru-23" parent="Nz5zQUxFAAgijD7XDCru-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=11;" value="Arbeidskopier av datafiler" vertex="1">
           <mxGeometry height="20" width="130" x="640" y="-290" as="geometry" />
         </mxCell>
-        <mxCell id="Nz5zQUxFAAgijD7XDCru-24" parent="Nz5zQUxFAAgijD7XDCru-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=11;" value="Dokumentasjon av saksbehandling" vertex="1">
-          <mxGeometry height="20" width="105" x="822.5" y="-284" as="geometry" />
+        <mxCell id="Nz5zQUxFAAgijD7XDCru-24" parent="Nz5zQUxFAAgijD7XDCru-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=11;" value="Korrespondanse" vertex="1">
+          <mxGeometry height="20" width="105" x="830" y="-290" as="geometry" />
         </mxCell>
         <mxCell id="Nz5zQUxFAAgijD7XDCru-29" edge="1" parent="Nz5zQUxFAAgijD7XDCru-1" source="Nz5zQUxFAAgijD7XDCru-47" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="Nz5zQUxFAAgijD7XDCru-44">
           <mxGeometry relative="1" as="geometry">
@@ -650,6 +656,9 @@
             <mxGeometry height="80" width="70" x="360" y="-250" as="geometry" />
           </mxCell>
         </object>
+        <mxCell id="eUfXhk4WXivQM16cfucw-0" parent="Nz5zQUxFAAgijD7XDCru-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=9;" value="Dokumentasjon av saksbehandling" vertex="1">
+          <mxGeometry height="20" width="91" x="830" y="-180" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -721,8 +730,8 @@
         <mxCell id="UKT3Ga85LtX9qhB_frRq-16" parent="UKT3Ga85LtX9qhB_frRq-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=11;" value="Arbeidskopier av bokmerkede filer i FTK" vertex="1">
           <mxGeometry height="20" width="121" x="644.5" y="-284" as="geometry" />
         </mxCell>
-        <mxCell id="UKT3Ga85LtX9qhB_frRq-17" parent="UKT3Ga85LtX9qhB_frRq-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=11;" value="Dokumentasjon av saksbehandling" vertex="1">
-          <mxGeometry height="20" width="105" x="822.5" y="-284" as="geometry" />
+        <mxCell id="UKT3Ga85LtX9qhB_frRq-17" parent="UKT3Ga85LtX9qhB_frRq-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=11;" value="Korrespondanse" vertex="1">
+          <mxGeometry height="20" width="105" x="830" y="-290" as="geometry" />
         </mxCell>
         <mxCell id="UKT3Ga85LtX9qhB_frRq-18" parent="UKT3Ga85LtX9qhB_frRq-1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#cce5ff;fontColor=#63BEF2;fontSize=10;" value="&amp;nbsp; &amp;nbsp;Digitalt sikringsmagasin (DSM)" vertex="1">
           <mxGeometry height="16" width="180" x="360" y="-138" as="geometry" />
@@ -848,6 +857,9 @@
             <mxGeometry height="80" width="70" x="360" y="-250" as="geometry" />
           </mxCell>
         </object>
+        <mxCell id="hHM6CAj5AxnJdJvtLB03-0" parent="UKT3Ga85LtX9qhB_frRq-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=9;" value="Dokumentasjon av saksbehandling" vertex="1">
+          <mxGeometry height="20" width="91" x="830" y="-180" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
