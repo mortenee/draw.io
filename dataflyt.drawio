@@ -110,7 +110,7 @@
         </mxCell>
         <mxCell id="gJ3VJGWQVzEXo7pIY-Yc-0" connectable="0" parent="DRRrQ6tS-cW3DmEARxFR-32" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=10;" value="&lt;span&gt;Korrespondanse journalføres&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;og lenkes&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;til evt. data i DSM&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.7353" y="-1" as="geometry">
-            <mxPoint x="-48" y="-1" as="offset" />
+            <mxPoint x="-29" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-34" edge="1" parent="DRRrQ6tS-cW3DmEARxFR-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" target="gJ3VJGWQVzEXo7pIY-Yc-4">
@@ -389,7 +389,7 @@
         </mxCell>
         <mxCell id="3oOa4_0G2vWazxwaKquG-5" connectable="0" parent="3oOa4_0G2vWazxwaKquG-4" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=10;" value="&lt;span&gt;Korrespondanse journalføres&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;og lenkes&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;til evt. data i DSM&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.7353" y="-1" as="geometry">
-            <mxPoint x="-48" y="-1" as="offset" />
+            <mxPoint x="-28" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="E-post" c4Type="Person" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Ekstern part" id="mGujH99MfKEdys4-FtKl-0">
@@ -631,7 +631,7 @@
         </mxCell>
         <mxCell id="XN_sa_2ztzI5SYsW1edK-4" connectable="0" parent="XN_sa_2ztzI5SYsW1edK-3" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=10;" value="&lt;span&gt;Korrespondanse journalføres&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;og lenkes&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;til evt. data i DSM&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.7353" y="-1" as="geometry">
-            <mxPoint x="-48" y="-1" as="offset" />
+            <mxPoint x="-28" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Omrj3CHvdmFg5TkDD3lU-0" edge="1" parent="Nz5zQUxFAAgijD7XDCru-1" source="Omrj3CHvdmFg5TkDD3lU-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;">
@@ -785,7 +785,7 @@
         </mxCell>
         <mxCell id="UKT3Ga85LtX9qhB_frRq-34" connectable="0" parent="UKT3Ga85LtX9qhB_frRq-33" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=10;" value="&lt;span&gt;Korrespondanse journalføres&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;og lenkes&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;til evt. data i DSM&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.7353" y="-1" as="geometry">
-            <mxPoint x="-48" y="-1" as="offset" />
+            <mxPoint x="-28" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="E-post" c4Type="Person" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Ekstern part" id="UKT3Ga85LtX9qhB_frRq-35">
@@ -1014,7 +1014,7 @@
         </mxCell>
         <mxCell id="Ximv-QyDZnYQ7fzfj_M6-5" connectable="0" parent="Ximv-QyDZnYQ7fzfj_M6-4" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=10;" value="&lt;span&gt;Korrespondanse journalføres&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;og lenkes&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;til evt. data i DSM&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.7353" y="-1" as="geometry">
-            <mxPoint x="-23" y="-1" as="offset" />
+            <mxPoint x="-17" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="eInnsyn" c4Type="Software System" c4Description="" label="&lt;font&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" tooltip="" id="Ximv-QyDZnYQ7fzfj_M6-6">
@@ -1179,7 +1179,7 @@
         </mxCell>
         <mxCell id="chlZmpBHI30AD1hVoN5U-33" connectable="0" parent="chlZmpBHI30AD1hVoN5U-32" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=10;" value="&lt;span&gt;Korrespondanse journalføres&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;og lenkes&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;til evt. data i DSM&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.7353" y="-1" as="geometry">
-            <mxPoint x="-23" y="-1" as="offset" />
+            <mxPoint x="-16" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="E-post" c4Type="Person" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Ekstern part" id="chlZmpBHI30AD1hVoN5U-34">
@@ -1360,7 +1360,7 @@
         </mxCell>
         <mxCell id="jz4pqKwWTim4mzR3QvbO-23" connectable="0" parent="jz4pqKwWTim4mzR3QvbO-22" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=10;" value="&lt;span&gt;Korrespondanse journalføres&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;og lenkes&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;til evt. data i DSM&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.7353" y="-1" as="geometry">
-            <mxPoint x="-23" y="-1" as="offset" />
+            <mxPoint x="-16" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="E-post" c4Type="Person" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Ekstern part" id="jz4pqKwWTim4mzR3QvbO-24">
@@ -1541,7 +1541,7 @@
         </mxCell>
         <mxCell id="67nS5FUe9a3TxRtop4yc-23" connectable="0" parent="67nS5FUe9a3TxRtop4yc-22" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=10;" value="&lt;span&gt;Korrespondanse journalføres&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;og lenkes&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;til evt. data i DSM&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.7353" y="-1" as="geometry">
-            <mxPoint x="-23" y="-1" as="offset" />
+            <mxPoint x="-16" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="E-post" c4Type="Person" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Ekstern part" id="67nS5FUe9a3TxRtop4yc-24">
