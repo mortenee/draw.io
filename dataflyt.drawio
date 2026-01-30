@@ -1139,6 +1139,11 @@
             <mxPoint x="1010" y="-70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="OvpnaXO7iZT2o0KUBBwB-0" connectable="0" parent="2Y95GNJSkMdYSV8Me0uj-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" value="Off. versjoner" vertex="1">
+          <mxGeometry x="928" y="221" as="geometry">
+            <mxPoint x="-16" y="-311" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
