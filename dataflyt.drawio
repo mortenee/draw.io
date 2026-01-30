@@ -125,7 +125,7 @@
             <mxPoint x="640" y="-95" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DRRrQ6tS-cW3DmEARxFR-36" parent="DRRrQ6tS-cW3DmEARxFR-1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#cce5ff;fontColor=#1168BD;fontSize=10;" value="&amp;nbsp; &amp;nbsp;Digitalt sikringsmagasin (DSM)" vertex="1">
+        <mxCell id="DRRrQ6tS-cW3DmEARxFR-36" parent="DRRrQ6tS-cW3DmEARxFR-1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#cce5ff;fontColor=#63BEF2;fontSize=11;" value="&amp;nbsp; &amp;nbsp;Digitalt sikringsmagasin (DSM)" vertex="1">
           <mxGeometry height="16" width="180" x="360" y="-138" as="geometry" />
         </mxCell>
         <object placeholders="1" c4Name="EA-lab" c4Type="Software System" c4Description="" label="&lt;font&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" tooltip="Fysisk adskilt datalab med FTK for mottak og sikring av beslaglagte data (&quot;beslagsnett&quot;). Bokmerkede filer overføres til FTK intern sone." id="DRRrQ6tS-cW3DmEARxFR-37">
@@ -328,7 +328,7 @@
         <mxCell id="kjFDwvOA_ZxmW6O4vjkk-24" parent="kjFDwvOA_ZxmW6O4vjkk-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=11;" value="Dokumentasjon av saksbehandling" vertex="1">
           <mxGeometry height="20" width="105" x="822.5" y="-284" as="geometry" />
         </mxCell>
-        <mxCell id="kjFDwvOA_ZxmW6O4vjkk-31" parent="kjFDwvOA_ZxmW6O4vjkk-1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#cce5ff;fontColor=#1168BD;fontSize=10;" value="&amp;nbsp; &amp;nbsp;Digitalt sikringsmagasin (DSM)" vertex="1">
+        <mxCell id="kjFDwvOA_ZxmW6O4vjkk-31" parent="kjFDwvOA_ZxmW6O4vjkk-1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#cce5ff;fontColor=#63BEF2;fontSize=11;" value="&amp;nbsp; &amp;nbsp;Digitalt sikringsmagasin (DSM)" vertex="1">
           <mxGeometry height="16" width="180" x="360" y="-138" as="geometry" />
         </mxCell>
         <mxCell id="kjFDwvOA_ZxmW6O4vjkk-34" parent="kjFDwvOA_ZxmW6O4vjkk-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;strokeColor=#63BEF2;" value="" vertex="1">
@@ -515,7 +515,7 @@
             <mxPoint x="640" y="-95" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nz5zQUxFAAgijD7XDCru-31" parent="Nz5zQUxFAAgijD7XDCru-1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#cce5ff;fontColor=#1168BD;fontSize=10;" value="&amp;nbsp; &amp;nbsp;Digitalt sikringsmagasin (DSM)" vertex="1">
+        <mxCell id="Nz5zQUxFAAgijD7XDCru-31" parent="Nz5zQUxFAAgijD7XDCru-1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#cce5ff;fontColor=#63BEF2;fontSize=11;" value="&amp;nbsp; &amp;nbsp;Digitalt sikringsmagasin (DSM)" vertex="1">
           <mxGeometry height="16" width="180" x="360" y="-138" as="geometry" />
         </mxCell>
         <mxCell id="Nz5zQUxFAAgijD7XDCru-34" parent="Nz5zQUxFAAgijD7XDCru-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;strokeColor=#63BEF2;" value="" vertex="1">
@@ -724,7 +724,7 @@
         <mxCell id="UKT3Ga85LtX9qhB_frRq-17" parent="UKT3Ga85LtX9qhB_frRq-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=11;" value="Dokumentasjon av saksbehandling" vertex="1">
           <mxGeometry height="20" width="105" x="822.5" y="-284" as="geometry" />
         </mxCell>
-        <mxCell id="UKT3Ga85LtX9qhB_frRq-18" parent="UKT3Ga85LtX9qhB_frRq-1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#cce5ff;fontColor=#1168BD;fontSize=10;" value="&amp;nbsp; &amp;nbsp;Digitalt sikringsmagasin (DSM)" vertex="1">
+        <mxCell id="UKT3Ga85LtX9qhB_frRq-18" parent="UKT3Ga85LtX9qhB_frRq-1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#cce5ff;fontColor=#63BEF2;fontSize=11;" value="&amp;nbsp; &amp;nbsp;Digitalt sikringsmagasin (DSM)" vertex="1">
           <mxGeometry height="16" width="180" x="360" y="-138" as="geometry" />
         </mxCell>
         <mxCell id="UKT3Ga85LtX9qhB_frRq-19" parent="UKT3Ga85LtX9qhB_frRq-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;strokeColor=#63BEF2;" value="" vertex="1">
@@ -923,7 +923,7 @@
             <mxPoint x="640" y="-95" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2Y95GNJSkMdYSV8Me0uj-31" parent="2Y95GNJSkMdYSV8Me0uj-1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#cce5ff;fontColor=#1168BD;fontSize=10;" value="&amp;nbsp; &amp;nbsp;Digitalt sikringsmagasin (DSM)" vertex="1">
+        <mxCell id="2Y95GNJSkMdYSV8Me0uj-31" parent="2Y95GNJSkMdYSV8Me0uj-1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#cce5ff;fontColor=#63BEF2;fontSize=11;" value="&amp;nbsp; &amp;nbsp;Digitalt sikringsmagasin (DSM)" vertex="1">
           <mxGeometry height="16" width="180" x="360" y="-138" as="geometry" />
         </mxCell>
         <object placeholders="1" c4Name="EA-lab" c4Type="Software System" c4Description="" label="&lt;font&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" tooltip="Fysisk adskilt datalab med FTK for mottak og sikring av beslaglagte data (&quot;beslagsnett&quot;). Bokmerkede filer overføres til FTK intern sone." id="2Y95GNJSkMdYSV8Me0uj-32">
@@ -1149,7 +1149,7 @@
         <mxCell id="chlZmpBHI30AD1hVoN5U-16" parent="chlZmpBHI30AD1hVoN5U-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=9;" value="Dokumentasjon av saksbehandling" vertex="1">
           <mxGeometry height="20" width="121" x="700" y="-180" as="geometry" />
         </mxCell>
-        <mxCell id="chlZmpBHI30AD1hVoN5U-18" parent="chlZmpBHI30AD1hVoN5U-1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#cce5ff;fontColor=#1168BD;fontSize=10;" value="&amp;nbsp; &amp;nbsp;Digitalt sikringsmagasin (DSM)" vertex="1">
+        <mxCell id="chlZmpBHI30AD1hVoN5U-18" parent="chlZmpBHI30AD1hVoN5U-1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#cce5ff;fontColor=#63BEF2;fontSize=11;" value="&amp;nbsp; &amp;nbsp;Digitalt sikringsmagasin (DSM)" vertex="1">
           <mxGeometry height="16" width="180" x="360" y="-138" as="geometry" />
         </mxCell>
         <mxCell id="chlZmpBHI30AD1hVoN5U-19" parent="chlZmpBHI30AD1hVoN5U-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;strokeColor=#63BEF2;" value="" vertex="1">
@@ -1333,7 +1333,7 @@
         <mxCell id="jz4pqKwWTim4mzR3QvbO-13" parent="jz4pqKwWTim4mzR3QvbO-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=9;" value="Arbeidskopier av datafiler og dokumentasjon av saksbehandling" vertex="1">
           <mxGeometry height="20" width="121" x="620" y="-170" as="geometry" />
         </mxCell>
-        <mxCell id="jz4pqKwWTim4mzR3QvbO-14" parent="jz4pqKwWTim4mzR3QvbO-1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#cce5ff;fontColor=#1168BD;fontSize=10;" value="&amp;nbsp; &amp;nbsp;Digitalt sikringsmagasin (DSM)" vertex="1">
+        <mxCell id="jz4pqKwWTim4mzR3QvbO-14" parent="jz4pqKwWTim4mzR3QvbO-1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#cce5ff;fontColor=#63BEF2;fontSize=11;" value="&amp;nbsp; &amp;nbsp;Digitalt sikringsmagasin (DSM)" vertex="1">
           <mxGeometry height="16" width="180" x="360" y="-138" as="geometry" />
         </mxCell>
         <mxCell id="jz4pqKwWTim4mzR3QvbO-15" parent="jz4pqKwWTim4mzR3QvbO-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;strokeColor=#63BEF2;" value="" vertex="1">
@@ -1514,7 +1514,7 @@
         <mxCell id="67nS5FUe9a3TxRtop4yc-13" parent="67nS5FUe9a3TxRtop4yc-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=9;" value="Arbeidskopier av bokmerkede filer i FTK og dokumentasjon av saksbehandling" vertex="1">
           <mxGeometry height="20" width="121" x="620" y="-170" as="geometry" />
         </mxCell>
-        <mxCell id="67nS5FUe9a3TxRtop4yc-14" parent="67nS5FUe9a3TxRtop4yc-1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#cce5ff;fontColor=#1168BD;fontSize=10;" value="&amp;nbsp; &amp;nbsp;Digitalt sikringsmagasin (DSM)" vertex="1">
+        <mxCell id="67nS5FUe9a3TxRtop4yc-14" parent="67nS5FUe9a3TxRtop4yc-1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#cce5ff;fontColor=#63BEF2;fontSize=11;" value="&amp;nbsp; &amp;nbsp;Digitalt sikringsmagasin (DSM)" vertex="1">
           <mxGeometry height="16" width="180" x="360" y="-138" as="geometry" />
         </mxCell>
         <mxCell id="67nS5FUe9a3TxRtop4yc-15" parent="67nS5FUe9a3TxRtop4yc-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;strokeColor=#63BEF2;" value="" vertex="1">
