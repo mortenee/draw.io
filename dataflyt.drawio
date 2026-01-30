@@ -972,7 +972,7 @@
         </mxCell>
         <object placeholders="1" c4Name="E-post" c4Type="Person" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Ekstern part" id="2Y95GNJSkMdYSV8Me0uj-36">
           <mxCell parent="2Y95GNJSkMdYSV8Me0uj-1" style="html=1;dashed=0;whitespace=wrap;fillColor=#8C8496;strokeColor=#FFFFFF;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};rounded=1;verticalAlign=middle;arcSize=10;fontFamily=Helvetica;fontSize=8;labelBackgroundColor=none;resizable=1;" vertex="1">
-            <mxGeometry height="80" width="70" x="1005" y="-115" as="geometry" />
+            <mxGeometry height="80" width="70" x="980" y="-43" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="2Y95GNJSkMdYSV8Me0uj-39" parent="2Y95GNJSkMdYSV8Me0uj-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;fontSize=11;" value="Data ut" vertex="1">
@@ -1014,7 +1014,7 @@
             <mxGeometry height="30" width="180" x="430" y="-350" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="2Y95GNJSkMdYSV8Me0uj-20" edge="1" parent="2Y95GNJSkMdYSV8Me0uj-1" source="2Y95GNJSkMdYSV8Me0uj-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;">
+        <mxCell id="2Y95GNJSkMdYSV8Me0uj-20" edge="1" parent="2Y95GNJSkMdYSV8Me0uj-1" source="2Y95GNJSkMdYSV8Me0uj-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=1;exitY=0.32;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.015;entryY=0.61;entryDx=0;entryDy=0;entryPerimeter=0;" target="Pm24PXcFmA5mcstvaYUa-0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="850" y="-68" as="sourcePoint" />
             <mxPoint x="1010" y="-70" as="targetPoint" />
@@ -1081,7 +1081,7 @@
         </object>
         <object placeholders="1" c4Name="Nedlasting" c4Type="Person" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Ekstern part" id="G1Ey1Wlmt3rCKJLJOClv-3">
           <mxCell parent="2Y95GNJSkMdYSV8Me0uj-1" style="html=1;dashed=0;whitespace=wrap;fillColor=#8C8496;strokeColor=#FFFFFF;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};rounded=1;verticalAlign=middle;arcSize=10;fontFamily=Helvetica;fontSize=8;labelBackgroundColor=none;resizable=1;" vertex="1">
-            <mxGeometry height="80" width="70" x="1005" y="20" as="geometry" />
+            <mxGeometry height="80" width="70" x="1040" y="20" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="G1Ey1Wlmt3rCKJLJOClv-4" edge="1" parent="2Y95GNJSkMdYSV8Me0uj-1" source="G1Ey1Wlmt3rCKJLJOClv-0" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0.062;entryY=0.663;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.61;exitDx=0;exitDy=0;exitPerimeter=0;" target="G1Ey1Wlmt3rCKJLJOClv-3">
@@ -1127,6 +1127,17 @@
         </mxCell>
         <mxCell id="2W18HLUSbrw_E7mH8l6B-1" parent="2Y95GNJSkMdYSV8Me0uj-1" style="whiteSpace=wrap;html=1;fontSize=10;strokeColor=none;fontColor=#82B366;fillColor=#D5E8D4;align=center;" value="Datakatalog" vertex="1">
           <mxGeometry height="16" width="100" x="620" y="-146" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="kt.no" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Konkurransetilsynets nettside" id="Pm24PXcFmA5mcstvaYUa-0">
+          <mxCell parent="2Y95GNJSkMdYSV8Me0uj-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;align=center;arcSize=6;strokeColor=#FFFFFF;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#ffffff;resizable=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1">
+            <mxGeometry height="100" width="130" x="980" y="-150" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="Pm24PXcFmA5mcstvaYUa-1" edge="1" parent="2Y95GNJSkMdYSV8Me0uj-1" source="2Y95GNJSkMdYSV8Me0uj-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=1.008;exitY=0.68;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.043;entryY=0.638;entryDx=0;entryDy=0;entryPerimeter=0;" target="2Y95GNJSkMdYSV8Me0uj-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="211" as="sourcePoint" />
+            <mxPoint x="1022" y="210" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
