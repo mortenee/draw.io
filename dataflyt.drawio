@@ -328,8 +328,8 @@
         <mxCell id="kjFDwvOA_ZxmW6O4vjkk-22" parent="kjFDwvOA_ZxmW6O4vjkk-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;fontSize=11;" value="&amp;nbsp; &amp;nbsp;Komplette datasett" vertex="1">
           <mxGeometry height="20" width="232" x="324" y="-290" as="geometry" />
         </mxCell>
-        <mxCell id="kjFDwvOA_ZxmW6O4vjkk-23" parent="kjFDwvOA_ZxmW6O4vjkk-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=11;" value="Arbeidskopier av bokmerkede filer i FTK" vertex="1">
-          <mxGeometry height="20" width="121" x="644.5" y="-284" as="geometry" />
+        <mxCell id="kjFDwvOA_ZxmW6O4vjkk-23" parent="kjFDwvOA_ZxmW6O4vjkk-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=11;" value="Arbeidskopier av bokmerkede filer" vertex="1">
+          <mxGeometry height="20" width="90" x="670" y="-284" as="geometry" />
         </mxCell>
         <mxCell id="kjFDwvOA_ZxmW6O4vjkk-24" parent="kjFDwvOA_ZxmW6O4vjkk-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=11;" value="Korrespondanse" vertex="1">
           <mxGeometry height="20" width="105" x="830" y="-290" as="geometry" />
@@ -736,8 +736,8 @@
         <mxCell id="UKT3Ga85LtX9qhB_frRq-15" parent="UKT3Ga85LtX9qhB_frRq-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;fontSize=11;" value="&amp;nbsp; &amp;nbsp;Komplette datasett" vertex="1">
           <mxGeometry height="20" width="232" x="324" y="-290" as="geometry" />
         </mxCell>
-        <mxCell id="UKT3Ga85LtX9qhB_frRq-16" parent="UKT3Ga85LtX9qhB_frRq-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=11;" value="Arbeidskopier av bokmerkede filer i FTK" vertex="1">
-          <mxGeometry height="20" width="121" x="644.5" y="-284" as="geometry" />
+        <mxCell id="UKT3Ga85LtX9qhB_frRq-16" parent="UKT3Ga85LtX9qhB_frRq-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=11;" value="Arbeidskopier av bokmerkede filer" vertex="1">
+          <mxGeometry height="20" width="90" x="670" y="-284" as="geometry" />
         </mxCell>
         <mxCell id="UKT3Ga85LtX9qhB_frRq-17" parent="UKT3Ga85LtX9qhB_frRq-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=11;" value="Korrespondanse" vertex="1">
           <mxGeometry height="20" width="105" x="830" y="-290" as="geometry" />
@@ -1300,8 +1300,8 @@
             <mxGeometry height="80" width="70" x="360" y="-250" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="tfIbb7jufcl5MXJ_xNi3-0" parent="chlZmpBHI30AD1hVoN5U-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=9;" value="&lt;span&gt;Arbeidskopier av bokmerkede filer i FTK&lt;/span&gt;" vertex="1">
-          <mxGeometry height="20" width="93" x="633" y="-100" as="geometry" />
+        <mxCell id="tfIbb7jufcl5MXJ_xNi3-0" parent="chlZmpBHI30AD1hVoN5U-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=9;" value="&lt;span&gt;Arbeidskopier av bokmerkede filer&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="75" x="645" y="-100" as="geometry" />
         </mxCell>
         <mxCell id="yxI1LXNXKtVHm-IbHQj1-0" parent="chlZmpBHI30AD1hVoN5U-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=9;" value="Datasett" vertex="1">
           <mxGeometry height="20" width="35" x="315" y="-173" as="geometry" />
@@ -1485,7 +1485,7 @@
           </mxCell>
         </object>
         <mxCell id="dFmfl6Vwfeu2DcIv2eWl-0" parent="jz4pqKwWTim4mzR3QvbO-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=9;" value="Arbeidskopier av datafiler&amp;nbsp;" vertex="1">
-          <mxGeometry height="20" width="82" x="633" y="-100" as="geometry" />
+          <mxGeometry height="20" width="82" x="645" y="-100" as="geometry" />
         </mxCell>
         <mxCell id="RgaVYVi20_9PBat76o9d-0" parent="jz4pqKwWTim4mzR3QvbO-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=9;" value="Dokumentasjon av saksbehandling" vertex="1">
           <mxGeometry height="20" width="121" x="757" y="-170" as="geometry" />
@@ -1677,8 +1677,8 @@
         <mxCell id="_gGAqv4jiAeOs3-ko1Ar-0" parent="67nS5FUe9a3TxRtop4yc-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=9;" value="Datasett" vertex="1">
           <mxGeometry height="20" width="35" x="315" y="-173" as="geometry" />
         </mxCell>
-        <mxCell id="Ov2eDs2CumZm54jct7xi-0" parent="67nS5FUe9a3TxRtop4yc-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=9;" value="&lt;span&gt;Arbeidskopier av bokmerkede filer i FTK&lt;/span&gt;" vertex="1">
-          <mxGeometry height="20" width="93" x="633" y="-100" as="geometry" />
+        <mxCell id="Ov2eDs2CumZm54jct7xi-0" parent="67nS5FUe9a3TxRtop4yc-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=9;" value="&lt;span&gt;Arbeidskopier av bokmerkede filer&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="75" x="645" y="-100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
