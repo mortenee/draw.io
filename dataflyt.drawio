@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.6" pages="9">
   <diagram name="2026 Alle" id="-cqSJNJE6RPYUt5TkSRe">
-    <mxGraphModel dx="1410" dy="2018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1410" dy="2016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-0" />
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-1" parent="DRRrQ6tS-cW3DmEARxFR-0" />
@@ -172,7 +172,7 @@
             <mxGeometry height="100" width="130" x="980" y="-260" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="DRRrQ6tS-cW3DmEARxFR-50" edge="1" parent="DRRrQ6tS-cW3DmEARxFR-1" source="DRRrQ6tS-cW3DmEARxFR-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.569;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" target="DRRrQ6tS-cW3DmEARxFR-49">
+        <mxCell id="DRRrQ6tS-cW3DmEARxFR-50" edge="1" parent="DRRrQ6tS-cW3DmEARxFR-1" source="DRRrQ6tS-cW3DmEARxFR-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.569;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" target="DRRrQ6tS-cW3DmEARxFR-49">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="890" y="-140" as="sourcePoint" />
             <mxPoint x="1130" y="-393.8999999999998" as="targetPoint" />
@@ -876,7 +876,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2028 Alle" id="tqkpXOUQQg3yJEhjWJ9Q">
-    <mxGraphModel dx="1410" dy="2018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1410" dy="2016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="2Y95GNJSkMdYSV8Me0uj-0" />
         <mxCell id="2Y95GNJSkMdYSV8Me0uj-1" parent="2Y95GNJSkMdYSV8Me0uj-0" />
@@ -925,7 +925,7 @@
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="Samhandlingsplattform m/ innebygget arkivering" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Saksbehandling, samhandling, prosjektstyring og arkivering i ett system. Basert på MS Teams eller annet." id="2Y95GNJSkMdYSV8Me0uj-18">
-          <mxCell parent="2Y95GNJSkMdYSV8Me0uj-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;align=left;arcSize=6;strokeColor=#D5E8D4;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#ffffff;resizable=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingLeft=4;" vertex="1">
+          <mxCell parent="2Y95GNJSkMdYSV8Me0uj-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;align=center;arcSize=6;strokeColor=#D5E8D4;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#ffffff;resizable=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingLeft=4;" vertex="1">
             <mxGeometry height="100" width="130" x="730" y="-120" as="geometry" />
           </mxCell>
         </object>
@@ -1046,7 +1046,7 @@
             <mxGeometry height="100" width="130" x="980" y="-260" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="Ximv-QyDZnYQ7fzfj_M6-7" edge="1" parent="2Y95GNJSkMdYSV8Me0uj-1" source="2Y95GNJSkMdYSV8Me0uj-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.631;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" target="Ximv-QyDZnYQ7fzfj_M6-6">
+        <mxCell id="Ximv-QyDZnYQ7fzfj_M6-7" edge="1" parent="2Y95GNJSkMdYSV8Me0uj-1" source="2Y95GNJSkMdYSV8Me0uj-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.631;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" target="Ximv-QyDZnYQ7fzfj_M6-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="884" y="-119" as="sourcePoint" />
             <mxPoint x="1130" y="-393.8999999999998" as="targetPoint" />
@@ -1148,7 +1148,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2028 Fusjoner, interne dokumenter" id="1itrZHI9Magi-DMmNtF7">
-    <mxGraphModel dx="1410" dy="2018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1410" dy="2016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="chlZmpBHI30AD1hVoN5U-0" />
         <mxCell id="chlZmpBHI30AD1hVoN5U-1" parent="chlZmpBHI30AD1hVoN5U-0" />
@@ -1188,7 +1188,7 @@
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="Samhandlingsplattform m/ innebygget arkivering" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Prosjektets team i MS Teams" id="chlZmpBHI30AD1hVoN5U-11">
-          <mxCell parent="chlZmpBHI30AD1hVoN5U-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;align=left;arcSize=6;strokeColor=#FFFFFF;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#ffffff;resizable=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingLeft=4;" vertex="1">
+          <mxCell parent="chlZmpBHI30AD1hVoN5U-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;align=center;arcSize=6;strokeColor=#FFFFFF;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#ffffff;resizable=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingLeft=4;" vertex="1">
             <mxGeometry height="100" width="130" x="730" y="-120" as="geometry" />
           </mxCell>
         </object>
@@ -1335,7 +1335,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2028 Kvantitative data" id="w0KCOeLybPe0Ncz7BfoV">
-    <mxGraphModel dx="1410" dy="2018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1410" dy="2016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="jz4pqKwWTim4mzR3QvbO-0" />
         <mxCell id="jz4pqKwWTim4mzR3QvbO-1" parent="jz4pqKwWTim4mzR3QvbO-0" />
@@ -1375,7 +1375,7 @@
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="Samhandlingsplattform m/ innebygget arkivering" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Prosjektets team i MS Teams" id="jz4pqKwWTim4mzR3QvbO-10">
-          <mxCell parent="jz4pqKwWTim4mzR3QvbO-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;align=left;arcSize=6;strokeColor=#FFFFFF;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#ffffff;resizable=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingLeft=4;" vertex="1">
+          <mxCell parent="jz4pqKwWTim4mzR3QvbO-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;align=center;arcSize=6;strokeColor=#FFFFFF;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#ffffff;resizable=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingLeft=4;" vertex="1">
             <mxGeometry height="100" width="130" x="730" y="-120" as="geometry" />
           </mxCell>
         </object>
@@ -1522,7 +1522,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2028 Etterforskning" id="rVOGTT9N1b5pYW83OlpG">
-    <mxGraphModel dx="1410" dy="2018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1410" dy="2016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="67nS5FUe9a3TxRtop4yc-0" />
         <mxCell id="67nS5FUe9a3TxRtop4yc-1" parent="67nS5FUe9a3TxRtop4yc-0" />
@@ -1562,7 +1562,7 @@
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="Samhandlingsplattform m/ innebygget arkivering" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Prosjektets team i MS Teams" id="67nS5FUe9a3TxRtop4yc-10">
-          <mxCell parent="67nS5FUe9a3TxRtop4yc-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;align=left;arcSize=6;strokeColor=#FFFFFF;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#ffffff;resizable=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingLeft=4;" vertex="1">
+          <mxCell parent="67nS5FUe9a3TxRtop4yc-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;align=center;arcSize=6;strokeColor=#FFFFFF;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#ffffff;resizable=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingLeft=4;" vertex="1">
             <mxGeometry height="100" width="130" x="730" y="-120" as="geometry" />
           </mxCell>
         </object>
