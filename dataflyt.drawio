@@ -1081,7 +1081,7 @@
         </object>
         <object placeholders="1" c4Name="Nedlasting" c4Type="Person" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Ekstern part" id="G1Ey1Wlmt3rCKJLJOClv-3">
           <mxCell parent="2Y95GNJSkMdYSV8Me0uj-1" style="html=1;dashed=0;whitespace=wrap;fillColor=#8C8496;strokeColor=#FFFFFF;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};rounded=1;verticalAlign=middle;arcSize=10;fontFamily=Helvetica;fontSize=8;labelBackgroundColor=none;resizable=1;" vertex="1">
-            <mxGeometry height="80" width="70" x="1040" y="20" as="geometry" />
+            <mxGeometry height="80" width="70" x="1005" y="20" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="G1Ey1Wlmt3rCKJLJOClv-4" edge="1" parent="2Y95GNJSkMdYSV8Me0uj-1" source="G1Ey1Wlmt3rCKJLJOClv-0" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0.062;entryY=0.663;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.61;exitDx=0;exitDy=0;exitPerimeter=0;" target="G1Ey1Wlmt3rCKJLJOClv-3">
