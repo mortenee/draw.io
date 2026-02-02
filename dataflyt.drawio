@@ -167,7 +167,7 @@
             <mxPoint x="1130" y="-393.8999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DRRrQ6tS-cW3DmEARxFR-51" connectable="0" parent="DRRrQ6tS-cW3DmEARxFR-50" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" value="Off. journal" vertex="1">
+        <mxCell id="DRRrQ6tS-cW3DmEARxFR-51" connectable="0" parent="DRRrQ6tS-cW3DmEARxFR-50" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" value="Off. journal&lt;div&gt;(metadata)&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="0.376" y="6" as="geometry">
             <mxPoint x="-6" y="4" as="offset" />
           </mxGeometry>
