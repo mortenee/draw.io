@@ -1580,7 +1580,7 @@
         <mxCell id="BxTPTbZIA37vRJ8W9qev-14" parent="BxTPTbZIA37vRJ8W9qev-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;fontSize=11;" value="Data ut" vertex="1">
           <mxGeometry height="20" width="72.5" x="1005" y="-290" as="geometry" />
         </mxCell>
-        <object placeholders="1" c4Name="Dataportal" c4Type="Frontend" c4Description="" label="&lt;font&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" tooltip="Grensesnitt mot datasett lagret i digitalt sikringsmagasin" id="BxTPTbZIA37vRJ8W9qev-15">
+        <object placeholders="1" c4Name="Digital etterforskning" c4Type="Frontend" c4Description="" label="&lt;font&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" tooltip="Grensesnitt mot FTK på intern sone (FTK Central)" id="BxTPTbZIA37vRJ8W9qev-15">
           <mxCell parent="BxTPTbZIA37vRJ8W9qev-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#CCE5FF;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;spacingBottom=0;" vertex="1">
             <mxGeometry height="100" width="120" x="470" y="-120" as="geometry" />
           </mxCell>
@@ -1698,8 +1698,8 @@
             <mxPoint x="1009" y="-70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <object placeholders="1" c4Name="Eksternt datarom" c4Type="Software System" c4Description="" label="&lt;font&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" tooltip="Ekstern parts datarom" id="BxTPTbZIA37vRJ8W9qev-40">
-          <mxCell parent="BxTPTbZIA37vRJ8W9qev-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#FFFFFF;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingBottom=0;fontSize=10;" vertex="1">
+        <object placeholders="1" c4Name="Beslagsnett" c4Type="Software System" c4Description="" label="&lt;font&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" tooltip="Fysisk adskilt datalab med FTK for mottak og sikring av beslaglagte data (EA-lab). Bokmerkede filer overføres til FTK intern sone." id="BxTPTbZIA37vRJ8W9qev-40">
+          <mxCell parent="BxTPTbZIA37vRJ8W9qev-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#FFFFFF;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingBottom=0;fontSize=10;verticalAlign=middle;fontFamily=Helvetica;" vertex="1">
             <mxGeometry height="100" width="130" x="120" y="-120" as="geometry" />
           </mxCell>
         </object>
@@ -1715,8 +1715,8 @@
             <mxPoint x="650" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BxTPTbZIA37vRJ8W9qev-43" parent="BxTPTbZIA37vRJ8W9qev-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=9;fillColor=#D5E8D4;" value="Arbeidskopier&amp;nbsp;&lt;div&gt;av datafiler&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="20" width="56" x="631" y="-85" as="geometry" />
+        <mxCell id="BxTPTbZIA37vRJ8W9qev-43" parent="BxTPTbZIA37vRJ8W9qev-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=9;fillColor=#D5E8D4;" value="Arbeidskopier&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;av bokmerkede filer&amp;nbsp;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="72" x="631" y="-85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
