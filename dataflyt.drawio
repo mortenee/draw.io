@@ -1128,11 +1128,6 @@
         <mxCell id="2W18HLUSbrw_E7mH8l6B-1" parent="2Y95GNJSkMdYSV8Me0uj-1" style="whiteSpace=wrap;html=1;fontSize=10;strokeColor=none;fontColor=#82B366;fillColor=#D5E8D4;align=center;" value="Datakatalog" vertex="1">
           <mxGeometry height="16" width="100" x="620" y="-146" as="geometry" />
         </mxCell>
-        <mxCell id="OvpnaXO7iZT2o0KUBBwB-0" connectable="0" parent="2Y95GNJSkMdYSV8Me0uj-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" value="Off. versjoner" vertex="1">
-          <mxGeometry x="928" y="221" as="geometry">
-            <mxPoint x="-16" y="-311" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <object placeholders="1" c4Name="E-post" c4Type="Person" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Ekstern part" id="edWok3XQHZ2755-npMNN-0">
           <mxCell parent="2Y95GNJSkMdYSV8Me0uj-1" style="html=1;dashed=0;whitespace=wrap;fillColor=#8C8496;strokeColor=#FFFFFF;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};rounded=1;verticalAlign=middle;arcSize=10;fontFamily=Helvetica;fontSize=8;labelBackgroundColor=none;resizable=1;" vertex="1">
             <mxGeometry height="80" width="70" x="1005" y="-115" as="geometry" />
