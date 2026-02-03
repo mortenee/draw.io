@@ -1179,14 +1179,8 @@
         <mxCell id="Do_qXSRIaDk3yAFxI3tt-14" parent="Do_qXSRIaDk3yAFxI3tt-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;fontSize=11;" value="&amp;nbsp; &amp;nbsp;Komplette datasett" vertex="1">
           <mxGeometry height="20" width="232" x="324" y="-290" as="geometry" />
         </mxCell>
-        <mxCell id="Do_qXSRIaDk3yAFxI3tt-15" parent="Do_qXSRIaDk3yAFxI3tt-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=9;fillColor=#D5E8D4;" value="Arbeidskopier av bokmerked filer&amp;nbsp;" vertex="1">
-          <mxGeometry height="20" width="89" x="631" y="-85" as="geometry" />
-        </mxCell>
-        <mxCell id="Do_qXSRIaDk3yAFxI3tt-16" edge="1" parent="Do_qXSRIaDk3yAFxI3tt-1" source="Do_qXSRIaDk3yAFxI3tt-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;">
+        <mxCell id="Do_qXSRIaDk3yAFxI3tt-16" edge="1" parent="Do_qXSRIaDk3yAFxI3tt-1" source="Do_qXSRIaDk3yAFxI3tt-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="Do_qXSRIaDk3yAFxI3tt-24">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="470" y="-95" />
-            </Array>
             <mxPoint x="430" y="-96" as="sourcePoint" />
             <mxPoint x="470" y="-95" as="targetPoint" />
           </mxGeometry>
@@ -1333,6 +1327,15 @@
             <mxPoint x="248.04999999999995" y="-55" as="sourcePoint" />
             <mxPoint x="300" y="-70" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="uVEFdQTA6j6fPMjMb6TR-0" edge="1" parent="Do_qXSRIaDk3yAFxI3tt-1" source="Do_qXSRIaDk3yAFxI3tt-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="Do_qXSRIaDk3yAFxI3tt-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="180" as="sourcePoint" />
+            <mxPoint x="650" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Do_qXSRIaDk3yAFxI3tt-15" parent="Do_qXSRIaDk3yAFxI3tt-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=9;fillColor=#D5E8D4;" value="Arbeidskopier av bokmerked filer&amp;nbsp;" vertex="1">
+          <mxGeometry height="20" width="70" x="631" y="-85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
