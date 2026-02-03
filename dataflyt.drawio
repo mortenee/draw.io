@@ -1096,7 +1096,7 @@
             <mxPoint x="335" y="-120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="Kvantitative data" tooltip="Ekstern part oversender data etter pålegg om å gi opplysninger ifm fusjoner, markedsovervåking mm" link="data:page/id,w0KCOeLybPe0Ncz7BfoV" id="klz0oQNl2llIuHCgmdqU-0">
+        <UserObject label="Kvantitative data" tooltip="Ekstern part oversender data etter pålegg om å gi opplysninger ifm fusjoner, markedsovervåking mm" link="data:page/id,d876kOEiLG1wMHqSSSHW" id="klz0oQNl2llIuHCgmdqU-0">
           <mxCell parent="2Y95GNJSkMdYSV8Me0uj-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#b1ddf0;strokeColor=#B1DDF0;textShadow=1;fontColor=#FFFFFF;" vertex="1">
             <mxGeometry height="30" width="160" x="800" y="-350" as="geometry" />
           </mxCell>
@@ -1269,12 +1269,12 @@
             <mxPoint x="335" y="-120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="Kvantitative data" tooltip="Ekstern part oversender data etter pålegg om å gi opplysninger ifm fusjoner, markedsovervåking mm" link="data:page/id,w0KCOeLybPe0Ncz7BfoV" id="Do_qXSRIaDk3yAFxI3tt-45">
+        <UserObject label="Kvantitative data" tooltip="Ekstern part oversender data etter pålegg om å gi opplysninger ifm fusjoner, markedsovervåking mm" link="data:page/id,d876kOEiLG1wMHqSSSHW" id="Do_qXSRIaDk3yAFxI3tt-45">
           <mxCell parent="Do_qXSRIaDk3yAFxI3tt-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#b1ddf0;strokeColor=#B1DDF0;textShadow=1;fontColor=#FFFFFF;" vertex="1">
             <mxGeometry height="30" width="160" x="800" y="-350" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Fusjoner, interne dokumenter" tooltip="Ekstern part oversender sine interne dokumenter etter pålegg om å gi opplysninger" link="data:page/id,GBDggE_SVQNjzG2A2Luk" id="Do_qXSRIaDk3yAFxI3tt-46">
+        <UserObject label="Fusjoner, interne dokumenter" tooltip="Ekstern part oversender sine interne dokumenter etter pålegg om å gi opplysninger" link="data:page/id,IeXUOQUjddM5kdMOuOoP" id="Do_qXSRIaDk3yAFxI3tt-46">
           <mxCell parent="Do_qXSRIaDk3yAFxI3tt-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#b1ddf0;strokeColor=#10739e;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1">
             <mxGeometry height="30" width="190" x="610" y="-350" as="geometry" />
           </mxCell>
@@ -1462,12 +1462,12 @@
             <mxPoint x="335" y="-120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="Kvantitative data" tooltip="Ekstern part oversender data etter pålegg om å gi opplysninger ifm fusjoner, markedsovervåking mm" link="data:page/id,w0KCOeLybPe0Ncz7BfoV" id="248XSB3FMwseOpqly3Pp-31">
+        <UserObject label="Kvantitative data" tooltip="Ekstern part oversender data etter pålegg om å gi opplysninger ifm fusjoner, markedsovervåking mm" link="data:page/id,d876kOEiLG1wMHqSSSHW" id="248XSB3FMwseOpqly3Pp-31">
           <mxCell parent="248XSB3FMwseOpqly3Pp-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#b1ddf0;strokeColor=#10739e;textShadow=1;fontColor=default;fontFamily=Helvetica;fontSize=12;" vertex="1">
             <mxGeometry height="30" width="160" x="800" y="-350" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Fusjoner, interne dokumenter" tooltip="Ekstern part oversender sine interne dokumenter etter pålegg om å gi opplysninger" link="data:page/id,GBDggE_SVQNjzG2A2Luk" id="248XSB3FMwseOpqly3Pp-32">
+        <UserObject label="Fusjoner, interne dokumenter" tooltip="Ekstern part oversender sine interne dokumenter etter pålegg om å gi opplysninger" link="data:page/id,IeXUOQUjddM5kdMOuOoP" id="248XSB3FMwseOpqly3Pp-32">
           <mxCell parent="248XSB3FMwseOpqly3Pp-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#b1ddf0;strokeColor=#B1DDF0;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;" vertex="1">
             <mxGeometry height="30" width="190" x="610" y="-350" as="geometry" />
           </mxCell>
