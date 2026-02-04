@@ -107,7 +107,7 @@
         <mxCell id="DRRrQ6tS-cW3DmEARxFR-48" parent="DRRrQ6tS-cW3DmEARxFR-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;fontSize=11;" value="Data ut" vertex="1">
           <mxGeometry height="20" width="72.5" x="1005" y="-290" as="geometry" />
         </mxCell>
-        <object placeholders="1" c4Name="eInnsyn" c4Type="Software System" c4Description="" label="&lt;font&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" tooltip="" id="DRRrQ6tS-cW3DmEARxFR-49">
+        <object placeholders="1" c4Name="eInnsyn" c4Type="Software System" c4Description="" label="&lt;font&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" tooltip="Innsyn i offentlig saksbehandling" link="https://www.einnsyn.no/sok?f=10ea9c34-dc70-49e4-a19a-92d970346a01" linkTarget="_blank" id="DRRrQ6tS-cW3DmEARxFR-49">
           <mxCell parent="DRRrQ6tS-cW3DmEARxFR-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#FFFFFF;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingBottom=0;fontSize=10;" vertex="1">
             <mxGeometry height="100" width="130" x="980" y="-260" as="geometry" />
           </mxCell>
@@ -516,7 +516,7 @@
             <mxGeometry height="80" width="70" x="180" y="-250" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="eInnsyn" c4Type="Software System" c4Description="" label="&lt;font&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" tooltip="Ekstern parts datarom" id="9jOTXrN7ZjAbLWKZDWty-2">
+        <object placeholders="1" c4Name="eInnsyn" c4Type="Software System" c4Description="" label="&lt;font&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" tooltip="Innsyn i offentlig saksbehandling" link="https://www.einnsyn.no/sok?f=10ea9c34-dc70-49e4-a19a-92d970346a01" linkTarget="_blank" id="9jOTXrN7ZjAbLWKZDWty-2">
           <mxCell parent="EESUWlk4uin9nNKOcmYh-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#FFFFFF;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingBottom=40;fontSize=10;" vertex="1">
             <mxGeometry height="100" width="130" x="980" y="-260" as="geometry" />
           </mxCell>
@@ -551,8 +551,8 @@
             <mxPoint x="980" y="-190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0NdHw9PNTx1LV850Q2e_-2" connectable="0" parent="EESUWlk4uin9nNKOcmYh-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;rotation=0;" value="Off. versjon av vedtak mm" vertex="1">
-          <mxGeometry x="940" y="180" as="geometry">
+        <mxCell id="0NdHw9PNTx1LV850Q2e_-2" connectable="0" parent="EESUWlk4uin9nNKOcmYh-1" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=9;rotation=0;" value="Off. versjon&amp;nbsp;&lt;div&gt;av&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;vedtak&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry x="903" y="-193" as="geometry">
             <mxPoint x="-8" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -1332,7 +1332,7 @@
             <mxPoint x="-17" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <object placeholders="1" c4Name="eInnsyn" c4Type="Software System" c4Description="" label="&lt;font&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" tooltip="" id="Ximv-QyDZnYQ7fzfj_M6-6">
+        <object placeholders="1" c4Name="eInnsyn" c4Type="Software System" c4Description="" label="&lt;font&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" tooltip="Innsyn i offentlig saksbehandling" link="https://www.einnsyn.no/sok?f=10ea9c34-dc70-49e4-a19a-92d970346a01" linkTarget="_blank" id="Ximv-QyDZnYQ7fzfj_M6-6">
           <mxCell parent="2Y95GNJSkMdYSV8Me0uj-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#FFFFFF;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingBottom=0;fontSize=10;" vertex="1">
             <mxGeometry height="100" width="130" x="980" y="-260" as="geometry" />
           </mxCell>
