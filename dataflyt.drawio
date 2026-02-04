@@ -641,7 +641,7 @@
             <mxPoint x="-29" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rGpbiMCtJGKI1WQ5RCRx-21" edge="1" parent="rGpbiMCtJGKI1WQ5RCRx-1" source="rGpbiMCtJGKI1WQ5RCRx-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" target="rGpbiMCtJGKI1WQ5RCRx-28">
+        <mxCell id="rGpbiMCtJGKI1WQ5RCRx-21" edge="1" parent="rGpbiMCtJGKI1WQ5RCRx-1" source="rGpbiMCtJGKI1WQ5RCRx-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0;entryY=0.64;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.992;exitY=0.33;exitDx=0;exitDy=0;exitPerimeter=0;" target="rGpbiMCtJGKI1WQ5RCRx-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="-96" as="sourcePoint" />
             <mxPoint x="472.47" y="-95" as="targetPoint" />
@@ -804,12 +804,12 @@
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="eInnsyn" c4Type="Software System" c4Description="" label="&lt;font&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" tooltip="Ekstern parts datarom" id="uZ09XyccUQ7eflrnsDHC-0">
-          <mxCell parent="rGpbiMCtJGKI1WQ5RCRx-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#FFFFFF;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingBottom=35;fontSize=10;" vertex="1">
+          <mxCell parent="rGpbiMCtJGKI1WQ5RCRx-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#FFFFFF;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingBottom=33;fontSize=10;" vertex="1">
             <mxGeometry height="70" width="130" x="120" y="-121" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Eksternt datarom" c4Type="Software System" c4Description="" label="&lt;font&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" tooltip="Ekstern parts datarom" id="uZ09XyccUQ7eflrnsDHC-1">
-          <mxCell parent="rGpbiMCtJGKI1WQ5RCRx-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#FFFFFF;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingBottom=35;fontSize=10;" vertex="1">
+          <mxCell parent="rGpbiMCtJGKI1WQ5RCRx-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#FFFFFF;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingBottom=31;fontSize=10;" vertex="1">
             <mxGeometry height="70" width="130" x="120" y="-91" as="geometry" />
           </mxCell>
         </object>
