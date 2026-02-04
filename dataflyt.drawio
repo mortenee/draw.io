@@ -741,7 +741,7 @@
         </object>
         <object placeholders="1" c4Name="Saksbehandler" c4Type="Person" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="" id="rGpbiMCtJGKI1WQ5RCRx-42">
           <mxCell parent="rGpbiMCtJGKI1WQ5RCRx-1" style="html=1;dashed=0;whitespace=wrap;fillColor=#1168BD;strokeColor=#CCE5FF;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};rounded=1;verticalAlign=middle;arcSize=10;fontFamily=Helvetica;fontSize=8;labelBackgroundColor=none;resizable=1;spacingBottom=6;" vertex="1">
-            <mxGeometry height="80" width="70" x="360" y="-250" as="geometry" />
+            <mxGeometry height="80" width="70" x="360" y="-260" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="rGpbiMCtJGKI1WQ5RCRx-43" parent="rGpbiMCtJGKI1WQ5RCRx-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=9;" value="Datasett" vertex="1">
@@ -749,7 +749,7 @@
         </mxCell>
         <object placeholders="1" c4Name="Nedlasting" c4Type="Person" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Ekstern part" id="rGpbiMCtJGKI1WQ5RCRx-44">
           <mxCell parent="rGpbiMCtJGKI1WQ5RCRx-1" style="html=1;dashed=0;whitespace=wrap;fillColor=#8C8496;strokeColor=#FFFFFF;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};rounded=1;verticalAlign=middle;arcSize=10;fontFamily=Helvetica;fontSize=8;labelBackgroundColor=none;resizable=1;" vertex="1">
-            <mxGeometry height="80" width="70" x="1040" y="20" as="geometry" />
+            <mxGeometry height="80" width="70" x="1006.25" y="20" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="rGpbiMCtJGKI1WQ5RCRx-45" edge="1" parent="rGpbiMCtJGKI1WQ5RCRx-1" source="rGpbiMCtJGKI1WQ5RCRx-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0.062;entryY=0.663;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.61;exitDx=0;exitDy=0;exitPerimeter=0;" target="rGpbiMCtJGKI1WQ5RCRx-44">
@@ -760,12 +760,12 @@
         </mxCell>
         <object placeholders="1" c4Name="Innsynskrav" c4Type="Person" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Ekstern part" id="rGpbiMCtJGKI1WQ5RCRx-51">
           <mxCell parent="rGpbiMCtJGKI1WQ5RCRx-1" style="html=1;dashed=0;whitespace=wrap;fillColor=#8C8496;strokeColor=#FFFFFF;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};rounded=1;verticalAlign=middle;arcSize=10;fontFamily=Helvetica;fontSize=8;labelBackgroundColor=none;resizable=1;spacingLeft=-6;" vertex="1">
-            <mxGeometry height="80" width="70" x="120" y="-250" as="geometry" />
+            <mxGeometry height="80" width="70" x="120" y="-270" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="E-post, tips, Altinn mm" c4Type="Person" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Ekstern part" id="rGpbiMCtJGKI1WQ5RCRx-52">
           <mxCell parent="rGpbiMCtJGKI1WQ5RCRx-1" style="html=1;dashed=0;whitespace=wrap;fillColor=#8C8496;strokeColor=#FFFFFF;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};rounded=1;verticalAlign=middle;arcSize=10;fontFamily=Helvetica;fontSize=8;labelBackgroundColor=none;resizable=1;whiteSpace=wrap;" vertex="1">
-            <mxGeometry height="80" width="70" x="180" y="-270" as="geometry" />
+            <mxGeometry height="80" width="70" x="180" y="-260" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="eInnsyn" c4Type="Software System" c4Description="" label="&lt;font&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" tooltip="Innsyn i offentlig saksbehandling" link="https://www.einnsyn.no/sok?f=10ea9c34-dc70-49e4-a19a-92d970346a01" linkTarget="_blank" id="rGpbiMCtJGKI1WQ5RCRx-53">
