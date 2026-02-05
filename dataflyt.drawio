@@ -334,10 +334,10 @@
             <mxGeometry height="80" width="70" x="150" y="20" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="fkJchKxowWVBL3eInmO--11" edge="1" parent="fkJchKxowWVBL3eInmO--1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=0.977;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;" target="fkJchKxowWVBL3eInmO--12">
+        <mxCell id="fkJchKxowWVBL3eInmO--11" edge="1" parent="fkJchKxowWVBL3eInmO--1" source="v81OHGiMdJUwYiL_Y2vB-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="fkJchKxowWVBL3eInmO--12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="587.24" y="-56" as="sourcePoint" />
-            <mxPoint x="578.2799999999997" y="-56.952000000000226" as="targetPoint" />
+            <mxPoint x="587.24" y="-83" as="sourcePoint" />
+            <mxPoint x="578.2799999999997" y="-82.04799999999977" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="Samhandlingsplattform" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Prosjektets team i MS Teams" id="fkJchKxowWVBL3eInmO--12">
@@ -380,12 +380,6 @@
         <mxCell id="fkJchKxowWVBL3eInmO--20" connectable="0" parent="fkJchKxowWVBL3eInmO--19" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=9;" value="&lt;span&gt;Korrespondanse journalføres&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;og lenkes&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;til datasett i DSM&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.7353" y="-1" as="geometry">
             <mxPoint x="-29" y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fkJchKxowWVBL3eInmO--22" edge="1" parent="fkJchKxowWVBL3eInmO--1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="-95" as="sourcePoint" />
-            <mxPoint x="640" y="-95" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fkJchKxowWVBL3eInmO--23" parent="fkJchKxowWVBL3eInmO--1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#cce5ff;fontColor=#63BEF2;fontSize=10;" value="&amp;nbsp; &amp;nbsp;Digitalt sikringsmagasin (DSM)" vertex="1">
@@ -480,7 +474,7 @@
         </object>
         <object c4Name="E-post" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="" link="https://www.einnsyn.no/sok?f=10ea9c34-dc70-49e4-a19a-92d970346a01" linkTarget="_blank" placeholders="1" id="fkJchKxowWVBL3eInmO--57">
           <mxCell parent="fkJchKxowWVBL3eInmO--1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#FFFFFF;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingBottom=10;fontSize=10;" vertex="1">
-            <mxGeometry height="43" width="120" x="125" y="-210" as="geometry" />
+            <mxGeometry height="53" width="120" x="125" y="-220" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name=" Postmottak" c4Type="Person" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="" id="fkJchKxowWVBL3eInmO--60">
