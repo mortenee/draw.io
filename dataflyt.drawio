@@ -299,7 +299,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2026 Fusjoner, interne dokumenter" id="DEhOTPJ3PeX_aogha-1C">
-    <mxGraphModel dx="1410" dy="2016" grid="1" gridSize="10" guides="1" tooltips="0" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1410" dy="2016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="fkJchKxowWVBL3eInmO--0" />
         <mxCell id="fkJchKxowWVBL3eInmO--1" parent="fkJchKxowWVBL3eInmO--0" />
@@ -318,7 +318,7 @@
         <mxCell id="fkJchKxowWVBL3eInmO--6" parent="fkJchKxowWVBL3eInmO--1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;strokeColor=#63BEF2;" value="" vertex="1">
           <mxGeometry height="420" width="160" x="790" y="-300" as="geometry" />
         </mxCell>
-        <object placeholders="1" c4Name="Datautveksling" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Subsite av KT Sharepoint som er åpnet opp for eksterne" id="fkJchKxowWVBL3eInmO--7">
+        <object placeholders="1" c4Name="Datautveksling" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Subsite av KT Sharepoint som er åpnet opp for eksterne" link="https://konkurransetilsynet.sharepoint.com/sites/Share/Delte%20dokumenter/Forms/AllItems.aspx" linkTarget="_blank" id="fkJchKxowWVBL3eInmO--7">
           <mxCell parent="fkJchKxowWVBL3eInmO--1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;align=center;arcSize=6;strokeColor=#FFFFFF;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#ffffff;resizable=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1">
             <mxGeometry height="100" width="130" x="300" y="10" as="geometry" />
           </mxCell>
