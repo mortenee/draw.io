@@ -1058,10 +1058,10 @@
         </mxCell>
         <object placeholders="1" c4Name="Nedlasting" c4Type="Person" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Ekstern part" id="rGpbiMCtJGKI1WQ5RCRx-44">
           <mxCell parent="rGpbiMCtJGKI1WQ5RCRx-1" style="html=1;dashed=0;whitespace=wrap;fillColor=#8C8496;strokeColor=#FFFFFF;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};rounded=1;verticalAlign=middle;arcSize=10;fontFamily=Helvetica;fontSize=8;labelBackgroundColor=none;resizable=1;" vertex="1">
-            <mxGeometry height="80" width="70" x="980" y="-25" as="geometry" />
+            <mxGeometry height="80" width="70" x="980" y="-10" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="rGpbiMCtJGKI1WQ5RCRx-45" edge="1" parent="rGpbiMCtJGKI1WQ5RCRx-1" source="-EGO1ASXmOGq9pkLMrQ2-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0.062;entryY=0.663;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=-0.333;exitDx=0;exitDy=0;exitPerimeter=0;" target="rGpbiMCtJGKI1WQ5RCRx-44">
+        <mxCell id="rGpbiMCtJGKI1WQ5RCRx-45" edge="1" parent="rGpbiMCtJGKI1WQ5RCRx-1" source="-EGO1ASXmOGq9pkLMrQ2-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=-0.333;exitDx=0;exitDy=0;exitPerimeter=0;" target="rGpbiMCtJGKI1WQ5RCRx-44">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="71" as="sourcePoint" />
             <mxPoint x="480" y="64.03999999999996" as="targetPoint" />
@@ -1160,7 +1160,7 @@
         </mxCell>
         <object placeholders="1" c4Name="Tips" c4Type="Person" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Ekstern part" id="-EGO1ASXmOGq9pkLMrQ2-1">
           <mxCell parent="rGpbiMCtJGKI1WQ5RCRx-1" style="html=1;dashed=0;whitespace=wrap;fillColor=#8C8496;strokeColor=#FFFFFF;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};rounded=1;verticalAlign=middle;arcSize=10;fontFamily=Helvetica;fontSize=8;labelBackgroundColor=none;resizable=1;" vertex="1">
-            <mxGeometry height="80" width="70" x="165" y="30" as="geometry" />
+            <mxGeometry height="80" width="70" x="180" y="30" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Datautveksling" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Subsite av KT Sharepoint som er åpnet opp for eksterne" id="-EGO1ASXmOGq9pkLMrQ2-2">
@@ -1178,10 +1178,16 @@
             <mxGeometry height="80" width="70" x="1040" y="30" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="cmgIXVvOTLcn15O7uEZC-1" edge="1" parent="rGpbiMCtJGKI1WQ5RCRx-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;">
+        <mxCell id="cmgIXVvOTLcn15O7uEZC-1" edge="1" parent="rGpbiMCtJGKI1WQ5RCRx-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="235" y="79.5" as="sourcePoint" />
+            <mxPoint x="250" y="80" as="sourcePoint" />
             <mxPoint x="300" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cmgIXVvOTLcn15O7uEZC-2" edge="1" parent="rGpbiMCtJGKI1WQ5RCRx-1" source="-EGO1ASXmOGq9pkLMrQ2-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.014;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" target="cmgIXVvOTLcn15O7uEZC-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="230" as="sourcePoint" />
+            <mxPoint x="652" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
