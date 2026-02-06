@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.6" pages="8">
   <diagram name="2026 Alle" id="Sz1l1yUUpdAuJ94BLdF7">
-    <mxGraphModel dx="1410" dy="2016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="756" dy="1652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="J9EePT10B3khNOlasbLr-0" />
         <mxCell id="J9EePT10B3khNOlasbLr-1" parent="J9EePT10B3khNOlasbLr-0" />
@@ -91,14 +91,14 @@
         </mxCell>
         <mxCell id="J9EePT10B3khNOlasbLr-21" edge="1" parent="J9EePT10B3khNOlasbLr-1" source="J9EePT10B3khNOlasbLr-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" target="J9EePT10B3khNOlasbLr-28">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="-96" as="sourcePoint" />
-            <mxPoint x="472.47" y="-95" as="targetPoint" />
+            <mxPoint x="430" y="-93" as="sourcePoint" />
+            <mxPoint x="472.47" y="-94" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="J9EePT10B3khNOlasbLr-22" edge="1" parent="J9EePT10B3khNOlasbLr-1" source="J9EePT10B3khNOlasbLr-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="597.01" y="-93.98000000000002" as="sourcePoint" />
-            <mxPoint x="640" y="-95" as="targetPoint" />
+            <mxPoint x="597.01" y="-95.01999999999998" as="sourcePoint" />
+            <mxPoint x="640" y="-94" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="J9EePT10B3khNOlasbLr-23" parent="J9EePT10B3khNOlasbLr-1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#cce5ff;fontColor=#63BEF2;fontSize=10;" value="&amp;nbsp; &amp;nbsp;Digitalt sikringsmagasin (DSM)" vertex="1">
@@ -205,8 +205,8 @@
         </object>
         <mxCell id="J9EePT10B3khNOlasbLr-49" edge="1" parent="J9EePT10B3khNOlasbLr-1" source="J9EePT10B3khNOlasbLr-46" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="-89" as="sourcePoint" />
-            <mxPoint x="300" y="-94" as="targetPoint" />
+            <mxPoint x="230" y="-100" as="sourcePoint" />
+            <mxPoint x="300" y="-95" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="J9EePT10B3khNOlasbLr-50" edge="1" parent="J9EePT10B3khNOlasbLr-1" source="ZJBIfexNkI0YHzBrl35G-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0;entryY=0.632;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.969;exitY=0.618;exitDx=0;exitDy=0;exitPerimeter=0;" target="ZJBIfexNkI0YHzBrl35G-0">
@@ -299,7 +299,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2026 Fusjoner, interne dokumenter" id="DEhOTPJ3PeX_aogha-1C">
-    <mxGraphModel dx="1410" dy="2016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="756" dy="1652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="fkJchKxowWVBL3eInmO--0" />
         <mxCell id="fkJchKxowWVBL3eInmO--1" parent="fkJchKxowWVBL3eInmO--0" />
@@ -336,8 +336,8 @@
         </object>
         <mxCell id="fkJchKxowWVBL3eInmO--11" edge="1" parent="fkJchKxowWVBL3eInmO--1" source="v81OHGiMdJUwYiL_Y2vB-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="fkJchKxowWVBL3eInmO--12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="587.24" y="-83" as="sourcePoint" />
-            <mxPoint x="578.2799999999997" y="-82.04799999999977" as="targetPoint" />
+            <mxPoint x="587.24" y="-56" as="sourcePoint" />
+            <mxPoint x="578.2799999999997" y="-56.952000000000226" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="Samhandlingsplattform" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Prosjektets team i MS Teams" id="fkJchKxowWVBL3eInmO--12">
@@ -437,8 +437,8 @@
         </object>
         <mxCell id="fkJchKxowWVBL3eInmO--43" edge="1" parent="fkJchKxowWVBL3eInmO--1" source="fkJchKxowWVBL3eInmO--42" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="fkJchKxowWVBL3eInmO--31">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="248.04999999999995" y="-84" as="sourcePoint" />
-            <mxPoint x="300" y="-84" as="targetPoint" />
+            <mxPoint x="248.04999999999995" y="-55" as="sourcePoint" />
+            <mxPoint x="300" y="-55" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fkJchKxowWVBL3eInmO--46" edge="1" parent="fkJchKxowWVBL3eInmO--1" source="fkJchKxowWVBL3eInmO--55" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0;entryY=0.632;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.969;exitY=0.618;exitDx=0;exitDy=0;exitPerimeter=0;" target="fkJchKxowWVBL3eInmO--54">
@@ -499,7 +499,7 @@
         <mxCell id="v81OHGiMdJUwYiL_Y2vB-0" edge="1" parent="fkJchKxowWVBL3eInmO--1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="v81OHGiMdJUwYiL_Y2vB-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="-70" as="sourcePoint" />
-            <mxPoint x="470.69000000000005" y="-57.01999999999998" as="targetPoint" />
+            <mxPoint x="470.69000000000005" y="-81.98000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <object c4Name="Digital etterforskning" c4Type="Frontend" c4Description="" label="&lt;font&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" tooltip="Grensesnitt mot FTK på intern sone (FTK Central)" placeholders="1" link="https://ftk-fusjon/ftkclogin.html?istranslate=0" linkTarget="_blank" id="v81OHGiMdJUwYiL_Y2vB-1">
