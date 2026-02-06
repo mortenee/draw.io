@@ -295,12 +295,12 @@
             <mxGeometry height="17" width="120" x="125" y="-215" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="ECN2" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="" id="xLFqt-Pb2Z1GonkYQGT8-5">
+        <object placeholders="1" c4Name="ECN2" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="" link="https://webgate.ec.europa.eu/cas/login" linkTarget="_blank" id="xLFqt-Pb2Z1GonkYQGT8-5">
           <mxCell parent="J9EePT10B3khNOlasbLr-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#FFFFFF;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;spacingBottom=0;" vertex="1">
             <mxGeometry height="17" width="120" x="125" y="-198" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Egress" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="" link="" linkTarget="" id="xLFqt-Pb2Z1GonkYQGT8-6">
+        <object placeholders="1" c4Name="Egress" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="" link="https://eu1.esi.egress.com/" linkTarget="" id="xLFqt-Pb2Z1GonkYQGT8-6">
           <mxCell parent="J9EePT10B3khNOlasbLr-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#FFFFFF;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;spacingBottom=0;" vertex="1">
             <mxGeometry height="17" width="120" x="125" y="-182" as="geometry" />
           </mxCell>
