@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.6" pages="8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.7" pages="8">
   <diagram name="2026 Alle" id="Sz1l1yUUpdAuJ94BLdF7">
-    <mxGraphModel dx="975" dy="1652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1649" dy="2016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="J9EePT10B3khNOlasbLr-0" />
         <mxCell id="J9EePT10B3khNOlasbLr-1" parent="J9EePT10B3khNOlasbLr-0" />
@@ -303,29 +303,6 @@
         <object placeholders="1" c4Name="Egress" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="" link="https://eu1.esi.egress.com/" linkTarget="" id="xLFqt-Pb2Z1GonkYQGT8-6">
           <mxCell parent="J9EePT10B3khNOlasbLr-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#FFFFFF;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;spacingBottom=0;" vertex="1">
             <mxGeometry height="17" width="120" x="125" y="-182" as="geometry" />
-          </mxCell>
-        </object>
-        <mxCell id="xLFqt-Pb2Z1GonkYQGT8-7" parent="J9EePT10B3khNOlasbLr-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;strokeColor=#63BEF2;" value="" vertex="1">
-          <mxGeometry height="110" width="130" x="130" y="210" as="geometry" />
-        </mxCell>
-        <object placeholders="1" c4Name="Varslingssystem (tips)" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Anonym varsling (Whistleblower)" link="https://konkurransetilsynet.whistleblowernetwork.net/" linkTarget="_blank" id="xLFqt-Pb2Z1GonkYQGT8-8">
-          <mxCell parent="J9EePT10B3khNOlasbLr-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#FFFFFF;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingBottom=0;fontSize=10;verticalAlign=middle;fontFamily=Helvetica;" vertex="1">
-            <mxGeometry height="30" width="120" x="135" y="215" as="geometry" />
-          </mxCell>
-        </object>
-        <object c4Name="E-post" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="" linkTarget="_blank" placeholders="1" id="xLFqt-Pb2Z1GonkYQGT8-9">
-          <mxCell parent="J9EePT10B3khNOlasbLr-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#FFFFFF;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingBottom=0;fontSize=10;" vertex="1">
-            <mxGeometry height="25" width="120" x="135" y="240" as="geometry" />
-          </mxCell>
-        </object>
-        <object c4Name="eInnsyn" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Innsyn i offentlig saksbehandling" link="https://www.einnsyn.no/sok?f=10ea9c34-dc70-49e4-a19a-92d970346a01" linkTarget="_blank" placeholders="1" id="xLFqt-Pb2Z1GonkYQGT8-10">
-          <mxCell parent="J9EePT10B3khNOlasbLr-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#FFFFFF;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingBottom=0;fontSize=10;" vertex="1">
-            <mxGeometry height="20" width="120" x="135" y="265" as="geometry" />
-          </mxCell>
-        </object>
-        <object placeholders="1" c4Name="Altinn" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="offentlige skjema og tjenester" link="https://info.altinn.no/" linkTarget="_blank" id="xLFqt-Pb2Z1GonkYQGT8-11">
-          <mxCell parent="J9EePT10B3khNOlasbLr-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#FFFFFF;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;spacingBottom=0;" vertex="1">
-            <mxGeometry height="20" width="120" x="135" y="285" as="geometry" />
           </mxCell>
         </object>
       </root>
