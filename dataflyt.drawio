@@ -110,7 +110,7 @@
         <mxCell id="J9EePT10B3khNOlasbLr-25" parent="J9EePT10B3khNOlasbLr-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;fontSize=11;" value="Data ut" vertex="1">
           <mxGeometry height="20" width="72.5" x="1005" y="-295" as="geometry" />
         </mxCell>
-        <mxCell id="J9EePT10B3khNOlasbLr-26" edge="1" parent="J9EePT10B3khNOlasbLr-1" source="J9EePT10B3khNOlasbLr-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=0.569;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" target="J9EePT10B3khNOlasbLr-53">
+        <mxCell id="J9EePT10B3khNOlasbLr-26" edge="1" parent="J9EePT10B3khNOlasbLr-1" source="J9EePT10B3khNOlasbLr-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=0.569;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="J9EePT10B3khNOlasbLr-53">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="890" y="-140" as="sourcePoint" />
             <mxPoint x="980" y="-210" as="targetPoint" />
@@ -216,12 +216,12 @@
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="eInnsyn" c4Type="Software System" c4Description="" label="&lt;font&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" tooltip="Innsyn i offentlig saksbehandling" link="https://www.einnsyn.no/sok?f=10ea9c34-dc70-49e4-a19a-92d970346a01" linkTarget="_blank" id="J9EePT10B3khNOlasbLr-53">
-          <mxCell parent="J9EePT10B3khNOlasbLr-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#FFFFFF;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingBottom=40;fontSize=10;" vertex="1">
-            <mxGeometry height="100" width="130" x="980" y="-260" as="geometry" />
+          <mxCell parent="J9EePT10B3khNOlasbLr-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#FFFFFF;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingBottom=-6;fontSize=10;" vertex="1">
+            <mxGeometry height="50" width="130" x="980" y="-260" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="konkurransetilsynet.no" c4Type="Software System" c4Description="" label="&lt;font&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" tooltip="Fysisk adskilt datalab med FTK for mottak og sikring av beslaglagte data (EA-lab). Bokmerkede filer overføres til FTK intern sone." id="J9EePT10B3khNOlasbLr-54">
-          <mxCell parent="J9EePT10B3khNOlasbLr-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#FFFFFF;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;spacingBottom=6;" vertex="1">
+          <mxCell parent="J9EePT10B3khNOlasbLr-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#FFFFFF;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;spacingBottom=0;" vertex="1">
             <mxGeometry height="60" width="130" x="980" y="-218" as="geometry" />
           </mxCell>
         </object>
