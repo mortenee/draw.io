@@ -245,7 +245,7 @@
             <mxPoint x="980" y="-200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J9EePT10B3khNOlasbLr-59" connectable="0" parent="J9EePT10B3khNOlasbLr-1" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=9;rotation=0;container=0;spacingBottom=11;" value="Off. vedtak" vertex="1">
+        <mxCell id="J9EePT10B3khNOlasbLr-59" connectable="0" parent="J9EePT10B3khNOlasbLr-1" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=9;rotation=0;container=0;spacingBottom=11;" value="Off. vedtak&amp;nbsp;" vertex="1">
           <mxGeometry x="900" y="-193" as="geometry">
             <mxPoint x="-8" y="-2" as="offset" />
           </mxGeometry>
