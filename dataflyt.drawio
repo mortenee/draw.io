@@ -43,8 +43,8 @@
         </mxCell>
         <mxCell id="J9EePT10B3khNOlasbLr-11" edge="1" parent="J9EePT10B3khNOlasbLr-1" source="J9EePT10B3khNOlasbLr-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=0.977;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.013;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;" target="J9EePT10B3khNOlasbLr-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="627.4999999999998" y="-56.952000000000226" as="sourcePoint" />
-            <mxPoint x="578.2799999999997" y="-56.952000000000226" as="targetPoint" />
+            <mxPoint x="627.4999999999998" y="-56.047999999999774" as="sourcePoint" />
+            <mxPoint x="578.2799999999997" y="-56.047999999999774" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="Samhandlingsplattform" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Prosjektets team i MS Teams" id="J9EePT10B3khNOlasbLr-12">
@@ -89,16 +89,16 @@
             <mxPoint x="-29" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J9EePT10B3khNOlasbLr-21" edge="1" parent="J9EePT10B3khNOlasbLr-1" source="J9EePT10B3khNOlasbLr-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" target="J9EePT10B3khNOlasbLr-28">
+        <mxCell id="J9EePT10B3khNOlasbLr-21" edge="1" parent="J9EePT10B3khNOlasbLr-1" source="J9EePT10B3khNOlasbLr-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" target="J9EePT10B3khNOlasbLr-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="-93" as="sourcePoint" />
             <mxPoint x="472.47" y="-94" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J9EePT10B3khNOlasbLr-22" edge="1" parent="J9EePT10B3khNOlasbLr-1" source="J9EePT10B3khNOlasbLr-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;">
+        <mxCell id="J9EePT10B3khNOlasbLr-22" edge="1" parent="J9EePT10B3khNOlasbLr-1" source="J9EePT10B3khNOlasbLr-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=1;exitY=0.625;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" target="J9EePT10B3khNOlasbLr-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="597.01" y="-95.01999999999998" as="sourcePoint" />
-            <mxPoint x="640" y="-94" as="targetPoint" />
+            <mxPoint x="597.01" y="-90.01999999999998" as="sourcePoint" />
+            <mxPoint x="640" y="-89" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="J9EePT10B3khNOlasbLr-23" parent="J9EePT10B3khNOlasbLr-1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#cce5ff;fontColor=#63BEF2;fontSize=10;" value="&amp;nbsp; &amp;nbsp;Digitalt sikringsmagasin (DSM)" vertex="1">
@@ -123,7 +123,7 @@
         </mxCell>
         <object placeholders="1" c4Name="Dataportal" c4Type="Frontend" c4Description="" label="&lt;font&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" tooltip="Grensesnitt mot datasett lagret i digitalt sikringsmagasin" id="J9EePT10B3khNOlasbLr-28">
           <mxCell parent="J9EePT10B3khNOlasbLr-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#CCE5FF;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingBottom=0;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;" vertex="1">
-            <mxGeometry height="50" width="120" x="470" y="-120" as="geometry" />
+            <mxGeometry height="40" width="120" x="470" y="-120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Digital etterforskning" c4Type="Frontend" c4Description="" label="&lt;font&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" tooltip="Grensesnitt mot FTK på intern sone (FTK Central)" link="https://ftk-fusjon/ftkclogin.html?istranslate=0" linkTarget="_blank" id="J9EePT10B3khNOlasbLr-29">
