@@ -477,7 +477,7 @@
         <mxCell id="fkJchKxowWVBL3eInmO--55" parent="fkJchKxowWVBL3eInmO--1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;strokeColor=#63BEF2;" value="" vertex="1">
           <mxGeometry height="110" width="130" x="120" y="-270" as="geometry" />
         </mxCell>
-        <object placeholders="1" c4Name="Varslingssystem (tips)" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Anonym varsling (Whistleblower)" link="https://konkurransetilsynet.whistleblowernetwork.net/" linkTarget="_blank" id="fkJchKxowWVBL3eInmO--56">
+        <object placeholders="1" c4Name="Tipssystem" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Anonym varsling (Whistleblower)" link="https://konkurransetilsynet.whistleblowernetwork.net/" linkTarget="_blank" id="fkJchKxowWVBL3eInmO--56">
           <mxCell parent="fkJchKxowWVBL3eInmO--1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#FFFFFF;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingBottom=30;fontSize=10;verticalAlign=middle;fontFamily=Helvetica;" vertex="1">
             <mxGeometry height="77" width="120" x="125" y="-266" as="geometry" />
           </mxCell>
