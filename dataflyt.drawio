@@ -13,9 +13,11 @@
         <mxCell id="J9EePT10B3khNOlasbLr-3" parent="J9EePT10B3khNOlasbLr-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;strokeColor=#63BEF2;" value="" vertex="1">
           <mxGeometry height="420" width="340" x="270" y="-300" as="geometry" />
         </mxCell>
-        <mxCell id="J9EePT10B3khNOlasbLr-4" parent="J9EePT10B3khNOlasbLr-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;fillColor=#cce5ff;strokeColor=#63BEF2;" value="" vertex="1">
-          <mxGeometry height="130" width="310" x="290" y="-140" as="geometry" />
-        </mxCell>
+        <UserObject label="" link="data:page/id,OGPrNFHLLdxbE9lFPMKi" id="J9EePT10B3khNOlasbLr-4">
+          <mxCell parent="J9EePT10B3khNOlasbLr-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;fillColor=#cce5ff;strokeColor=#63BEF2;" vertex="1">
+            <mxGeometry height="130" width="310" x="290" y="-140" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="J9EePT10B3khNOlasbLr-5" parent="J9EePT10B3khNOlasbLr-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;strokeColor=#63BEF2;" value="" vertex="1">
           <mxGeometry height="420" width="160" x="620" y="-300" as="geometry" />
         </mxCell>
@@ -311,7 +313,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="2026 DSM" id="OGPrNFHLLdxbE9lFPMKi">
+  <diagram name="2026 detalj - DSM" id="OGPrNFHLLdxbE9lFPMKi">
     <mxGraphModel dx="1410" dy="1676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="ChfG3YHqgfsURyjTnWi5-0" />
