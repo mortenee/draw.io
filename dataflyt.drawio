@@ -7,6 +7,9 @@
         <mxCell id="J9EePT10B3khNOlasbLr-2" parent="J9EePT10B3khNOlasbLr-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;strokeColor=#63BEF2;" value="" vertex="1">
           <mxGeometry height="420" width="150" x="110" y="-300" as="geometry" />
         </mxCell>
+        <mxCell id="7IRrrfjv4EZi29cUfD-6-5" parent="J9EePT10B3khNOlasbLr-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;strokeColor=#63BEF2;" value="" vertex="1">
+          <mxGeometry height="110" width="130" x="120" y="-122" as="geometry" />
+        </mxCell>
         <mxCell id="J9EePT10B3khNOlasbLr-3" parent="J9EePT10B3khNOlasbLr-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;strokeColor=#63BEF2;" value="" vertex="1">
           <mxGeometry height="420" width="340" x="270" y="-300" as="geometry" />
         </mxCell>
@@ -189,14 +192,8 @@
         </mxCell>
         <mxCell id="J9EePT10B3khNOlasbLr-47" edge="1" parent="J9EePT10B3khNOlasbLr-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=0.985;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.64;entryDx=0;entryDy=0;entryPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="198.04999999999995" y="-55" as="sourcePoint" />
-            <mxPoint x="300" y="-55" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J9EePT10B3khNOlasbLr-49" edge="1" parent="J9EePT10B3khNOlasbLr-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="-95" as="sourcePoint" />
-            <mxPoint x="300" y="-95" as="targetPoint" />
+            <mxPoint x="198.04999999999995" y="-70" as="sourcePoint" />
+            <mxPoint x="300" y="-70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="J9EePT10B3khNOlasbLr-50" edge="1" parent="J9EePT10B3khNOlasbLr-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0.015;entryY=0.636;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.969;exitY=0.618;exitDx=0;exitDy=0;exitPerimeter=0;" target="ZJBIfexNkI0YHzBrl35G-0">
@@ -297,17 +294,17 @@
         </object>
         <object placeholders="1" c4Name="Eksternt register" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Eksterne dataregistre som Brønnøysundregistrene m.fl." id="7IRrrfjv4EZi29cUfD-6-0">
           <mxCell parent="J9EePT10B3khNOlasbLr-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#FFFFFF;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingBottom=68;fontSize=10;spacingTop=0;" vertex="1">
-            <mxGeometry height="101" width="130" x="120" y="-120" as="geometry" />
+            <mxGeometry height="101" width="120" x="125" y="-117.5" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Eksternt datarom" c4Type="" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Ekstern parts datarom" id="7IRrrfjv4EZi29cUfD-6-2">
           <mxCell parent="J9EePT10B3khNOlasbLr-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#FFFFFF;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingBottom=40;fontSize=10;" vertex="1">
-            <mxGeometry height="67" width="130" x="120" y="-86" as="geometry" />
+            <mxGeometry height="67" width="120" x="125" y="-83.5" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Beslagsnett" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Fysisk adskilt datalab med FTK for mottak og sikring av beslaglagte data (EA-lab). Bokmerkede filer overføres til FTK intern sone." id="7IRrrfjv4EZi29cUfD-6-1">
-          <mxCell parent="J9EePT10B3khNOlasbLr-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#FFFFFF;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;spacingBottom=6;" vertex="1">
-            <mxGeometry height="35" width="130" x="120" y="-54" as="geometry" />
+          <mxCell parent="J9EePT10B3khNOlasbLr-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#FFFFFF;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;spacingBottom=6;" vertex="1">
+            <mxGeometry height="35" width="120" x="125" y="-51.5" as="geometry" />
           </mxCell>
         </object>
       </root>
