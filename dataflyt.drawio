@@ -318,7 +318,7 @@
       <root>
         <mxCell id="ChfG3YHqgfsURyjTnWi5-0" />
         <mxCell id="ChfG3YHqgfsURyjTnWi5-1" parent="ChfG3YHqgfsURyjTnWi5-0" />
-        <mxCell id="ChfG3YHqgfsURyjTnWi5-2" parent="ChfG3YHqgfsURyjTnWi5-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;strokeColor=#63BEF2;" value="" vertex="1">
+        <mxCell id="ChfG3YHqgfsURyjTnWi5-2" parent="ChfG3YHqgfsURyjTnWi5-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;strokeColor=#63BEF2;" value="260" vertex="1">
           <mxGeometry height="420" width="150" x="110" y="-300" as="geometry" />
         </mxCell>
         <mxCell id="ChfG3YHqgfsURyjTnWi5-3" parent="ChfG3YHqgfsURyjTnWi5-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;strokeColor=#63BEF2;" value="" vertex="1">
@@ -483,7 +483,7 @@
           </mxCell>
         </UserObject>
         <UserObject label="Alle" link="data:page/id,Sz1l1yUUpdAuJ94BLdF7" tooltip="Alle dataflyter" id="ChfG3YHqgfsURyjTnWi5-39">
-          <mxCell parent="ChfG3YHqgfsURyjTnWi5-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#b1ddf0;strokeColor=#10739e;textShadow=1;fontColor=default;fontFamily=Helvetica;fontSize=12;" vertex="1">
+          <mxCell parent="ChfG3YHqgfsURyjTnWi5-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#b1ddf0;strokeColor=#B1DDF0;textShadow=1;fontColor=#FFFFFF;fontFamily=Helvetica;fontSize=12;" vertex="1">
             <mxGeometry height="30" width="180" x="110" y="-350" as="geometry" />
           </mxCell>
         </UserObject>
@@ -626,7 +626,33 @@
           <mxGeometry height="330" width="860" x="180" y="-250" as="geometry" />
         </mxCell>
         <mxCell id="oXGsAx9_YduogifrN5Od-0" parent="ChfG3YHqgfsURyjTnWi5-1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#cce5ff;fontColor=#63BEF2;fontSize=12;" value="&amp;nbsp; &amp;nbsp;Digitalt sikringsmagasin (DSM)" vertex="1">
-          <mxGeometry height="16" width="180" x="525" y="-240" as="geometry" />
+          <mxGeometry height="16" width="180" x="520" y="-240" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="Dataportal" c4Type="Frontend" c4Description="" label="&lt;font&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" tooltip="Grensesnitt mot datasett lagret i digitalt sikringsmagasin" id="avlmjhacvIommRI8mZHL-5">
+          <mxCell parent="ChfG3YHqgfsURyjTnWi5-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#CCE5FF;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingBottom=-10;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;" vertex="1">
+            <mxGeometry height="40" width="120" x="440" y="230" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Digital etterforskning" c4Type="Frontend" c4Description="" label="&lt;font&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" tooltip="Grensesnitt mot FTK på intern sone (FTK Central)" link="https://ftk-fusjon/ftkclogin.html?istranslate=0" linkTarget="_blank" id="avlmjhacvIommRI8mZHL-6">
+          <mxCell parent="ChfG3YHqgfsURyjTnWi5-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#CCE5FF;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;spacingBottom=6;" vertex="1">
+            <mxGeometry height="60" width="120" x="700" y="210" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Datamottak" c4Type="Software System" c4Description="" label="&lt;font&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" tooltip="Intern server for mottak og behandling av eksterne data (Remote Desktop Data Collector)" link="https://rds.kt.local/RDWeb/Pages/en-US/Default.aspx" linkTarget="_blank" id="avlmjhacvIommRI8mZHL-7">
+          <mxCell parent="ChfG3YHqgfsURyjTnWi5-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#CCE5FF;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingBottom=0;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;" vertex="1">
+            <mxGeometry height="100" width="129" x="200" y="250" as="geometry" />
+          </mxCell>
+        </object>
+        <object c4Name="Test" c4Type="Frontend" c4Description="Test" label="" tooltip="" linkTarget="_blank" placeholders="1" id="avlmjhacvIommRI8mZHL-10">
+          <mxCell parent="ChfG3YHqgfsURyjTnWi5-1" style="sketch=0;outlineConnect=0;fontColor=#ffffff;gradientColor=none;fillColor=#1168BD;strokeColor=#CCE5FF;dashed=0;verticalLabelPosition=middle;verticalAlign=middle;align=center;html=1;fontSize=10;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.traditional_server;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};rounded=1;spacingBottom=6;arcSize=10;fontFamily=Helvetica;labelBackgroundColor=none;resizable=1;labelPosition=center;" vertex="1">
+            <mxGeometry height="140.4" width="81" x="324.5" y="-228.5" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="avlmjhacvIommRI8mZHL-11" parent="ChfG3YHqgfsURyjTnWi5-1" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.esx_esxi;" value="" vertex="1">
+          <mxGeometry height="110" width="76" x="229" y="-228.5" as="geometry" />
+        </mxCell>
+        <mxCell id="avlmjhacvIommRI8mZHL-13" parent="ChfG3YHqgfsURyjTnWi5-1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.server_generic" value="" vertex="1">
+          <mxGeometry height="101" width="48.48" x="681" y="-51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
