@@ -938,13 +938,13 @@
             <mxGeometry height="50" width="120" x="125" y="-216" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="gQmhiMeV-S4OohSZvXgn-0" edge="1" parent="UKT3Ga85LtX9qhB_frRq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;exitX=0.986;exitY=0.625;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.346;entryY=0.03;entryDx=0;entryDy=0;entryPerimeter=0;">
+        <mxCell id="gQmhiMeV-S4OohSZvXgn-0" edge="1" parent="UKT3Ga85LtX9qhB_frRq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;exitX=0.986;exitY=0.625;exitDx=0;exitDy=0;exitPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="855.98" y="-198" />
+              <mxPoint x="856" y="-198" />
             </Array>
             <mxPoint x="430" y="-198" as="sourcePoint" />
-            <mxPoint x="855.98" y="-115" as="targetPoint" />
+            <mxPoint x="856" y="-120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gQmhiMeV-S4OohSZvXgn-1" connectable="0" parent="gQmhiMeV-S4OohSZvXgn-0" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=9;" value="&lt;span&gt;Korrespondanse journalføres&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;og lenkes&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;til datasett i DSM&lt;/span&gt;&lt;/div&gt;" vertex="1">
