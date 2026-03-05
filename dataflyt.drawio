@@ -930,12 +930,12 @@
         </mxCell>
         <object placeholders="1" c4Name="Tipssystem" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Anonym varsling (Whistleblower)" link="https://konkurransetilsynet.whistleblowernetwork.net/" linkTarget="_blank" id="RogEH7WzpIjtdyLlxVfB-2">
           <mxCell parent="UKT3Ga85LtX9qhB_frRq-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#FFFFFF;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingBottom=0;fontSize=10;verticalAlign=middle;fontFamily=Helvetica;" vertex="1">
-            <mxGeometry height="50" width="120" x="125" y="-266" as="geometry" />
+            <mxGeometry height="50" width="120" x="125" y="-264" as="geometry" />
           </mxCell>
         </object>
         <object c4Name="E-post" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="" link="https://www.einnsyn.no/sok?f=10ea9c34-dc70-49e4-a19a-92d970346a01" linkTarget="_blank" placeholders="1" id="RogEH7WzpIjtdyLlxVfB-3">
           <mxCell parent="UKT3Ga85LtX9qhB_frRq-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#FFFFFF;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingBottom=0;fontSize=10;" vertex="1">
-            <mxGeometry height="50" width="120" x="125" y="-216" as="geometry" />
+            <mxGeometry height="54" width="120" x="125" y="-220" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="gQmhiMeV-S4OohSZvXgn-0" edge="1" parent="UKT3Ga85LtX9qhB_frRq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;exitX=0.986;exitY=0.625;exitDx=0;exitDy=0;exitPerimeter=0;">
@@ -1845,12 +1845,12 @@
         </mxCell>
         <object placeholders="1" c4Name="Tipssystem" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Anonym varsling (Whistleblower)" link="https://konkurransetilsynet.whistleblowernetwork.net/" linkTarget="_blank" id="5ttkF9WqbFt2dj9YGzKA-2">
           <mxCell parent="BxTPTbZIA37vRJ8W9qev-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#FFFFFF;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingBottom=0;fontSize=10;verticalAlign=middle;fontFamily=Helvetica;" vertex="1">
-            <mxGeometry height="50" width="120" x="125" y="-266" as="geometry" />
+            <mxGeometry height="50" width="120" x="125" y="-264" as="geometry" />
           </mxCell>
         </object>
         <object c4Name="E-post" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="" link="https://www.einnsyn.no/sok?f=10ea9c34-dc70-49e4-a19a-92d970346a01" linkTarget="_blank" placeholders="1" id="5ttkF9WqbFt2dj9YGzKA-3">
           <mxCell parent="BxTPTbZIA37vRJ8W9qev-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#FFFFFF;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingBottom=0;fontSize=10;" vertex="1">
-            <mxGeometry height="50" width="120" x="125" y="-216" as="geometry" />
+            <mxGeometry height="54" width="120" x="125" y="-220" as="geometry" />
           </mxCell>
         </object>
       </root>
