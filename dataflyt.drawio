@@ -704,7 +704,7 @@
         </mxCell>
         <mxCell id="XN_sa_2ztzI5SYsW1edK-4" connectable="0" parent="XN_sa_2ztzI5SYsW1edK-3" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=9;" value="Korrespondanse journalføres&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;og lenkes&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;til datasett i DSM&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.7353" y="-1" as="geometry">
-            <mxPoint x="-28" y="-1" as="offset" />
+            <mxPoint x="-29" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eUfXhk4WXivQM16cfucw-0" parent="Nz5zQUxFAAgijD7XDCru-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=9;" value="Dokumentasjon av saksbehandling" vertex="1">
@@ -867,7 +867,7 @@
         </mxCell>
         <mxCell id="UKT3Ga85LtX9qhB_frRq-34" connectable="0" parent="UKT3Ga85LtX9qhB_frRq-33" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=9;" value="Korrespondanse journalføres&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;og lenkes&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;til datasett i DSM&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.7353" y="-1" as="geometry">
-            <mxPoint x="-28" y="-1" as="offset" />
+            <mxPoint x="-29" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="E-post" c4Type="Person" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Ekstern part" id="UKT3Ga85LtX9qhB_frRq-35">
@@ -903,17 +903,6 @@
             <mxPoint x="365" y="-19" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UKT3Ga85LtX9qhB_frRq-42" edge="1" parent="UKT3Ga85LtX9qhB_frRq-1" source="UKT3Ga85LtX9qhB_frRq-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="150" y="-215.84999999999997" as="sourcePoint" />
-            <mxPoint x="300" y="-210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <object placeholders="1" c4Name="E-post, tips, Altinn mm" c4Type="Person" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Ekstern part" id="UKT3Ga85LtX9qhB_frRq-43">
-          <mxCell parent="UKT3Ga85LtX9qhB_frRq-1" style="html=1;dashed=0;whitespace=wrap;fillColor=#8C8496;strokeColor=#FFFFFF;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};rounded=1;verticalAlign=middle;arcSize=10;fontFamily=Helvetica;fontSize=8;labelBackgroundColor=none;resizable=1;whiteSpace=wrap;" vertex="1">
-            <mxGeometry height="80" width="70" x="180" y="-250" as="geometry" />
-          </mxCell>
-        </object>
         <mxCell id="hHM6CAj5AxnJdJvtLB03-0" parent="UKT3Ga85LtX9qhB_frRq-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=9;" value="Dokumentasjon av saksbehandling" vertex="1">
           <mxGeometry height="20" width="91" x="830" y="-178" as="geometry" />
         </mxCell>
@@ -939,6 +928,25 @@
         <mxCell id="I4yyv7nUx1u6erPHpijq-9" parent="UKT3Ga85LtX9qhB_frRq-1" style="whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;align=left;fontSize=9;" value="Datasett" vertex="1">
           <mxGeometry height="17" width="35" x="315" y="-183" as="geometry" />
         </mxCell>
+        <mxCell id="RogEH7WzpIjtdyLlxVfB-0" edge="1" parent="UKT3Ga85LtX9qhB_frRq-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0;entryY=0.636;entryDx=0;entryDy=0;entryPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="251" y="-200" as="sourcePoint" />
+            <mxPoint x="300" y="-200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RogEH7WzpIjtdyLlxVfB-1" parent="UKT3Ga85LtX9qhB_frRq-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;strokeColor=#63BEF2;" value="" vertex="1">
+          <mxGeometry height="110" width="130" x="120" y="-270" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="Tipssystem" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="Anonym varsling (Whistleblower)" link="https://konkurransetilsynet.whistleblowernetwork.net/" linkTarget="_blank" id="RogEH7WzpIjtdyLlxVfB-2">
+          <mxCell parent="UKT3Ga85LtX9qhB_frRq-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#FFFFFF;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingBottom=0;fontSize=10;verticalAlign=middle;fontFamily=Helvetica;" vertex="1">
+            <mxGeometry height="50" width="120" x="125" y="-266" as="geometry" />
+          </mxCell>
+        </object>
+        <object c4Name="E-post" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" tooltip="" link="https://www.einnsyn.no/sok?f=10ea9c34-dc70-49e4-a19a-92d970346a01" linkTarget="_blank" placeholders="1" id="RogEH7WzpIjtdyLlxVfB-3">
+          <mxCell parent="UKT3Ga85LtX9qhB_frRq-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#FFFFFF;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingBottom=0;fontSize=10;" vertex="1">
+            <mxGeometry height="50" width="120" x="125" y="-216" as="geometry" />
+          </mxCell>
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
