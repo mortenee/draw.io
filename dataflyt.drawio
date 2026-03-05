@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.7" pages="8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="29.3.8" pages="8">
   <diagram name="2026 Alle" id="Sz1l1yUUpdAuJ94BLdF7">
     <mxGraphModel dx="1410" dy="1674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -935,7 +935,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2028 Alle" id="tqkpXOUQQg3yJEhjWJ9Q">
-    <mxGraphModel dx="1410" dy="1674" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1410" dy="1676" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="2Y95GNJSkMdYSV8Me0uj-0" />
         <mxCell id="2Y95GNJSkMdYSV8Me0uj-1" parent="2Y95GNJSkMdYSV8Me0uj-0" />
@@ -1056,7 +1056,7 @@
             <mxGeometry height="30" width="160" x="960" y="-350" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="2026" link="data:page/id,-cqSJNJE6RPYUt5TkSRe" tooltip="Målbilde 2026" id="2Y95GNJSkMdYSV8Me0uj-54">
+        <UserObject label="2026" link="data:page/id,Sz1l1yUUpdAuJ94BLdF7" tooltip="Målbilde 2026" id="2Y95GNJSkMdYSV8Me0uj-54">
           <mxCell parent="2Y95GNJSkMdYSV8Me0uj-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#b1ddf0;strokeColor=#B1DDF0;textShadow=1;fontColor=#FFFFFF;fontFamily=Helvetica;fontSize=12;" vertex="1">
             <mxGeometry height="30" width="320" x="110" y="-350" as="geometry" />
           </mxCell>
@@ -1215,7 +1215,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2028 Fusjoner, interne dokumenter" id="IeXUOQUjddM5kdMOuOoP">
-    <mxGraphModel dx="1410" dy="2016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1410" dy="2018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Do_qXSRIaDk3yAFxI3tt-0" />
         <mxCell id="Do_qXSRIaDk3yAFxI3tt-1" parent="Do_qXSRIaDk3yAFxI3tt-0" />
@@ -1287,7 +1287,7 @@
             <mxGeometry height="30" width="160" x="960" y="-350" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="2026" link="data:page/id,-cqSJNJE6RPYUt5TkSRe" tooltip="Målbilde 2026" id="Do_qXSRIaDk3yAFxI3tt-29">
+        <UserObject label="2026" link="data:page/id,Sz1l1yUUpdAuJ94BLdF7" tooltip="Målbilde 2026" id="Do_qXSRIaDk3yAFxI3tt-29">
           <mxCell parent="Do_qXSRIaDk3yAFxI3tt-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#b1ddf0;strokeColor=#B1DDF0;textShadow=1;fontColor=#FFFFFF;fontFamily=Helvetica;fontSize=12;" vertex="1">
             <mxGeometry height="30" width="320" x="110" y="-350" as="geometry" />
           </mxCell>
@@ -1408,7 +1408,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2028 Kvantitative data" id="d876kOEiLG1wMHqSSSHW">
-    <mxGraphModel dx="1410" dy="2016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1410" dy="2018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="248XSB3FMwseOpqly3Pp-0" />
         <mxCell id="248XSB3FMwseOpqly3Pp-1" parent="248XSB3FMwseOpqly3Pp-0" />
@@ -1480,7 +1480,7 @@
             <mxGeometry height="30" width="160" x="960" y="-350" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="2026" link="data:page/id,-cqSJNJE6RPYUt5TkSRe" tooltip="Målbilde 2026" id="248XSB3FMwseOpqly3Pp-20">
+        <UserObject label="2026" link="data:page/id,Sz1l1yUUpdAuJ94BLdF7" tooltip="Målbilde 2026" id="248XSB3FMwseOpqly3Pp-20">
           <mxCell parent="248XSB3FMwseOpqly3Pp-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#b1ddf0;strokeColor=#B1DDF0;textShadow=1;fontColor=#FFFFFF;fontFamily=Helvetica;fontSize=12;" vertex="1">
             <mxGeometry height="30" width="320" x="110" y="-350" as="geometry" />
           </mxCell>
@@ -1601,7 +1601,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2028 Etterforskning" id="fwpofIt6_XhTfaJAyiJl">
-    <mxGraphModel dx="1410" dy="2016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1410" dy="2018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="BxTPTbZIA37vRJ8W9qev-0" />
         <mxCell id="BxTPTbZIA37vRJ8W9qev-1" parent="BxTPTbZIA37vRJ8W9qev-0" />
@@ -1673,7 +1673,7 @@
             <mxGeometry height="30" width="160" x="960" y="-350" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="2026" link="data:page/id,-cqSJNJE6RPYUt5TkSRe" tooltip="Målbilde 2026" id="BxTPTbZIA37vRJ8W9qev-20">
+        <UserObject label="2026" link="data:page/id,Sz1l1yUUpdAuJ94BLdF7" tooltip="Målbilde 2026" id="BxTPTbZIA37vRJ8W9qev-20">
           <mxCell parent="BxTPTbZIA37vRJ8W9qev-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#b1ddf0;strokeColor=#B1DDF0;textShadow=1;fontColor=#FFFFFF;fontFamily=Helvetica;fontSize=12;" vertex="1">
             <mxGeometry height="30" width="320" x="110" y="-350" as="geometry" />
           </mxCell>
