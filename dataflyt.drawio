@@ -623,7 +623,7 @@
           </mxCell>
         </object>
         <mxCell id="CvfW5_TsF36V8BXy22vX-0" parent="ChfG3YHqgfsURyjTnWi5-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;fillColor=#cce5ff;strokeColor=#63BEF2;" value="" vertex="1">
-          <mxGeometry height="320" width="950" x="140" y="-250" as="geometry" />
+          <mxGeometry height="330" width="860" x="180" y="-250" as="geometry" />
         </mxCell>
         <mxCell id="oXGsAx9_YduogifrN5Od-0" parent="ChfG3YHqgfsURyjTnWi5-1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#cce5ff;fontColor=#63BEF2;fontSize=12;" value="&amp;nbsp; &amp;nbsp;Digitalt sikringsmagasin (DSM)" vertex="1">
           <mxGeometry height="16" width="180" x="525" y="-240" as="geometry" />
