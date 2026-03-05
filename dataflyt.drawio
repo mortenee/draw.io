@@ -628,7 +628,7 @@
         <mxCell id="Nz5zQUxFAAgijD7XDCru-49" parent="Nz5zQUxFAAgijD7XDCru-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#A9DB1F;fillColor=#A9DB1F;fontSize=11;" value="Arkivering" vertex="1">
           <mxGeometry height="18" width="110" x="820" y="-43" as="geometry" />
         </mxCell>
-        <UserObject label="Fusjoner, interne dokumenter" link="data:page/id,GBDggE_SVQNjzG2A2Luk" tooltip="Ekstern part oversender sine interne dokumenter etter pålegg om å gi opplysninger" id="Nz5zQUxFAAgijD7XDCru-50">
+        <UserObject label="Fusjoner, interne dokumenter" link="data:page/id,DEhOTPJ3PeX_aogha-1C" tooltip="Ekstern part oversender sine interne dokumenter etter pålegg om å gi opplysninger" id="Nz5zQUxFAAgijD7XDCru-50">
           <mxCell parent="Nz5zQUxFAAgijD7XDCru-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#b1ddf0;strokeColor=#B1DDF0;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;" vertex="1">
             <mxGeometry height="30" width="190" x="290" y="-350" as="geometry" />
           </mxCell>
@@ -648,7 +648,7 @@
             <mxGeometry height="30" width="320" x="800" y="-350" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Alle" link="data:page/id,-cqSJNJE6RPYUt5TkSRe" tooltip="Alle dataflyter" id="Nz5zQUxFAAgijD7XDCru-55">
+        <UserObject label="Alle" link="data:page/id,Sz1l1yUUpdAuJ94BLdF7" tooltip="Alle dataflyter" id="Nz5zQUxFAAgijD7XDCru-55">
           <mxCell parent="Nz5zQUxFAAgijD7XDCru-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#b1ddf0;strokeColor=#B1DDF0;textShadow=1;fontColor=#FFFFFF;fontFamily=Helvetica;fontSize=12;" vertex="1">
             <mxGeometry height="30" width="180" x="110" y="-350" as="geometry" />
           </mxCell>
@@ -835,7 +835,7 @@
         <mxCell id="UKT3Ga85LtX9qhB_frRq-25" parent="UKT3Ga85LtX9qhB_frRq-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#A9DB1F;fillColor=#A9DB1F;fontSize=11;" value="Arkivering" vertex="1">
           <mxGeometry height="18" width="110" x="820" y="-43" as="geometry" />
         </mxCell>
-        <UserObject label="Fusjoner, interne dokumenter" link="data:page/id,GBDggE_SVQNjzG2A2Luk" tooltip="Ekstern part oversender sine interne dokumenter etter pålegg om å gi opplysninger" id="UKT3Ga85LtX9qhB_frRq-26">
+        <UserObject label="Fusjoner, interne dokumenter" link="data:page/id,DEhOTPJ3PeX_aogha-1C" tooltip="Ekstern part oversender sine interne dokumenter etter pålegg om å gi opplysninger" id="UKT3Ga85LtX9qhB_frRq-26">
           <mxCell parent="UKT3Ga85LtX9qhB_frRq-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#b1ddf0;strokeColor=#B1DDF0;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;" vertex="1">
             <mxGeometry height="30" width="190" x="290" y="-350" as="geometry" />
           </mxCell>
@@ -855,7 +855,7 @@
             <mxGeometry height="30" width="320" x="800" y="-350" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Alle" link="data:page/id,-cqSJNJE6RPYUt5TkSRe" tooltip="Alle dataflyter" id="UKT3Ga85LtX9qhB_frRq-31">
+        <UserObject label="Alle" link="data:page/id,Sz1l1yUUpdAuJ94BLdF7" tooltip="Alle dataflyter" id="UKT3Ga85LtX9qhB_frRq-31">
           <mxCell parent="UKT3Ga85LtX9qhB_frRq-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#b1ddf0;strokeColor=#B1DDF0;textShadow=1;fontColor=#FFFFFF;fontFamily=Helvetica;fontSize=12;" vertex="1">
             <mxGeometry height="30" width="180" x="110" y="-350" as="geometry" />
           </mxCell>
