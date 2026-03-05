@@ -196,10 +196,11 @@
             <mxPoint x="300" y="-70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J9EePT10B3khNOlasbLr-50" edge="1" parent="J9EePT10B3khNOlasbLr-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;entryX=0.015;entryY=0.636;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.969;exitY=0.618;exitDx=0;exitDy=0;exitPerimeter=0;" target="ZJBIfexNkI0YHzBrl35G-0">
+        <mxCell id="J9EePT10B3khNOlasbLr-50" edge="1" parent="J9EePT10B3khNOlasbLr-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;exitX=0.969;exitY=0.618;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.636;entryDx=0;entryDy=0;entryPerimeter=0;" target="ZJBIfexNkI0YHzBrl35G-0">
           <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
             <mxPoint x="245.97000000000003" y="-200.01999999999998" as="sourcePoint" />
-            <mxPoint x="310" y="-200.5" as="targetPoint" />
+            <mxPoint x="280" y="-200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="eInnsyn" c4Type="Software System" c4Description="" label="&lt;font&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" tooltip="Innsyn i offentlig saksbehandling" link="https://www.einnsyn.no/sok?f=10ea9c34-dc70-49e4-a19a-92d970346a01" linkTarget="_blank" id="J9EePT10B3khNOlasbLr-53">
