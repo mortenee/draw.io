@@ -691,7 +691,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2026 Fusjoner, interne dokumenter" id="DEhOTPJ3PeX_aogha-1C">
-    <mxGraphModel dx="1410" dy="2018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1410" dy="2011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="fkJchKxowWVBL3eInmO--0" />
         <mxCell id="fkJchKxowWVBL3eInmO--1" parent="fkJchKxowWVBL3eInmO--0" />
@@ -701,9 +701,11 @@
         <mxCell id="fkJchKxowWVBL3eInmO--3" parent="fkJchKxowWVBL3eInmO--1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;strokeColor=#63BEF2;" value="" vertex="1">
           <mxGeometry height="420" width="340" x="270" y="-300" as="geometry" />
         </mxCell>
-        <mxCell id="fkJchKxowWVBL3eInmO--4" parent="fkJchKxowWVBL3eInmO--1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;fillColor=#cce5ff;strokeColor=#63BEF2;" value="" vertex="1">
-          <mxGeometry height="130" width="310" x="290" y="-140" as="geometry" />
-        </mxCell>
+        <UserObject label="" link="data:page/id,OGPrNFHLLdxbE9lFPMKi" id="fkJchKxowWVBL3eInmO--4">
+          <mxCell parent="fkJchKxowWVBL3eInmO--1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;fillColor=#cce5ff;strokeColor=#63BEF2;" vertex="1">
+            <mxGeometry height="130" width="310" x="290" y="-140" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="fkJchKxowWVBL3eInmO--5" parent="fkJchKxowWVBL3eInmO--1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;strokeColor=#63BEF2;" value="" vertex="1">
           <mxGeometry height="420" width="160" x="620" y="-300" as="geometry" />
         </mxCell>
@@ -909,7 +911,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2026 Kvantitative data" id="fCOxPuLe3M4jlH9xhcqQ">
-    <mxGraphModel dx="1410" dy="2018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1410" dy="2011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Nz5zQUxFAAgijD7XDCru-0" />
         <mxCell id="Nz5zQUxFAAgijD7XDCru-1" parent="Nz5zQUxFAAgijD7XDCru-0" />
@@ -919,9 +921,11 @@
         <mxCell id="Nz5zQUxFAAgijD7XDCru-4" parent="Nz5zQUxFAAgijD7XDCru-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;strokeColor=#63BEF2;" value="" vertex="1">
           <mxGeometry height="420" width="340" x="270" y="-300" as="geometry" />
         </mxCell>
-        <mxCell id="Nz5zQUxFAAgijD7XDCru-5" parent="Nz5zQUxFAAgijD7XDCru-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;fillColor=#cce5ff;strokeColor=#63BEF2;" value="" vertex="1">
-          <mxGeometry height="130" width="310" x="290" y="-140" as="geometry" />
-        </mxCell>
+        <UserObject label="" link="data:page/id,OGPrNFHLLdxbE9lFPMKi" id="Nz5zQUxFAAgijD7XDCru-5">
+          <mxCell parent="Nz5zQUxFAAgijD7XDCru-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;fillColor=#cce5ff;strokeColor=#63BEF2;" vertex="1">
+            <mxGeometry height="130" width="310" x="290" y="-140" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="Nz5zQUxFAAgijD7XDCru-6" parent="Nz5zQUxFAAgijD7XDCru-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;strokeColor=#63BEF2;" value="" vertex="1">
           <mxGeometry height="420" width="160" x="620" y="-300" as="geometry" />
         </mxCell>
@@ -1120,7 +1124,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2026 Etterforskning" id="PyH7NhrLo3BBwCoIvYX1">
-    <mxGraphModel dx="1410" dy="2018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1410" dy="2011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="UKT3Ga85LtX9qhB_frRq-0" />
         <mxCell id="UKT3Ga85LtX9qhB_frRq-1" parent="UKT3Ga85LtX9qhB_frRq-0" />
@@ -1135,9 +1139,11 @@
         <mxCell id="UKT3Ga85LtX9qhB_frRq-4" parent="UKT3Ga85LtX9qhB_frRq-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;strokeColor=#63BEF2;" value="" vertex="1">
           <mxGeometry height="420" width="340" x="270" y="-300" as="geometry" />
         </mxCell>
-        <mxCell id="UKT3Ga85LtX9qhB_frRq-5" parent="UKT3Ga85LtX9qhB_frRq-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;fillColor=#cce5ff;strokeColor=#63BEF2;" value="" vertex="1">
-          <mxGeometry height="130" width="310" x="290" y="-140" as="geometry" />
-        </mxCell>
+        <UserObject label="" link="data:page/id,OGPrNFHLLdxbE9lFPMKi" id="UKT3Ga85LtX9qhB_frRq-5">
+          <mxCell parent="UKT3Ga85LtX9qhB_frRq-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;fillColor=#cce5ff;strokeColor=#63BEF2;" vertex="1">
+            <mxGeometry height="130" width="310" x="290" y="-140" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="UKT3Ga85LtX9qhB_frRq-6" parent="UKT3Ga85LtX9qhB_frRq-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;shadow=0;strokeColor=#63BEF2;" value="" vertex="1">
           <mxGeometry height="420" width="160" x="620" y="-300" as="geometry" />
         </mxCell>
